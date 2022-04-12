@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="0f7d2ee1-9e77-448e-a963-980c62abf261" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Básně z koncentračního tábora</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Předmluva</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Úvodní</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Za bratrem Karlem</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Na spánek</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Rozbřesk</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Vězeňská procházka</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Vzpomínka I</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Čekání</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_012.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Bez názvu</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_013.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Stesk</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_014.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Únava</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_015.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Jako vy</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_016.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Tíseň</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_017.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Pondělí</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_018.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Čas zajetí</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_019.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Vzpomínka na Karla</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_020.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Šílený</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_021.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Vězeňská procházka II</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_022.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Básníci</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_023.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Snad nikdo</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_024.html"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Čas příliš pomalý</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_025.html"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Z jara</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_026.html"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Ráno</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_027.html"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Co všechno</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_028.html"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Vzpomínka II</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_029.html"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Den i noc</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_030.html"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Cvrček</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_031.html"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Za bratrem</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_032.html"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>V předjaří</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_033.html"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Oblaka</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_034.html"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Mřížemi</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_035.html"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Vítr</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_036.html"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Obrazy</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_037.html"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Kdysi</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_038.html"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Sem a tam</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_039.html"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Zpěvák</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_040.html"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Melancholie</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_041.html"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Mrtvé s vozu…</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_042.html"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Verše</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_043.html"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Škoda přeškoda</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_044.html"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Oknem své cely…</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_045.html"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Sem k nám</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_046.html"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Ač jeden jen lidský život</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_047.html"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>K Rilkově básni</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_048.html"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>Místo dopisu</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_049.html"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Nechť jak chce zle</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_050.html"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>Na máchovský motiv</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_051.html"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_052.html"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Mrtví z Heinkel</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_053.html"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Mrtvého nesli</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_054.html"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Zářivou oponou</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_055.html"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Když plachá divá zvěř —</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_056.html"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>Svlačec</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_057.html"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Píseň</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_058.html"/>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>Píseň</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_059.html"/>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>Já dávno života zvuk šťastný nezaslech…</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_060.html"/>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>Jedna pravda</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_061.html"/>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>Zbědovaný</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_062.html"/>
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>Pěnkava</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_063.html"/>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>V bouřlivém dění</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_064.html"/>
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>Jestliže, vězni</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_065.html"/>
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>Čekání</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_066.html"/>
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>Ty, který…</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_067.html"/>
+    </navPoint>
+    <navPoint id="navPoint-64" playOrder="64">
+      <navLabel>
+        <text>O naději</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_068.html"/>
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>Pátý rok</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_069.html"/>
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>V zlatavé záři</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_070.html"/>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>Pět roků</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_071.html"/>
+    </navPoint>
+    <navPoint id="navPoint-68" playOrder="68">
+      <navLabel>
+        <text>Pět roků</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_072.html"/>
+    </navPoint>
+    <navPoint id="navPoint-69" playOrder="69">
+      <navLabel>
+        <text>Za bratrem</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_073.html"/>
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>Pět roků</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_074.html"/>
+    </navPoint>
+    <navPoint id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>Nechť</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_075.html"/>
+    </navPoint>
+    <navPoint id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>Podzimu namále</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_076.html"/>
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>Listopad 1944</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_077.html"/>
+    </navPoint>
+    <navPoint id="navPoint-74" playOrder="74">
+      <navLabel>
+        <text>Těžká chvíle</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_078.html"/>
+    </navPoint>
+    <navPoint id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>Píseň</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_079.html"/>
+    </navPoint>
+    <navPoint id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>Chvíle beznaděje</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_080.html"/>
+    </navPoint>
+    <navPoint id="navPoint-77" playOrder="77">
+      <navLabel>
+        <text>Přátelům</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_081.html"/>
+    </navPoint>
+    <navPoint id="navPoint-78" playOrder="78">
+      <navLabel>
+        <text>Píseň</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_082.html"/>
+    </navPoint>
+    <navPoint id="navPoint-79" playOrder="79">
+      <navLabel>
+        <text>Píseň</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_083.html"/>
+    </navPoint>
+    <navPoint id="navPoint-80" playOrder="80">
+      <navLabel>
+        <text>Verše</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_084.html"/>
+    </navPoint>
+    <navPoint id="navPoint-81" playOrder="81">
+      <navLabel>
+        <text>Té ohavnosti</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_085.html"/>
+    </navPoint>
+    <navPoint id="navPoint-82" playOrder="82">
+      <navLabel>
+        <text>Píseň</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_086.html"/>
+    </navPoint>
+    <navPoint id="navPoint-83" playOrder="83">
+      <navLabel>
+        <text>Mužové</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_087.html"/>
+    </navPoint>
+    <navPoint id="navPoint-84" playOrder="84">
+      <navLabel>
+        <text>Pocta ženám</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_088.html"/>
+    </navPoint>
+    <navPoint id="navPoint-85" playOrder="85">
+      <navLabel>
+        <text>Tak mnohý</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_089.html"/>
+    </navPoint>
+    <navPoint id="navPoint-86" playOrder="86">
+      <navLabel>
+        <text>Mé srdce</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_090.html"/>
+    </navPoint>
+    <navPoint id="navPoint-87" playOrder="87">
+      <navLabel>
+        <text>Prosinec 1944</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_091.html"/>
+    </navPoint>
+    <navPoint id="navPoint-88" playOrder="88">
+      <navLabel>
+        <text>Štědrý den v táboře</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_092.html"/>
+    </navPoint>
+    <navPoint id="navPoint-89" playOrder="89">
+      <navLabel>
+        <text>Ve výročí úmrtí</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_093.html"/>
+    </navPoint>
+    <navPoint id="navPoint-90" playOrder="90">
+      <navLabel>
+        <text>Mé ženě</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_094.html"/>
+    </navPoint>
+    <navPoint id="navPoint-91" playOrder="91">
+      <navLabel>
+        <text>Píseň</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_095.html"/>
+    </navPoint>
+    <navPoint id="navPoint-92" playOrder="92">
+      <navLabel>
+        <text>Píseň</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_096.html"/>
+    </navPoint>
+    <navPoint id="navPoint-93" playOrder="93">
+      <navLabel>
+        <text>X</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_097.html"/>
+    </navPoint>
+    <navPoint id="navPoint-94" playOrder="94">
+      <navLabel>
+        <text>Píseň</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_098.html"/>
+    </navPoint>
+    <navPoint id="navPoint-95" playOrder="95">
+      <navLabel>
+        <text>Píseň</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_099.html"/>
+    </navPoint>
+    <navPoint id="navPoint-96" playOrder="96">
+      <navLabel>
+        <text>Píseň</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_100.html"/>
+    </navPoint>
+    <navPoint id="navPoint-97" playOrder="97">
+      <navLabel>
+        <text>Píseň</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_101.html"/>
+    </navPoint>
+    <navPoint id="navPoint-98" playOrder="98">
+      <navLabel>
+        <text>Vítr</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_102.html"/>
+    </navPoint>
+    <navPoint id="navPoint-99" playOrder="99">
+      <navLabel>
+        <text>Na chvilku zvolni svůj běh</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_103.html"/>
+    </navPoint>
+    <navPoint id="navPoint-100" playOrder="100">
+      <navLabel>
+        <text>Rakví</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_104.html"/>
+    </navPoint>
+    <navPoint id="navPoint-101" playOrder="101">
+      <navLabel>
+        <text>Píseň</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_105.html"/>
+    </navPoint>
+    <navPoint id="navPoint-102" playOrder="102">
+      <navLabel>
+        <text>Ne dálka</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_106.html"/>
+    </navPoint>
+    <navPoint id="navPoint-103" playOrder="103">
+      <navLabel>
+        <text>Mrtvým</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_107.html"/>
+    </navPoint>
+    <navPoint id="navPoint-104" playOrder="104">
+      <navLabel>
+        <text>Josefu Kořínkovi</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_108.html"/>
+    </navPoint>
+    <navPoint id="navPoint-105" playOrder="105">
+      <navLabel>
+        <text>Ne ještě dávno</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_109.html"/>
+    </navPoint>
+    <navPoint id="navPoint-106" playOrder="106">
+      <navLabel>
+        <text>Mé dceři</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_110.html"/>
+    </navPoint>
+    <navPoint id="navPoint-107" playOrder="107">
+      <navLabel>
+        <text>Stříbrným krajkovím</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_111.html"/>
+    </navPoint>
+    <navPoint id="navPoint-108" playOrder="108">
+      <navLabel>
+        <text>Komíny skřípají</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_112.html"/>
+    </navPoint>
+    <navPoint id="navPoint-109" playOrder="109">
+      <navLabel>
+        <text>Byť i po noci</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_113.html"/>
+    </navPoint>
+    <navPoint id="navPoint-110" playOrder="110">
+      <navLabel>
+        <text>Poslední sníh</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_114.html"/>
+    </navPoint>
+    <navPoint id="navPoint-111" playOrder="111">
+      <navLabel>
+        <text>Až na dně života</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_115.html"/>
+    </navPoint>
+    <navPoint id="navPoint-112" playOrder="112">
+      <navLabel>
+        <text>V předjarním slunci</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_116.html"/>
+    </navPoint>
+    <navPoint id="navPoint-113" playOrder="113">
+      <navLabel>
+        <text>Ten tichý hlas</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_117.html"/>
+    </navPoint>
+    <navPoint id="navPoint-114" playOrder="114">
+      <navLabel>
+        <text>Na naše ženy</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_118.html"/>
+    </navPoint>
+    <navPoint id="navPoint-115" playOrder="115">
+      <navLabel>
+        <text>Zima</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_119.html"/>
+    </navPoint>
+    <navPoint id="navPoint-116" playOrder="116">
+      <navLabel>
+        <text>Předjaří</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_120.html"/>
+    </navPoint>
+    <navPoint id="navPoint-117" playOrder="117">
+      <navLabel>
+        <text>Čekání</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_121.html"/>
+    </navPoint>
+    <navPoint id="navPoint-118" playOrder="118">
+      <navLabel>
+        <text>Lidskost a přátelství</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_122.html"/>
+    </navPoint>
+    <navPoint id="navPoint-119" playOrder="119">
+      <navLabel>
+        <text>Těžkomyslnost (K. Cidlíkovi)</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_123.html"/>
+      <navPoint id="navPoint-120" playOrder="120">
+        <navLabel>
+          <text>I.</text>
+        </navLabel>
+        <content src="Text/basne_z_koncentracniho_tabora_123.html#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-121" playOrder="121">
+        <navLabel>
+          <text>II.</text>
+        </navLabel>
+        <content src="Text/basne_z_koncentracniho_tabora_123.html#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-122" playOrder="122">
+        <navLabel>
+          <text>III.</text>
+        </navLabel>
+        <content src="Text/basne_z_koncentracniho_tabora_123.html#sigil_toc_id_3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-123" playOrder="123">
+      <navLabel>
+        <text>Tak se rozlétnout</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_124.html"/>
+    </navPoint>
+    <navPoint id="navPoint-124" playOrder="124">
+      <navLabel>
+        <text>Před velikou cestou</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_125.html"/>
+    </navPoint>
+    <navPoint id="navPoint-125" playOrder="125">
+      <navLabel>
+        <text>Ediční poznámka</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_126.html"/>
+    </navPoint>
+    <navPoint id="navPoint-126" playOrder="126">
+      <navLabel>
+        <text>Život a doba spisovatele Josefa Čapka v datech</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_127.html"/>
+    </navPoint>
+    <navPoint id="navPoint-127" playOrder="127">
+      <navLabel>
+        <text>První vydání knih Josefa Čapka</text>
+      </navLabel>
+      <content src="Text/basne_z_koncentracniho_tabora_128.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

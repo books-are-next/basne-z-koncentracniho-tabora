@@ -1,0 +1,1094 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Básně z koncentračního tábora",
+    "identifier": "0f7d2ee1-9e77-448e-a963-980c62abf261",
+    "author": "Josef Čapek",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2018-01-15T00:00:00.000Z",
+    "published": "2018-01-19T00:00:00.000Z",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_028.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_029.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_030.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_031.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_032.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_033.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_034.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_035.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_036.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_037.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_038.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_039.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_040.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_041.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_042.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_043.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_044.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_045.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_046.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_047.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_048.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_049.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_050.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_051.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_052.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_053.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_054.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_055.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_056.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_057.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_058.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_059.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_060.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_061.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_062.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_063.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_064.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_065.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_066.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_067.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_068.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_069.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_070.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_071.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_072.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_073.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_074.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_075.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_076.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_077.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_078.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_079.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_080.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_081.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_082.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_083.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_084.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_085.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_086.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_087.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_088.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_089.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_090.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_091.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_092.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_093.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_094.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_095.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_096.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_097.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_098.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_099.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_100.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_101.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_102.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_103.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_104.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_105.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_106.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_107.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_108.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_109.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_110.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_111.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_112.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_113.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_114.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_115.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_116.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_117.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_118.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_119.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_120.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_121.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_122.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_123.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_124.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_125.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_126.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_127.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_128.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_129.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image003.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Předmluva",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_005.html"
+    },
+    {
+      "title": "Úvodní",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_006.html"
+    },
+    {
+      "title": "Za bratrem Karlem",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_007.html"
+    },
+    {
+      "title": "Na spánek",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_008.html"
+    },
+    {
+      "title": "Rozbřesk",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_009.html"
+    },
+    {
+      "title": "Vězeňská procházka",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_010.html"
+    },
+    {
+      "title": "Vzpomínka I",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_011.html"
+    },
+    {
+      "title": "Čekání",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_012.html"
+    },
+    {
+      "title": "Bez názvu",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_013.html"
+    },
+    {
+      "title": "Stesk",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_014.html"
+    },
+    {
+      "title": "Únava",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_015.html"
+    },
+    {
+      "title": "Jako vy",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_016.html"
+    },
+    {
+      "title": "Tíseň",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_017.html"
+    },
+    {
+      "title": "Pondělí",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_018.html"
+    },
+    {
+      "title": "Čas zajetí",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_019.html"
+    },
+    {
+      "title": "Vzpomínka na Karla",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_020.html"
+    },
+    {
+      "title": "Šílený",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_021.html"
+    },
+    {
+      "title": "Vězeňská procházka II",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_022.html"
+    },
+    {
+      "title": "Básníci",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_023.html"
+    },
+    {
+      "title": "Snad nikdo",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_024.html"
+    },
+    {
+      "title": "Čas příliš pomalý",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_025.html"
+    },
+    {
+      "title": "Z jara",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_026.html"
+    },
+    {
+      "title": "Ráno",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_027.html"
+    },
+    {
+      "title": "Co všechno",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_028.html"
+    },
+    {
+      "title": "Vzpomínka II",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_029.html"
+    },
+    {
+      "title": "Den i noc",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_030.html"
+    },
+    {
+      "title": "Cvrček",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_031.html"
+    },
+    {
+      "title": "Za bratrem",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_032.html"
+    },
+    {
+      "title": "V předjaří",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_033.html"
+    },
+    {
+      "title": "Oblaka",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_034.html"
+    },
+    {
+      "title": "Mřížemi",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_035.html"
+    },
+    {
+      "title": "Vítr",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_036.html"
+    },
+    {
+      "title": "Obrazy",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_037.html"
+    },
+    {
+      "title": "Kdysi",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_038.html"
+    },
+    {
+      "title": "Sem a tam",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_039.html"
+    },
+    {
+      "title": "Zpěvák",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_040.html"
+    },
+    {
+      "title": "Melancholie",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_041.html"
+    },
+    {
+      "title": "Mrtvé s vozu…",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_042.html"
+    },
+    {
+      "title": "Verše",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_043.html"
+    },
+    {
+      "title": "Škoda přeškoda",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_044.html"
+    },
+    {
+      "title": "Oknem své cely…",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_045.html"
+    },
+    {
+      "title": "Sem k nám",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_046.html"
+    },
+    {
+      "title": "Ač jeden jen lidský život",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_047.html"
+    },
+    {
+      "title": "K Rilkově básni",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_048.html"
+    },
+    {
+      "title": "Místo dopisu",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_049.html"
+    },
+    {
+      "title": "Nechť jak chce zle",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_050.html"
+    },
+    {
+      "title": "Na máchovský motiv",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_051.html"
+    },
+    {
+      "title": "Ty",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_052.html"
+    },
+    {
+      "title": "Mrtví z Heinkel",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_053.html"
+    },
+    {
+      "title": "Mrtvého nesli",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_054.html"
+    },
+    {
+      "title": "Zářivou oponou",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_055.html"
+    },
+    {
+      "title": "Když plachá divá zvěř —",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_056.html"
+    },
+    {
+      "title": "Svlačec",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_057.html"
+    },
+    {
+      "title": "Píseň",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_058.html"
+    },
+    {
+      "title": "Píseň",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_059.html"
+    },
+    {
+      "title": "Já dávno života zvuk šťastný nezaslech…",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_060.html"
+    },
+    {
+      "title": "Jedna pravda",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_061.html"
+    },
+    {
+      "title": "Zbědovaný",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_062.html"
+    },
+    {
+      "title": "Pěnkava",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_063.html"
+    },
+    {
+      "title": "V bouřlivém dění",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_064.html"
+    },
+    {
+      "title": "Jestliže, vězni",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_065.html"
+    },
+    {
+      "title": "Čekání",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_066.html"
+    },
+    {
+      "title": "Ty, který…",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_067.html"
+    },
+    {
+      "title": "O naději",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_068.html"
+    },
+    {
+      "title": "Pátý rok",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_069.html"
+    },
+    {
+      "title": "V zlatavé záři",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_070.html"
+    },
+    {
+      "title": "Pět roků",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_071.html"
+    },
+    {
+      "title": "Pět roků",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_072.html"
+    },
+    {
+      "title": "Za bratrem",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_073.html"
+    },
+    {
+      "title": "Pět roků",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_074.html"
+    },
+    {
+      "title": "Nechť",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_075.html"
+    },
+    {
+      "title": "Podzimu namále",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_076.html"
+    },
+    {
+      "title": "Listopad 1944",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_077.html"
+    },
+    {
+      "title": "Těžká chvíle",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_078.html"
+    },
+    {
+      "title": "Píseň",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_079.html"
+    },
+    {
+      "title": "Chvíle beznaděje",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_080.html"
+    },
+    {
+      "title": "Přátelům",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_081.html"
+    },
+    {
+      "title": "Píseň",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_082.html"
+    },
+    {
+      "title": "Píseň",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_083.html"
+    },
+    {
+      "title": "Verše",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_084.html"
+    },
+    {
+      "title": "Té ohavnosti",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_085.html"
+    },
+    {
+      "title": "Píseň",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_086.html"
+    },
+    {
+      "title": "Mužové",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_087.html"
+    },
+    {
+      "title": "Pocta ženám",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_088.html"
+    },
+    {
+      "title": "Tak mnohý",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_089.html"
+    },
+    {
+      "title": "Mé srdce",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_090.html"
+    },
+    {
+      "title": "Prosinec 1944",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_091.html"
+    },
+    {
+      "title": "Štědrý den v táboře",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_092.html"
+    },
+    {
+      "title": "Ve výročí úmrtí",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_093.html"
+    },
+    {
+      "title": "Mé ženě",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_094.html"
+    },
+    {
+      "title": "Píseň",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_095.html"
+    },
+    {
+      "title": "Píseň",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_096.html"
+    },
+    {
+      "title": "X",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_097.html"
+    },
+    {
+      "title": "Píseň",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_098.html"
+    },
+    {
+      "title": "Píseň",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_099.html"
+    },
+    {
+      "title": "Píseň",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_100.html"
+    },
+    {
+      "title": "Píseň",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_101.html"
+    },
+    {
+      "title": "Vítr",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_102.html"
+    },
+    {
+      "title": "Na chvilku zvolni svůj běh",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_103.html"
+    },
+    {
+      "title": "Rakví",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_104.html"
+    },
+    {
+      "title": "Píseň",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_105.html"
+    },
+    {
+      "title": "Ne dálka",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_106.html"
+    },
+    {
+      "title": "Mrtvým",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_107.html"
+    },
+    {
+      "title": "Josefu Kořínkovi",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_108.html"
+    },
+    {
+      "title": "Ne ještě dávno",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_109.html"
+    },
+    {
+      "title": "Mé dceři",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_110.html"
+    },
+    {
+      "title": "Stříbrným krajkovím",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_111.html"
+    },
+    {
+      "title": "Komíny skřípají",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_112.html"
+    },
+    {
+      "title": "Byť i po noci",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_113.html"
+    },
+    {
+      "title": "Poslední sníh",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_114.html"
+    },
+    {
+      "title": "Až na dně života",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_115.html"
+    },
+    {
+      "title": "V předjarním slunci",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_116.html"
+    },
+    {
+      "title": "Ten tichý hlas",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_117.html"
+    },
+    {
+      "title": "Na naše ženy",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_118.html"
+    },
+    {
+      "title": "Zima",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_119.html"
+    },
+    {
+      "title": "Předjaří",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_120.html"
+    },
+    {
+      "title": "Čekání",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_121.html"
+    },
+    {
+      "title": "Lidskost a přátelství",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_122.html"
+    },
+    {
+      "title": "Těžkomyslnost (K. Cidlíkovi)",
+      "children": [
+        {
+          "title": "I.",
+          "href": "OEBPS/Text/basne_z_koncentracniho_tabora_123.html#sigil_toc_id_1"
+        },
+        {
+          "title": "II.",
+          "href": "OEBPS/Text/basne_z_koncentracniho_tabora_123.html#sigil_toc_id_2"
+        },
+        {
+          "title": "III.",
+          "href": "OEBPS/Text/basne_z_koncentracniho_tabora_123.html#sigil_toc_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_123.html"
+    },
+    {
+      "title": "Tak se rozlétnout",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_124.html"
+    },
+    {
+      "title": "Před velikou cestou",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_125.html"
+    },
+    {
+      "title": "Ediční poznámka",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_126.html"
+    },
+    {
+      "title": "Život a doba spisovatele Josefa Čapka v datech",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_127.html"
+    },
+    {
+      "title": "První vydání knih Josefa Čapka",
+      "href": "OEBPS/Text/basne_z_koncentracniho_tabora_128.html"
+    }
+  ]
+}

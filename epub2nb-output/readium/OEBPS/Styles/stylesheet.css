@@ -1,0 +1,314 @@
+.calibre {
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    text-justify-trim: punctuation;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    display: block
+    }
+.calibre3 {
+    letter-spacing: -0.1pt
+    }
+.calibre4 {
+    color: gray;
+    display: block;
+    height: 2px;
+    text-align: center;
+    border: currentColor inset 1px;
+    margin: 0.5em auto
+    }
+.calibre5 {
+    color: windowtext;
+    text-decoration: none
+    }
+.calibre6 {
+    height: 30px;
+    width: 87px
+    }
+.calibre7 {
+    height: 31px;
+    width: 86px
+    }
+.calibre8 {
+    height: 81px;
+    width: 81px
+    }
+.calibre9 {
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 110%
+    }
+.calibre10 {
+    color: windowtext;
+    display: none;
+    text-decoration: none
+    }
+.calibre11 {
+    font-style: italic
+    }
+.calibre12 {
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 115%
+    }
+.calibre13 {
+    line-height: 110%
+    }
+.calibre14 {
+    font-family: "Times New Roman", "serif"
+    }
+.calibre15 {
+    color: white
+    }
+.calibre16 {
+    font-size: 0.77419em;
+    font-weight: normal;
+    line-height: 110%
+    }
+.e-bookdejapoznamkychar {
+    font-family: "Book Antiqua", "serif";
+    font-style: italic
+    }
+.mlpdopispodpisi {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    font-style: italic;
+    line-height: 110%;
+    text-align: right;
+    margin: 6pt 14.2pt 12pt 0
+    }
+.mlphvezdicky {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 110%;
+    margin: 6pt 0 6pt 4cm
+    }
+.mlplicencehypertext {
+    color: blue;
+    font-family: "Cambria", "serif";
+    text-decoration: underline;
+    vertical-align: baseline
+    }
+.mlplicenceobrazek {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 0.75em;
+    text-align: center;
+    margin: 6pt 0 4.5pt
+    }
+.mlplicencetext {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 0.75em;
+    line-height: 110%;
+    text-align: center;
+    margin: 0 0 0.0001pt
+    }
+.mlpobrazky {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 110%;
+    text-align: center;
+    margin: 12pt 0 0.0001pt
+    }
+.mlpobsah {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+    margin: 12pt 0
+    }
+.mlptextbez1radku {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 110%;
+    text-align: justify;
+    margin: 0 0 0.0001pt
+    }
+.mlptextbez1radku1 {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 110%;
+    text-align: center;
+    margin: 0 0 0.0001pt
+    }
+.mlptextbez1radku2 {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 110%;
+    text-align: justify;
+    margin: 12pt 0 0.0001pt
+    }
+.mlptextbez1radkub {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 110%;
+    text-align: justify;
+    margin: 0 0 0.0001pt
+    }
+.mlptextcapekseznam {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 110%;
+    text-align: justify;
+    margin: 0 0 6pt
+    }
+.mlptirazautoranazev {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1;
+    margin: 0 0 0.0001pt
+    }
+.mlptitulkaautor {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1.4em;
+    line-height: 1;
+    text-align: center;
+    margin: 18pt 0 0.0001pt
+    }
+.mlptitulkanazev {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 2em;
+    line-height: 110%;
+    text-align: center;
+    margin: 120pt 0 0.0001pt
+    }
+.mlpuroven2basne {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1.4em;
+    font-weight: bold;
+    line-height: 110%;
+    margin: 18pt 42.55pt 36pt
+    }
+.mlpuroven2kapitola {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1.6em;
+    font-weight: bold;
+    line-height: 1;
+    text-align: center;
+    margin: 18pt 0 12pt
+    }
+.mlpuroven3basne {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 110%;
+    margin: 18pt 42.55pt 12pt
+    }
+.mlpverse {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 110%;
+    margin: 12pt 42.55pt
+    }
+.mlpverse1 {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 110%;
+    margin: 12pt 22.6pt 12pt 42.55pt
+    }
+.mlpverse2 {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 110%;
+    margin: 12pt 1.3pt 12pt 42.55pt
+    }
+.mlpznaktucnakurziva11b {
+    font-family: "Cambria", "serif";
+    font-style: italic;
+    font-weight: bold
+    }
+.mlpznaktucne {
+    font-family: "Cambria", "serif";
+    font-weight: bold
+    }
+.msonormal {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 115%;
+    margin: 0 0 0.0001pt
+    }
+.msonormal1 {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 110%;
+    text-align: justify;
+    text-indent: 14.2pt;
+    margin: 0 0 0.0001pt
+    }
+.msonormal2 {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 110%;
+    text-align: right;
+    margin: 6pt 14.2pt 12pt 0
+    }
+.msotoc {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 115%;
+    margin: 0 0 0.0001pt 11.05pt
+    }
+.msotoc1 {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 115%;
+    margin: 0 0 0.0001pt 22.1pt
+    }
+.wordsection {
+    display: block;
+    page: WordSection1
+    }
+.wordsection1 {
+    display: block;
+    page: WordSection2
+    }
+.wordsection2 {
+    display: block;
+    page: WordSection3
+    }
+.wordsection3 {
+    display: block;
+    page: WordSection4
+    }
+.pcalibre:link {
+    color: blue;
+    font-family: "Cambria", "serif";
+    text-decoration: underline
+    }
+.pcalibre1:visited {
+    color: purple;
+    text-decoration: underline
+    }
