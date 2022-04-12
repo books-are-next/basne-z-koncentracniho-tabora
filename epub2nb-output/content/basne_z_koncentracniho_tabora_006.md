@@ -1,8 +1,7 @@
 ---
+title: Úvodní
 contentType: prose
 ---
-
-## Úvodní
 
 Za těla i duše trápení  
 jsem skládal tato slova;  

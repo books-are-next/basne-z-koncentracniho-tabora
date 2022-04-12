@@ -1,8 +1,7 @@
 ---
+title: Rozbřesk
 contentType: prose
 ---
-
-## Rozbřesk
 
 Eh, přece je to pravda  
 a není to zlý sen,  

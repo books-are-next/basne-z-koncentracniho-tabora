@@ -1,8 +1,7 @@
 ---
+title: Na chvilku zvolni svůj běh
 contentType: prose
 ---
-
-## Na chvilku zvolni svůj běh
 
 Jen na chvilku zvolni svůj běh  
 a ptáti se nech, ty živote drsný a divý!  

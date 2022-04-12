@@ -1,8 +1,7 @@
 ---
+title: Tíseň
 contentType: prose
 ---
-
-## Tíseň
 
 Hej, vzhůru, bijí na zvonec,  
 noci už dovršena míra!  

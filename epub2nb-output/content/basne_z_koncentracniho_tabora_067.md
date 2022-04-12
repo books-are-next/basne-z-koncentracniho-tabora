@@ -1,8 +1,9 @@
 ---
+title: |-
+  Ty,
+  který…
 contentType: prose
 ---
-
-## Ty, který…
 
 Ty, který ve vězení  
 spřádáš svůj roztouženě zkrášlený sen o životě,  

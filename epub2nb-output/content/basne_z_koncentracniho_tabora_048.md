@@ -1,8 +1,9 @@
 ---
+title: |-
+  K Rilkově
+  básni
 contentType: prose
 ---
-
-## K Rilkově básni
 
 V zahradách božích mlčky jíti  
 anděly, blažený, jsi zřel,  

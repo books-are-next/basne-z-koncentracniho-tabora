@@ -1,8 +1,7 @@
 ---
+title: Cvrček
 contentType: prose
 ---
-
-## Cvrček
 
 Ustaň už, cvrčku, s tou svou rolničkou,  
 co tu chceš se svou písničkou?  

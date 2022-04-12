@@ -1,8 +1,9 @@
 ---
+title: |-
+  Ne
+  dálka
 contentType: prose
 ---
-
-## Ne dálka
 
 Ne dálka dělí nás, však propast běd!  
 biblické rány! v základech svých praská svět  

@@ -1,8 +1,7 @@
 ---
+title: Píseň
 contentType: prose
 ---
-
-## Píseň
 
 Vesele nemohu, smutně nechci,  
 domove vzdálený! nastal zlý čas,  

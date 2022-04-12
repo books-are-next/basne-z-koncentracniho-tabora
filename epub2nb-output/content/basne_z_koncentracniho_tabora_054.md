@@ -1,8 +1,9 @@
 ---
+title: |-
+  Mrtvého
+  nesli
 contentType: prose
 ---
-
-## Mrtvého nesli
 
 Mrtvého nesli, zas jednoho z nás,  
 codenní smrti žeň;  

@@ -1,8 +1,9 @@
 ---
+title: |-
+  Prosinec
+  1944
 contentType: prose
 ---
-
-## Prosinec 1944
 
 Nad blátem tábora pár holých stromů  
 ční k obloze jak ruce prosebné —  

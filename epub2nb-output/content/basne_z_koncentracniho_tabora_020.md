@@ -1,8 +1,9 @@
 ---
+title: |-
+  Vzpomínka
+  na Karla
 contentType: prose
 ---
-
-## Vzpomínka na Karla
 
 Jak světlé a sladké to bylo dřív,  
 když přítomného jsem tě viděl,  

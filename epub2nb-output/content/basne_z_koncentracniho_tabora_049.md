@@ -1,8 +1,9 @@
 ---
+title: |-
+  Místo
+  dopisu
 contentType: prose
 ---
-
-## Místo dopisu
 
 Tak chtělo by se vypovědět čeho duše plna,  
 slova, však slova jsou tak nevýmluvná,  

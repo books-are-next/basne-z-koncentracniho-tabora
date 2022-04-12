@@ -1,8 +1,9 @@
 ---
+title: |-
+  Za
+  bratrem
 contentType: prose
 ---
-
-## Za bratrem
 
 Ty, mrtvý, o mně už nevíš, ty nedbáš, neznáš již,  
 ty už se nepamatuješ, že’s bratra někdy měl,  

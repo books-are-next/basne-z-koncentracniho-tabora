@@ -1,8 +1,9 @@
 ---
+title: |-
+  Sem
+  a tam
 contentType: prose
 ---
-
-## Sem a tam
 
 Sem a tam, v cele, sem a tam,  
 to putování nemá východiska, cíle,  

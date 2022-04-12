@@ -1,8 +1,9 @@
 ---
+title: |-
+  Na
+  naše ženy
 contentType: prose
 ---
-
-## Na naše ženy
 
 Na ně, ušlechtilé, teď musím pomyslit, na naše ženy;  
 domov ztroskotán, nás vzpomínají u vyhaslých krbů  

@@ -1,8 +1,7 @@
 ---
+title: Píseň
 contentType: prose
 ---
-
-## Píseň
 
 Ať bolest, aťsi tesknota,  
 nechť zestaralý, šedý,  

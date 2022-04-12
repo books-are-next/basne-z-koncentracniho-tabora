@@ -1,8 +1,9 @@
 ---
+title: |-
+  Mrtvé
+  s vozu…
 contentType: prose
 ---
-
-## Mrtvé s vozu…
 
 Mrtvé s vozu shazovali jako dříví — ne jak dříví,  
 jak zkažený materiál, jako odpadky, jak smetí,  

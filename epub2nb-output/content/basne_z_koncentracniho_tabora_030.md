@@ -1,8 +1,9 @@
 ---
+title: |-
+  Den
+  i noc
 contentType: prose
 ---
-
-## Den i noc
 
 Ach, kdy už bude konec toho dne!  
 Tak těžce tíží a nic neváží,  

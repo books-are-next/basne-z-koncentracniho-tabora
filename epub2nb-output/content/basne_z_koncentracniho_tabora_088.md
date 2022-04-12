@@ -1,8 +1,9 @@
 ---
+title: |-
+  Pocta
+  ženám
 contentType: prose
 ---
-
-## Pocta ženám
 
 Ne na ni samu zde myslím, ne na tebe jen,  
 má ženo milovaná, která v srdci mém  

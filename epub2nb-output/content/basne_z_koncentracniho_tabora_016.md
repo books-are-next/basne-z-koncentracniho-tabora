@@ -1,8 +1,7 @@
 ---
+title: Jako vy
 contentType: prose
 ---
-
-## Jako vy
 
 Jako vy, oblaka jitřní,  
 růžová, zlatá, stříbroskvoucí,  

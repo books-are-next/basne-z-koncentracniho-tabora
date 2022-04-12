@@ -1,8 +1,9 @@
 ---
+title: |-
+  Tak
+  se rozlétnout
 contentType: prose
 ---
-
-## Tak se rozlétnout
 
 Tak se rozlétnout tím modrým prostorem,  
 s větrem se nést a s oblaky plout…  

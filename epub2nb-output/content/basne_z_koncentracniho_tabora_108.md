@@ -1,8 +1,9 @@
 ---
+title: |-
+  Josefu
+  Kořínkovi
 contentType: prose
 ---
-
-## Josefu Kořínkovi
 
 Co kdysi bylo radostí,  
 tolik je nyní útrap, běd,  

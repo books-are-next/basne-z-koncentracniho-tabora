@@ -1,8 +1,9 @@
 ---
+title: |-
+  Bez
+  názvu
 contentType: prose
 ---
-
-## Bez názvu
 
 Mně prožít věci zlé a strašné bylo dáno,  
 teď zděšen stojím na okraji života;  

@@ -1,8 +1,9 @@
 ---
+title: |-
+  Lidskost
+  a přátelství
 contentType: prose
 ---
-
-## Lidskost a přátelství
 
 Lidskost a přátelství chci velebit  
 a všechno, co se s dobrým srdcem pojí:  

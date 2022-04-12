@@ -1,8 +1,7 @@
 ---
+title: Mrtvým
 contentType: prose
 ---
-
-## Mrtvým
 
 V zármutku černý flór se svěsil přes mramor,  
 do shonu dne katafalk temný stroze ční,  

@@ -1,8 +1,7 @@
 ---
+title: Píseň
 contentType: prose
 ---
-
-## Píseň
 
 Něžná píseň vzpomínání  
 tichounce se rozeznívá,  

@@ -1,8 +1,9 @@
 ---
+title: |-
+  Za
+  bratrem Karlem
 contentType: prose
 ---
-
-## Za bratrem Karlem
 
 O živote, já splatil ti svou daň!  
 Tvou štědrost poznal jsem i tvoji skoupou dlaň,  

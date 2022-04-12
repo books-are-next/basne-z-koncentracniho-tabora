@@ -1,8 +1,7 @@
 ---
+title: Píseň
 contentType: prose
 ---
-
-## Píseň
 
 Ba, zažil jsem až příliš mnoho zlého  
 můj život strašlivou je jámou běd,  

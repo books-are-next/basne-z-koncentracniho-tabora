@@ -1,8 +1,7 @@
 ---
+title: Předjaří
 contentType: prose
 ---
-
-## Předjaří
 
 Již země otvírá se, život se do ní vrací,  
 ó bolný nepokoji, toužně nyvý stesku!  

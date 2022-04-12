@@ -1,8 +1,7 @@
 ---
+title: Oblaka
 contentType: prose
 ---
-
-## Oblaka
 
 Oblaka krásná viděl jsem,  
 tak skvoucí, stříbrná a zlatá,  

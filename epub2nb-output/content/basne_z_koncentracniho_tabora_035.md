@@ -1,8 +1,7 @@
 ---
+title: Mřížemi
 contentType: prose
 ---
-
-## Mřížemi
 
 Smutkem a vztekem otráven  
 dívám se mřížemi žaláře daleko, ven,  

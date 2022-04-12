@@ -1,8 +1,7 @@
 ---
+title: Vítr
 contentType: prose
 ---
-
-## Vítr
 
 Ó větře, vždycky jsem tě ctil  
 a miloval tě obzvlášť v létě  

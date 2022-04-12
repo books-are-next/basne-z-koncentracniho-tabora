@@ -2,13 +2,17 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: poetry
   title: Básně z koncentračního tábora
   identifier: 0f7d2ee1-9e77-448e-a963-980c62abf261
   author: Josef Čapek
   publisher: Městská knihovna v Praze
   modified: '2018-01-15T00:00:00.000Z'
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
   - basne_z_koncentracniho_tabora_001.html
   - basne_z_koncentracniho_tabora_002.html
@@ -143,6 +147,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

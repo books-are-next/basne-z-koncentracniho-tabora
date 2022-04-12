@@ -1,8 +1,7 @@
 ---
+title: Štědrý den v táboře
 contentType: prose
 ---
-
-## Štědrý den v táboře
 
 Dnes, dceruško má, o tom sním,  
 že bys ještě byla malá  

@@ -1,8 +1,7 @@
 ---
+title: Nechť
 contentType: prose
 ---
-
-## Nechť
 
 Nechť hrůza, hnus, nechť bída, soužení,  
 ať dny se plíží obtěžkány tmou  

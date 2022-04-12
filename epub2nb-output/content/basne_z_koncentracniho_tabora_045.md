@@ -1,8 +1,9 @@
 ---
+title: |-
+  Oknem
+  své cely…
 contentType: prose
 ---
-
-## Oknem své cely…
 
 Oknem své cely vidím, jak vítr čechrá  
 řiďounkou trávu; v listopadu  

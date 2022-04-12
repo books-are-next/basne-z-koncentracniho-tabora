@@ -1,8 +1,9 @@
 ---
+title: |-
+  Poslední
+  sníh
 contentType: prose
 ---
-
-## Poslední sníh
 
 Poslední sníh na hroudách rozmrzlých  
 už leží jenom ve skvrnách; hrstmi divokými  

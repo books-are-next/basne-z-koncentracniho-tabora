@@ -1,8 +1,7 @@
 ---
+title: Píseň
 contentType: prose
 ---
-
-## Píseň
 
 Světlé radosti světlých dnů,  
 příliš, až příliš mnoho  

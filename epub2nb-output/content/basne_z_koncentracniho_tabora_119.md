@@ -1,8 +1,7 @@
 ---
+title: Zima
 contentType: prose
 ---
-
-## Zima
 
 Černý tábor sněhem zastříkán jak vápnem,  
 smetí kruchých vloček padá z šerých mraků,  

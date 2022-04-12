@@ -1,8 +1,7 @@
 ---
+title: Obrazy
 contentType: prose
 ---
-
-## Obrazy
 
 Tak modrý  
 jako ta obloha,  

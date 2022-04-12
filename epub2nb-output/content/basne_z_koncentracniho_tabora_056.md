@@ -1,8 +1,9 @@
 ---
+title: |-
+  Když
+  plachá divá zvěř —
 contentType: prose
 ---
-
-## Když plachá divá zvěř —
 
 Když plachá divá zvěř, jež v kleci zavřena,  
 když srnec zajatý, chycený lesní pták  

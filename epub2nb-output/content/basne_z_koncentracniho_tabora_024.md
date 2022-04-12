@@ -1,8 +1,9 @@
 ---
+title: |-
+  Snad
+  nikdo
 contentType: prose
 ---
-
-## Snad nikdo
 
 Snad nikdo nebyl ženami tak milován,  
 ach, tolik milován,  

@@ -1,8 +1,7 @@
 ---
+title: Píseň
 contentType: prose
 ---
-
-## Píseň
 
 Šedou oblohu míval jsem rád,  
 pod šedou oblohou se srdce usebírá;  

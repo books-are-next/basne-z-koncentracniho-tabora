@@ -1,8 +1,9 @@
 ---
+title: |-
+  Zářivou
+  oponou
 contentType: prose
 ---
-
-## Zářivou oponou
 
 Zářivou oponou se letní jitro zvedá,  
 jak brána radosti se otevírá,  

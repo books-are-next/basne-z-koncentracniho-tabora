@@ -1,8 +1,9 @@
 ---
+title: |-
+  Mrtví
+  z Heinkel
 contentType: prose
 ---
-
-## Mrtví z Heinkel
 
 Tam doma, doma snad v záplavě slunečné,  
 tam doma v zahradách snad zpívají ptáci,  

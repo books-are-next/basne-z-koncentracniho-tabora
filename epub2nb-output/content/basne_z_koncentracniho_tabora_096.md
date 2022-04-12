@@ -1,8 +1,7 @@
 ---
+title: Píseň
 contentType: prose
 ---
-
-## Píseň
 
 Již připozdívá se, truchlivý den  
 s večerem do náruči noci klesá,  

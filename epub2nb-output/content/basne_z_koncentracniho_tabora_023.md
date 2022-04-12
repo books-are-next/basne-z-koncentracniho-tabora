@@ -1,8 +1,7 @@
 ---
+title: Básníci
 contentType: prose
 ---
-
-## Básníci
 
 Básníci imaginárních bolestí,  
 vy, kterým se život tak snadno protiví,  

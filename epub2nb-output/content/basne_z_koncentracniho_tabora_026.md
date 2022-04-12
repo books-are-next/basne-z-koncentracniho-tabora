@@ -1,8 +1,7 @@
 ---
+title: Z jara
 contentType: prose
 ---
-
-## Z jara
 
 Jitro svou náruč dychtivě rozpnulo do dálek  
 šedivě zamžených ze zimní ještě doby,  

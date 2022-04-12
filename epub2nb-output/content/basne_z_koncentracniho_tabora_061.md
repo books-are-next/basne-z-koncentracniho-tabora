@@ -1,8 +1,9 @@
 ---
+title: |-
+  Jedna
+  pravda
 contentType: prose
 ---
-
-## Jedna pravda
 
 Nechce se člověku na sebe bolest brát,  
 přijímat neštěstí, upadnout v těžký žal.  

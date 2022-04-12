@@ -1,8 +1,7 @@
 ---
+title: Zbědovaný
 contentType: prose
 ---
-
-## Zbědovaný
 
 Zbědovaný, s košilí rozedranou,  
 v cárech, jež nezakryjí jeho rány,  

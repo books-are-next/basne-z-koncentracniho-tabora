@@ -1,8 +1,9 @@
 ---
+title: |-
+  V zlatavé
+  záři
 contentType: prose
 ---
-
-## V zlatavé záři
 
 V zlatavé záři podzimu asi dříme  
 domov můj sladký; či utrpení snad  

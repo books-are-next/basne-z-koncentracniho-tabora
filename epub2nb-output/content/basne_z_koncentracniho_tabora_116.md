@@ -1,8 +1,9 @@
 ---
+title: |-
+  V předjarním
+  slunci
 contentType: prose
 ---
-
-## V předjarním slunci
 
 V předjarním slunci, budiž žel,  
 žádnou radost jsem nenašel  

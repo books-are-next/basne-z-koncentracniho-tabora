@@ -1,8 +1,9 @@
 ---
+title: |-
+  Čas
+  příliš pomalý
 contentType: prose
 ---
-
-## Čas příliš pomalý
 
 Čas příliš pomalý se nad mými dny vláčí,  
 tak těžce na nich leží, nízko je k zemi tlačí,  

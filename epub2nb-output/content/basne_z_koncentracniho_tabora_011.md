@@ -1,8 +1,9 @@
 ---
+title: |-
+  Vzpomínka
+  I
 contentType: prose
 ---
-
-## Vzpomínka I
 
 Stesk s vírou, tíha s nadějí,  
 hořce se vězňův úděl nese!  

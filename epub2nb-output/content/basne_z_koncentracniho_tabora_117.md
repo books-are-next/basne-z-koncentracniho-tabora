@@ -1,8 +1,9 @@
 ---
+title: |-
+  Ten
+  tichý hlas
 contentType: prose
 ---
-
-## Ten tichý hlas
 
 Ten tichý vyčítavý hlas,  
 toť mladosti mé, mládí hlas:  

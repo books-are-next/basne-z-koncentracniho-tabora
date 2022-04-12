@@ -1,8 +1,9 @@
 ---
+title: |-
+  Té
+  ohavnosti
 contentType: prose
 ---
-
-## Té ohavnosti
 
 Té ohavnosti, křivdy, bídy té,  
 té bídy zimničnatě zjitřelé,  

@@ -1,8 +1,7 @@
 ---
+title: Přátelům
 contentType: prose
 ---
-
-## Přátelům
 
 Dříve než odejdu s tohoto světa  
 a v nic se obrátím,  
