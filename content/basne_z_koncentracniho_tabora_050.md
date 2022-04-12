@@ -1,8 +1,9 @@
 ---
+title: |-
+  Nechť
+  jak chce zle
 contentType: prose
 ---
-
-## Nechť jak chce zle
 
 Nechť jak chce zle, nechť sebe hůř,  
 ať toužím, trpím, hynu,  

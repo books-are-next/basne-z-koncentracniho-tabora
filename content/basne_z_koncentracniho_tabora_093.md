@@ -1,8 +1,9 @@
 ---
+title: |-
+  Ve
+  výročí úmrtí
 contentType: prose
 ---
-
-## Ve výročí úmrtí
 
 Dnes před lety, truchlivé loučení,  
 nešťastný bratr jsem u tvého lože stál  

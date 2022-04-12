@@ -1,8 +1,7 @@
 ---
+title: Čekání
 contentType: prose
 ---
-
-## Čekání
 
 Jak dlouhý, dlouhý čas a života jak málo!  
 co z mládí mého jen, co ze stáří se stalo?  

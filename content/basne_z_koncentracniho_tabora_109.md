@@ -1,8 +1,9 @@
 ---
+title: |-
+  Ne
+  ještě dávno
 contentType: prose
 ---
-
-## Ne ještě dávno
 
 Ne, ještě dávno není konec všeho,  
 stále se život ve své slávě skví,  

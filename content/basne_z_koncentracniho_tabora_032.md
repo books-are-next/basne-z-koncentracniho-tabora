@@ -1,8 +1,9 @@
 ---
+title: |-
+  Za
+  bratrem
 contentType: prose
 ---
-
-## Za bratrem
 
 Karle, můj bratře, napořád  
 tě živého i mrtvého v svém srdci nosím,  

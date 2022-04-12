@@ -1,8 +1,7 @@
 ---
+title: Píseň
 contentType: prose
 ---
-
-## Píseň
 
 Když je ti těžko, smutno,  
 tohle já dobře znám,  

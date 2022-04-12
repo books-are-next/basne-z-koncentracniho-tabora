@@ -1,8 +1,7 @@
 ---
+title: Verše
 contentType: prose
 ---
-
-## Verše
 
 Tak dálo se mně uvidět:  
 svou kosu z ruky vypustíc  

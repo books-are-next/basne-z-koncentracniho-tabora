@@ -1,8 +1,7 @@
 ---
+title: V bouřlivém dění
 contentType: prose
 ---
-
-## V bouřlivém dění
 
 V bouřlivém dění plném děsu, běd,  
 ztajena též má bolest, skryt můj žal;  

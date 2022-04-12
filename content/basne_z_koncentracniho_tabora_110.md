@@ -1,8 +1,9 @@
 ---
+title: |-
+  Mé
+  dceři
 contentType: prose
 ---
-
-## Mé dceři
 
 Tak se mně nyní zdá, má dcerko, moje dítě,  
 že nikdy jsem ti dosti neřekl, jak mám tě rád,  

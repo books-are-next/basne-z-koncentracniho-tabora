@@ -1,8 +1,7 @@
 ---
+title: Píseň
 contentType: prose
 ---
-
-## Píseň
 
 Když vstoupil jsem do slunečného rána  
 pod jasnou, šiře rozklenutou oblohu,  

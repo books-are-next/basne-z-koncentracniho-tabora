@@ -1,8 +1,7 @@
 ---
+title: Zpěvák
 contentType: prose
 ---
-
-## Zpěvák
 
 Ty oči tesklivé a smutné tak!  
 Nějaký žal, ó jaký žal  

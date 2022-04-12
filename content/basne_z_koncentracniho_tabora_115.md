@@ -1,8 +1,9 @@
 ---
+title: |-
+  Až
+  na dně života
 contentType: prose
 ---
-
-## Až na dně života
 
 Až na dně života jsem byl, tam dole, nejníže,  
 kde mezi ním a mezi děsem, smrtí  

@@ -1,8 +1,9 @@
 ---
+title: |-
+  Byť
+  i po noci
 contentType: prose
 ---
-
-## Byť i po noci
 
 Byť i po noci těžké jako kámen  
 byl šedý olověný den, ó žádej,  

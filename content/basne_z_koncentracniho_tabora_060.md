@@ -1,9 +1,10 @@
 ---
+title: |-
+  Já
+  dávno života zvuk šťastný
+  nezaslech…
 contentType: prose
 ---
-
-## Já dávno života zvuk šťastný  
-nezaslech…
 
 To bledé ticho, přičernalé, nebo černé též,  
 má v sobě právě smrt; strnulé bezhlasno  

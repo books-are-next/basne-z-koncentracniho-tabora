@@ -1,8 +1,7 @@
 ---
+title: Mužové
 contentType: prose
 ---
-
-## Mužové
 
 Až na dno pekel bylo nám sestoupit,  
 my příliš poznali jsme, co je stesk a žal,  

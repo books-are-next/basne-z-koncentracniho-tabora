@@ -1,8 +1,9 @@
 ---
+title: |-
+  Mé
+  ženě
 contentType: prose
 ---
-
-## Mé ženě
 
 V podobě dívčí zřím vás stále před sebou,  
 ještě dnes v podobě dívčí;  

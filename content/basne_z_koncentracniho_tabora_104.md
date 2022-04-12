@@ -1,8 +1,7 @@
 ---
+title: Rakví
 contentType: prose
 ---
-
-## Rakví
 
 Rakví jsem viděl sta a sta,  
 muničních beden na tisíc,  

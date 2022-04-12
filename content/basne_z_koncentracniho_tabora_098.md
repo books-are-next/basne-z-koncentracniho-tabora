@@ -1,8 +1,7 @@
 ---
+title: Píseň
 contentType: prose
 ---
-
-## Píseň
 
 Z druhého světa viděl jsem  
 mřížemi vězení  

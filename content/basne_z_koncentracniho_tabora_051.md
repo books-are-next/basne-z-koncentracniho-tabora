@@ -1,8 +1,9 @@
 ---
+title: |-
+  Na
+  máchovský motiv
 contentType: prose
 ---
-
-## Na máchovský motiv
 
 Zlatého jitra sen mne roztoužil,  
 když vstal jsem do kalného otravného dne;  

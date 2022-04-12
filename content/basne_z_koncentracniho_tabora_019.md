@@ -1,8 +1,9 @@
 ---
+title: |-
+  Čas
+  zajetí
 contentType: prose
 ---
-
-## Čas zajetí
 
 To není život, to je rakev tísnivá,  
 to hlína hrobu těžce na mně spočívá,  

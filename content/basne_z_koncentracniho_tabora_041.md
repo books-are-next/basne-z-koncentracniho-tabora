@@ -1,8 +1,7 @@
 ---
+title: Melancholie
 contentType: prose
 ---
-
-## Melancholie
 
 Sta a sta těl na sebe natlačených,  
 tito tam stojí, jeden pro druhého  
@@ -24,7 +23,7 @@ a přibylo jich sto; hle, nemohou se vejít,
 rány a řvaní, ach, sta a sta lidí  
 na sebe stěsnaných; ta bída a žal!
 
-\* \* \*
+* * *
 
 Teď sám a sám a v duši plno děsu;  
 snad ořešníci vznášejí se k lesu,  

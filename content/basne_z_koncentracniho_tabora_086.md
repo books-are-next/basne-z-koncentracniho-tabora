@@ -1,8 +1,7 @@
 ---
+title: Píseň
 contentType: prose
 ---
-
-## Píseň
 
 Snad budu ještě dosti stár,  
 snad velká radost čeká mne tu:  

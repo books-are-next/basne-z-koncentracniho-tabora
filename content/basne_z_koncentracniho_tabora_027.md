@@ -1,8 +1,7 @@
 ---
+title: Ráno
 contentType: prose
 ---
-
-## Ráno
 
 Závoje noci už rozehnal ranní van,  
 východ už svoje červánky zžíhá,  

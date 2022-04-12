@@ -1,8 +1,7 @@
 ---
+title: Verše
 contentType: prose
 ---
-
-## Verše
 
 Jen kroků několik od Smrti jsme žili,  
 od Smrti jen krok,  

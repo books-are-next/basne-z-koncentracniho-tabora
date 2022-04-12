@@ -1,8 +1,7 @@
 ---
+title: Píseň
 contentType: prose
 ---
-
-## Píseň
 
 Kdysi, ba dávno tomu, žel,  
 milenci mladí, blažení,  

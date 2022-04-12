@@ -1,8 +1,9 @@
 ---
+title: |-
+  Tak
+  mnohý
 contentType: prose
 ---
-
-## Tak mnohý
 
 Tak mnohý temný den  
 jsem prožil v těžkém napětí:  

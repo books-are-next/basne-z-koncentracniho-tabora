@@ -1,8 +1,7 @@
 ---
+title: Komíny skřípají
 contentType: prose
 ---
-
-## Komíny skřípají
 
 Komíny skřípají, černou cestou se smýká  
 papíru cár, hnaný podzimním větrem;  

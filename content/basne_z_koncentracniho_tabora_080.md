@@ -1,8 +1,9 @@
 ---
+title: |-
+  Chvíle
+  beznaděje
 contentType: prose
 ---
-
-## Chvíle beznaděje
 
 Marně, marně vyhlížím,  
 darmo dychtivě ku předu zírám  

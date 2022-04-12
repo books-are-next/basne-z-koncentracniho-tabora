@@ -1,8 +1,9 @@
 ---
+title: |-
+  Mé
+  srdce
 contentType: prose
 ---
-
-## Mé srdce
 
 Mé srdce je plno děsu,  
 hrůzami jsem naplněn,  

@@ -1,8 +1,9 @@
 ---
+title: |-
+  Stříbrným
+  krajkovím
 contentType: prose
 ---
-
-## Stříbrným krajkovím
 
 Stříbrným krajkovím oblaka se vroubí,  
 tu a tam proráží modro, kdysi má radost,  

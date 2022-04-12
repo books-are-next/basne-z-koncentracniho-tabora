@@ -1,8 +1,9 @@
 ---
+title: |-
+  Listopad
+  1944
 contentType: prose
 ---
-
-## Listopad 1944
 
 Mokro, siro, šeré nebe,  
 dvanáct rakví ráno nesli,  

@@ -1,8 +1,7 @@
 ---
+title: Únava
 contentType: prose
 ---
-
-## Únava
 
 Hnusnosti kalných oken uprášených,  
 černě škvárových cest a zlého, zlého,  

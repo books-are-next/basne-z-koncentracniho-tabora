@@ -1,8 +1,7 @@
 ---
+title: Píseň
 contentType: prose
 ---
-
-## Píseň
 
 Ta píseň chtěla by tvrdě znět,  
 však vzpomínka přichází měkce,  

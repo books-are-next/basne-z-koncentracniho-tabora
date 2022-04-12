@@ -1,8 +1,9 @@
 ---
+title: |-
+  Jestliže,
+  vězni
 contentType: prose
 ---
-
-## Jestliže, vězni
 
 Jestliže, vězni — dávno, jak dávno…  
 zahlédneš hrstku polního kvítí,  

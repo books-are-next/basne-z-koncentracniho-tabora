@@ -1,8 +1,7 @@
 ---
+title: Vítr
 contentType: prose
 ---
-
-## Vítr
 
 Kdo to zde po tmě pláče — co to je?  
 to zbitý naříká či nemocný  

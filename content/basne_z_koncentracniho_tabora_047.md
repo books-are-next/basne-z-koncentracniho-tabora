@@ -1,8 +1,9 @@
 ---
+title: |-
+  Ač
+  jeden jen lidský život
 contentType: prose
 ---
-
-## Ač jeden jen lidský život
 
 Ač jeden jen lidský život, ač jenom zčásti  
 mohl jsem poznat lidskou špatnost a zlobu,  

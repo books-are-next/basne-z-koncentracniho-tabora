@@ -1,8 +1,7 @@
 ---
+title: X
 contentType: prose
 ---
-
-## X
 
 Na popraviště šel  
 ku předu křepkým krokem  

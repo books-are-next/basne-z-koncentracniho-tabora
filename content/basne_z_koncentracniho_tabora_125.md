@@ -1,8 +1,9 @@
 ---
+title: |-
+  Před
+  velikou cestou
 contentType: prose
 ---
-
-## Před velikou cestou
 
 Těžké chvíle, těžké dny,  
 není volby, rozhodnutí,  

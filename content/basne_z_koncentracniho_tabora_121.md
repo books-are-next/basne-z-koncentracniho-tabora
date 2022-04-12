@@ -1,8 +1,7 @@
 ---
+title: Čekání
 contentType: prose
 ---
-
-## Čekání
 
 Temný svazek člověčiny v černých tmách,  
 schoulený na loži bědném,  

@@ -1,8 +1,7 @@
 ---
+title: Šílený
 contentType: prose
 ---
-
-## Šílený
 
 Za dne i noci jsem tě, šíleného, slyšel  
 žalostně naříkati,  

@@ -1,8 +1,7 @@
 ---
+title: Svlačec
 contentType: prose
 ---
-
-## Svlačec
 
 Ty těžký žáre srpnového dne,  
 té vůně ještě, ještě víc!  

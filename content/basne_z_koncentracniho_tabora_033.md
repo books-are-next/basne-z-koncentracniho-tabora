@@ -1,8 +1,7 @@
 ---
+title: V předjaří
 contentType: prose
 ---
-
-## V předjaří
 
 Jitro se vzbouzí v mrákotách; cizotou  
 a nevlídností ranní šero dýše,  

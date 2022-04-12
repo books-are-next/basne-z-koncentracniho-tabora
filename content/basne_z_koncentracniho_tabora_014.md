@@ -1,8 +1,7 @@
 ---
+title: Stesk
 contentType: prose
 ---
-
-## Stesk
 
 Má ženo, moje dítě, domove můj drahý,  
 všechno to moje nejbližší, v takové dáli,  

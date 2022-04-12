@@ -1,8 +1,9 @@
 ---
+title: |-
+  Co
+  všechno
 contentType: prose
 ---
-
-## Co všechno
 
 Co všechno viděly ty staré moje oči!  
 Ty poznaly už tolik krutého a hrozného,  

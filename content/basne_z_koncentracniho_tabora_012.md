@@ -1,8 +1,7 @@
 ---
+title: Čekání
 contentType: prose
 ---
-
-## Čekání
 
 Tak stále čekám, čekám jen,  
 víc nemohu než ustavičně čekat,  

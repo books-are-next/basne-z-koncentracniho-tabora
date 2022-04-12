@@ -1,8 +1,7 @@
 ---
+title: Kdysi
 contentType: prose
 ---
-
-## Kdysi
 
 Kdysi  
 za časů šťastnějších  

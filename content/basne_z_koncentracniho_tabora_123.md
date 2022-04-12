@@ -1,11 +1,11 @@
 ---
+title: |-
+  Těžkomyslnost
+  (K. Cidlíkovi)
 contentType: prose
 ---
 
-## Těžkomyslnost  
-(K. Cidlíkovi)
-
-### I.
+## I.
 
 Mnoho bych mohl vypovědět o tom všem,  
 co z nesvobody pochází a z odloučení:  
@@ -48,7 +48,7 @@ tvá mysl těžká, trudná mysl tvá,
 toť hoře nesvobody, ztráta domova,  
 toť tvoje trýzeň, žalný! trýzeň vězňova!
 
-### II.
+## II.
 
 Kolikrát vzdal jsem se života  
 za ten dlouhý čas věznění,  
@@ -107,7 +107,7 @@ a znovu zase jeho muka na se vzal,
 ze zbabělosti, statečnosti? což já znám?  
 tak všichni, všichni my, já nebyl sám!
 
-### III.
+## III.
 
 Mdlí a neduživí, tupě zasmušilí,  
 kterých přebývá i kteří z mála zbyli,  

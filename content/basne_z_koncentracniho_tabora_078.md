@@ -1,8 +1,9 @@
 ---
+title: |-
+  Těžká
+  chvíle
 contentType: prose
 ---
-
-## Těžká chvíle
 
 Černá peruť mne nestíní,  
 nedrtí příkrov hrobu, však těžká chvíle,  

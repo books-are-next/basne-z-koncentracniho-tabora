@@ -1,8 +1,7 @@
 ---
+title: Ty
 contentType: prose
 ---
-
-## Ty
 
 Ty, jenž tu v hnusu, děsu zbědovaný,  
 jako Job na hnojišti drásáš svoje rány,  

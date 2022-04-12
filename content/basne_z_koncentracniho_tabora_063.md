@@ -1,8 +1,7 @@
 ---
+title: Pěnkava
 contentType: prose
 ---
-
-## Pěnkava
 
 Pěnkavko něžná, zpěváčku roztomilý,  
 ty sladká, zpíváš jako doma kdysi —  

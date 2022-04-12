@@ -1,8 +1,7 @@
 ---
+title: Pondělí
 contentType: prose
 ---
-
-## Pondělí
 
 Zas další týden před sebou —  
 kde stále novou sílu brát  

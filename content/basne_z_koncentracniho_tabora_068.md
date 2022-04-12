@@ -1,8 +1,7 @@
 ---
+title: O naději
 contentType: prose
 ---
-
-## O naději
 
 Bylinku nevzhlednou, tobolku jen pastuší,  
 jsem ze svého okna viděl kvést a odkvétat;  

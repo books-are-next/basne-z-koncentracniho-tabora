@@ -1,8 +1,9 @@
 ---
+title: |-
+  Škoda
+  přeškoda
 contentType: prose
 ---
-
-## Škoda přeškoda
 
 Škoda, přeškoda zhanobeného  
 bezradostného života! Vždyť čím je tomu,  
