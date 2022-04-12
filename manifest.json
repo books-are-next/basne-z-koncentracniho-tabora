@@ -2,38 +2,18 @@
   "author": "Josef Čapek",
   "contenttype": "poetry",
   "edition": "beletrie",
-  "identifier": "capek-basne-z-koncentracniho-tabora-5ad03d8",
+  "identifier": "capek-basne-z-koncentracniho-tabora-5d468de",
   "languagecode": "cs",
   "modified": "2018-01-15T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Básně z koncentračního tábora",
-  "revision": "5ad03d8",
+  "revision": "5d468de",
   "generatedAt": {
-    "date": "Tue Apr 12 2022 07:37:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649749029112
+    "date": "Tue Apr 12 2022 07:42:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649749374391
   },
   "documents": [
-    {
-      "title": "Básně z koncentračního tábora",
-      "file": "basne_z_koncentracniho_tabora_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "basne_z_koncentracniho_tabora_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Básně z koncentračního tábora",
       "file": "basne_z_koncentracniho_tabora_002.html",
@@ -41,48 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "basne_z_koncentracniho_tabora_001.html",
-      "next": "basne_z_koncentracniho_tabora_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Básně z koncentračního tábora",
-      "file": "basne_z_koncentracniho_tabora_003.html",
-      "words": 6,
-      "chars": 39,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 2,
-      "prev": "basne_z_koncentracniho_tabora_002.html",
-      "next": "basne_z_koncentracniho_tabora_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Básně z koncentračního tábora",
-      "file": "basne_z_koncentracniho_tabora_004.html",
-      "words": 85,
-      "chars": 570,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "basne_z_koncentracniho_tabora_003.html",
+      "order": 0,
+      "prev": null,
       "next": "basne_z_koncentracniho_tabora_005.html",
       "toc": [
         {
@@ -101,8 +41,8 @@
       "chars": 1218,
       "ideas": 5,
       "role": "chapter",
-      "order": 4,
-      "prev": "basne_z_koncentracniho_tabora_004.html",
+      "order": 1,
+      "prev": "basne_z_koncentracniho_tabora_002.html",
       "next": "basne_z_koncentracniho_tabora_006.html",
       "toc": [
         {
@@ -121,7 +61,7 @@
       "chars": 6,
       "ideas": 1,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "basne_z_koncentracniho_tabora_005.html",
       "next": "basne_z_koncentracniho_tabora_007.html",
       "toc": [
@@ -141,7 +81,7 @@
       "chars": 6779,
       "ideas": 174,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "basne_z_koncentracniho_tabora_006.html",
       "next": "basne_z_koncentracniho_tabora_008.html",
       "toc": [
@@ -161,7 +101,7 @@
       "chars": 4274,
       "ideas": 161,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "basne_z_koncentracniho_tabora_007.html",
       "next": "basne_z_koncentracniho_tabora_009.html",
       "toc": [
@@ -181,7 +121,7 @@
       "chars": 8,
       "ideas": 1,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "basne_z_koncentracniho_tabora_008.html",
       "next": "basne_z_koncentracniho_tabora_010.html",
       "toc": [
@@ -201,7 +141,7 @@
       "chars": 248,
       "ideas": 12,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "basne_z_koncentracniho_tabora_009.html",
       "next": "basne_z_koncentracniho_tabora_011.html",
       "toc": [
@@ -221,7 +161,7 @@
       "chars": 10,
       "ideas": 2,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "basne_z_koncentracniho_tabora_010.html",
       "next": "basne_z_koncentracniho_tabora_012.html",
       "toc": [
@@ -241,7 +181,7 @@
       "chars": 644,
       "ideas": 21,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "basne_z_koncentracniho_tabora_011.html",
       "next": "basne_z_koncentracniho_tabora_013.html",
       "toc": [
@@ -261,7 +201,7 @@
       "chars": 8,
       "ideas": 2,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "basne_z_koncentracniho_tabora_012.html",
       "next": "basne_z_koncentracniho_tabora_014.html",
       "toc": [
@@ -281,7 +221,7 @@
       "chars": 5,
       "ideas": 1,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "basne_z_koncentracniho_tabora_013.html",
       "next": "basne_z_koncentracniho_tabora_015.html",
       "toc": [
@@ -301,7 +241,7 @@
       "chars": 1186,
       "ideas": 32,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "basne_z_koncentracniho_tabora_014.html",
       "next": "basne_z_koncentracniho_tabora_016.html",
       "toc": [
@@ -321,7 +261,7 @@
       "chars": 7,
       "ideas": 1,
       "role": "chapter",
-      "order": 15,
+      "order": 12,
       "prev": "basne_z_koncentracniho_tabora_015.html",
       "next": "basne_z_koncentracniho_tabora_017.html",
       "toc": [
@@ -341,7 +281,7 @@
       "chars": 296,
       "ideas": 13,
       "role": "chapter",
-      "order": 16,
+      "order": 13,
       "prev": "basne_z_koncentracniho_tabora_016.html",
       "next": "basne_z_koncentracniho_tabora_018.html",
       "toc": [
@@ -361,7 +301,7 @@
       "chars": 7,
       "ideas": 1,
       "role": "chapter",
-      "order": 17,
+      "order": 14,
       "prev": "basne_z_koncentracniho_tabora_017.html",
       "next": "basne_z_koncentracniho_tabora_019.html",
       "toc": [
@@ -381,7 +321,7 @@
       "chars": 9,
       "ideas": 2,
       "role": "chapter",
-      "order": 18,
+      "order": 15,
       "prev": "basne_z_koncentracniho_tabora_018.html",
       "next": "basne_z_koncentracniho_tabora_020.html",
       "toc": [
@@ -401,7 +341,7 @@
       "chars": 17,
       "ideas": 2,
       "role": "chapter",
-      "order": 19,
+      "order": 16,
       "prev": "basne_z_koncentracniho_tabora_019.html",
       "next": "basne_z_koncentracniho_tabora_021.html",
       "toc": [
@@ -421,7 +361,7 @@
       "chars": 6,
       "ideas": 1,
       "role": "chapter",
-      "order": 20,
+      "order": 17,
       "prev": "basne_z_koncentracniho_tabora_020.html",
       "next": "basne_z_koncentracniho_tabora_022.html",
       "toc": [
@@ -441,7 +381,7 @@
       "chars": 20,
       "ideas": 2,
       "role": "chapter",
-      "order": 21,
+      "order": 18,
       "prev": "basne_z_koncentracniho_tabora_021.html",
       "next": "basne_z_koncentracniho_tabora_023.html",
       "toc": [
@@ -461,7 +401,7 @@
       "chars": 7,
       "ideas": 1,
       "role": "chapter",
-      "order": 22,
+      "order": 19,
       "prev": "basne_z_koncentracniho_tabora_022.html",
       "next": "basne_z_koncentracniho_tabora_024.html",
       "toc": [
@@ -481,7 +421,7 @@
       "chars": 758,
       "ideas": 25,
       "role": "chapter",
-      "order": 23,
+      "order": 20,
       "prev": "basne_z_koncentracniho_tabora_023.html",
       "next": "basne_z_koncentracniho_tabora_025.html",
       "toc": [
@@ -501,7 +441,7 @@
       "chars": 768,
       "ideas": 22,
       "role": "chapter",
-      "order": 24,
+      "order": 21,
       "prev": "basne_z_koncentracniho_tabora_024.html",
       "next": "basne_z_koncentracniho_tabora_026.html",
       "toc": [
@@ -521,7 +461,7 @@
       "chars": 6,
       "ideas": 1,
       "role": "chapter",
-      "order": 25,
+      "order": 22,
       "prev": "basne_z_koncentracniho_tabora_025.html",
       "next": "basne_z_koncentracniho_tabora_027.html",
       "toc": [
@@ -541,7 +481,7 @@
       "chars": 4,
       "ideas": 1,
       "role": "chapter",
-      "order": 26,
+      "order": 23,
       "prev": "basne_z_koncentracniho_tabora_026.html",
       "next": "basne_z_koncentracniho_tabora_028.html",
       "toc": [
@@ -561,7 +501,7 @@
       "chars": 356,
       "ideas": 12,
       "role": "chapter",
-      "order": 27,
+      "order": 24,
       "prev": "basne_z_koncentracniho_tabora_027.html",
       "next": "basne_z_koncentracniho_tabora_029.html",
       "toc": [
@@ -581,7 +521,7 @@
       "chars": 207,
       "ideas": 8,
       "role": "chapter",
-      "order": 28,
+      "order": 25,
       "prev": "basne_z_koncentracniho_tabora_028.html",
       "next": "basne_z_koncentracniho_tabora_030.html",
       "toc": [
@@ -601,7 +541,7 @@
       "chars": 378,
       "ideas": 14,
       "role": "chapter",
-      "order": 29,
+      "order": 26,
       "prev": "basne_z_koncentracniho_tabora_029.html",
       "next": "basne_z_koncentracniho_tabora_031.html",
       "toc": [
@@ -621,7 +561,7 @@
       "chars": 6,
       "ideas": 1,
       "role": "chapter",
-      "order": 30,
+      "order": 27,
       "prev": "basne_z_koncentracniho_tabora_030.html",
       "next": "basne_z_koncentracniho_tabora_032.html",
       "toc": [
@@ -641,7 +581,7 @@
       "chars": 9,
       "ideas": 2,
       "role": "chapter",
-      "order": 31,
+      "order": 28,
       "prev": "basne_z_koncentracniho_tabora_031.html",
       "next": "basne_z_koncentracniho_tabora_033.html",
       "toc": [
@@ -661,7 +601,7 @@
       "chars": 10,
       "ideas": 1,
       "role": "chapter",
-      "order": 32,
+      "order": 29,
       "prev": "basne_z_koncentracniho_tabora_032.html",
       "next": "basne_z_koncentracniho_tabora_034.html",
       "toc": [
@@ -681,7 +621,7 @@
       "chars": 1294,
       "ideas": 49,
       "role": "chapter",
-      "order": 33,
+      "order": 30,
       "prev": "basne_z_koncentracniho_tabora_033.html",
       "next": "basne_z_koncentracniho_tabora_035.html",
       "toc": [
@@ -701,7 +641,7 @@
       "chars": 7,
       "ideas": 1,
       "role": "chapter",
-      "order": 34,
+      "order": 31,
       "prev": "basne_z_koncentracniho_tabora_034.html",
       "next": "basne_z_koncentracniho_tabora_036.html",
       "toc": [
@@ -721,7 +661,7 @@
       "chars": 1283,
       "ideas": 39,
       "role": "chapter",
-      "order": 35,
+      "order": 32,
       "prev": "basne_z_koncentracniho_tabora_035.html",
       "next": "basne_z_koncentracniho_tabora_037.html",
       "toc": [
@@ -741,7 +681,7 @@
       "chars": 1879,
       "ideas": 58,
       "role": "chapter",
-      "order": 36,
+      "order": 33,
       "prev": "basne_z_koncentracniho_tabora_036.html",
       "next": "basne_z_koncentracniho_tabora_038.html",
       "toc": [
@@ -761,7 +701,7 @@
       "chars": 5,
       "ideas": 1,
       "role": "chapter",
-      "order": 37,
+      "order": 34,
       "prev": "basne_z_koncentracniho_tabora_037.html",
       "next": "basne_z_koncentracniho_tabora_039.html",
       "toc": [
@@ -781,7 +721,7 @@
       "chars": 648,
       "ideas": 22,
       "role": "chapter",
-      "order": 38,
+      "order": 35,
       "prev": "basne_z_koncentracniho_tabora_038.html",
       "next": "basne_z_koncentracniho_tabora_040.html",
       "toc": [
@@ -801,7 +741,7 @@
       "chars": 583,
       "ideas": 22,
       "role": "chapter",
-      "order": 39,
+      "order": 36,
       "prev": "basne_z_koncentracniho_tabora_039.html",
       "next": "basne_z_koncentracniho_tabora_041.html",
       "toc": [
@@ -821,7 +761,7 @@
       "chars": 2713,
       "ideas": 76,
       "role": "chapter",
-      "order": 40,
+      "order": 37,
       "prev": "basne_z_koncentracniho_tabora_040.html",
       "next": "basne_z_koncentracniho_tabora_042.html",
       "toc": [
@@ -841,7 +781,7 @@
       "chars": 1256,
       "ideas": 27,
       "role": "chapter",
-      "order": 41,
+      "order": 38,
       "prev": "basne_z_koncentracniho_tabora_041.html",
       "next": "basne_z_koncentracniho_tabora_043.html",
       "toc": [
@@ -861,7 +801,7 @@
       "chars": 464,
       "ideas": 16,
       "role": "chapter",
-      "order": 42,
+      "order": 39,
       "prev": "basne_z_koncentracniho_tabora_042.html",
       "next": "basne_z_koncentracniho_tabora_044.html",
       "toc": [
@@ -881,7 +821,7 @@
       "chars": 814,
       "ideas": 25,
       "role": "chapter",
-      "order": 43,
+      "order": 40,
       "prev": "basne_z_koncentracniho_tabora_043.html",
       "next": "basne_z_koncentracniho_tabora_045.html",
       "toc": [
@@ -901,7 +841,7 @@
       "chars": 14,
       "ideas": 2,
       "role": "chapter",
-      "order": 44,
+      "order": 41,
       "prev": "basne_z_koncentracniho_tabora_044.html",
       "next": "basne_z_koncentracniho_tabora_046.html",
       "toc": [
@@ -921,7 +861,7 @@
       "chars": 657,
       "ideas": 20,
       "role": "chapter",
-      "order": 45,
+      "order": 42,
       "prev": "basne_z_koncentracniho_tabora_045.html",
       "next": "basne_z_koncentracniho_tabora_047.html",
       "toc": [
@@ -941,7 +881,7 @@
       "chars": 24,
       "ideas": 2,
       "role": "chapter",
-      "order": 46,
+      "order": 43,
       "prev": "basne_z_koncentracniho_tabora_046.html",
       "next": "basne_z_koncentracniho_tabora_048.html",
       "toc": [
@@ -961,7 +901,7 @@
       "chars": 389,
       "ideas": 15,
       "role": "chapter",
-      "order": 47,
+      "order": 44,
       "prev": "basne_z_koncentracniho_tabora_047.html",
       "next": "basne_z_koncentracniho_tabora_049.html",
       "toc": [
@@ -981,7 +921,7 @@
       "chars": 684,
       "ideas": 20,
       "role": "chapter",
-      "order": 48,
+      "order": 45,
       "prev": "basne_z_koncentracniho_tabora_048.html",
       "next": "basne_z_koncentracniho_tabora_050.html",
       "toc": [
@@ -1001,7 +941,7 @@
       "chars": 420,
       "ideas": 18,
       "role": "chapter",
-      "order": 49,
+      "order": 46,
       "prev": "basne_z_koncentracniho_tabora_049.html",
       "next": "basne_z_koncentracniho_tabora_051.html",
       "toc": [
@@ -1021,7 +961,7 @@
       "chars": 17,
       "ideas": 2,
       "role": "chapter",
-      "order": 50,
+      "order": 47,
       "prev": "basne_z_koncentracniho_tabora_050.html",
       "next": "basne_z_koncentracniho_tabora_052.html",
       "toc": [
@@ -1041,7 +981,7 @@
       "chars": 1086,
       "ideas": 32,
       "role": "chapter",
-      "order": 51,
+      "order": 48,
       "prev": "basne_z_koncentracniho_tabora_051.html",
       "next": "basne_z_koncentracniho_tabora_053.html",
       "toc": [
@@ -1061,7 +1001,7 @@
       "chars": 1227,
       "ideas": 34,
       "role": "chapter",
-      "order": 52,
+      "order": 49,
       "prev": "basne_z_koncentracniho_tabora_052.html",
       "next": "basne_z_koncentracniho_tabora_054.html",
       "toc": [
@@ -1081,7 +1021,7 @@
       "chars": 623,
       "ideas": 26,
       "role": "chapter",
-      "order": 53,
+      "order": 50,
       "prev": "basne_z_koncentracniho_tabora_053.html",
       "next": "basne_z_koncentracniho_tabora_055.html",
       "toc": [
@@ -1101,7 +1041,7 @@
       "chars": 13,
       "ideas": 2,
       "role": "chapter",
-      "order": 54,
+      "order": 51,
       "prev": "basne_z_koncentracniho_tabora_054.html",
       "next": "basne_z_koncentracniho_tabora_056.html",
       "toc": [
@@ -1121,7 +1061,7 @@
       "chars": 22,
       "ideas": 2,
       "role": "chapter",
-      "order": 55,
+      "order": 52,
       "prev": "basne_z_koncentracniho_tabora_055.html",
       "next": "basne_z_koncentracniho_tabora_057.html",
       "toc": [
@@ -1141,7 +1081,7 @@
       "chars": 7,
       "ideas": 1,
       "role": "chapter",
-      "order": 56,
+      "order": 53,
       "prev": "basne_z_koncentracniho_tabora_056.html",
       "next": "basne_z_koncentracniho_tabora_058.html",
       "toc": [
@@ -1161,7 +1101,7 @@
       "chars": 340,
       "ideas": 13,
       "role": "chapter",
-      "order": 57,
+      "order": 54,
       "prev": "basne_z_koncentracniho_tabora_057.html",
       "next": "basne_z_koncentracniho_tabora_059.html",
       "toc": [
@@ -1181,7 +1121,7 @@
       "chars": 305,
       "ideas": 13,
       "role": "chapter",
-      "order": 58,
+      "order": 55,
       "prev": "basne_z_koncentracniho_tabora_058.html",
       "next": "basne_z_koncentracniho_tabora_060.html",
       "toc": [
@@ -1201,7 +1141,7 @@
       "chars": 37,
       "ideas": 3,
       "role": "chapter",
-      "order": 59,
+      "order": 56,
       "prev": "basne_z_koncentracniho_tabora_059.html",
       "next": "basne_z_koncentracniho_tabora_061.html",
       "toc": [
@@ -1221,7 +1161,7 @@
       "chars": 11,
       "ideas": 2,
       "role": "chapter",
-      "order": 60,
+      "order": 57,
       "prev": "basne_z_koncentracniho_tabora_060.html",
       "next": "basne_z_koncentracniho_tabora_062.html",
       "toc": [
@@ -1241,7 +1181,7 @@
       "chars": 1457,
       "ideas": 45,
       "role": "chapter",
-      "order": 61,
+      "order": 58,
       "prev": "basne_z_koncentracniho_tabora_061.html",
       "next": "basne_z_koncentracniho_tabora_063.html",
       "toc": [
@@ -1261,7 +1201,7 @@
       "chars": 456,
       "ideas": 13,
       "role": "chapter",
-      "order": 62,
+      "order": 59,
       "prev": "basne_z_koncentracniho_tabora_062.html",
       "next": "basne_z_koncentracniho_tabora_064.html",
       "toc": [
@@ -1281,7 +1221,7 @@
       "chars": 16,
       "ideas": 1,
       "role": "chapter",
-      "order": 63,
+      "order": 60,
       "prev": "basne_z_koncentracniho_tabora_063.html",
       "next": "basne_z_koncentracniho_tabora_065.html",
       "toc": [
@@ -1301,7 +1241,7 @@
       "chars": 14,
       "ideas": 2,
       "role": "chapter",
-      "order": 64,
+      "order": 61,
       "prev": "basne_z_koncentracniho_tabora_064.html",
       "next": "basne_z_koncentracniho_tabora_066.html",
       "toc": [
@@ -1321,7 +1261,7 @@
       "chars": 1203,
       "ideas": 31,
       "role": "chapter",
-      "order": 65,
+      "order": 62,
       "prev": "basne_z_koncentracniho_tabora_065.html",
       "next": "basne_z_koncentracniho_tabora_067.html",
       "toc": [
@@ -1341,7 +1281,7 @@
       "chars": 1353,
       "ideas": 31,
       "role": "chapter",
-      "order": 66,
+      "order": 63,
       "prev": "basne_z_koncentracniho_tabora_066.html",
       "next": "basne_z_koncentracniho_tabora_068.html",
       "toc": [
@@ -1361,7 +1301,7 @@
       "chars": 8,
       "ideas": 1,
       "role": "chapter",
-      "order": 67,
+      "order": 64,
       "prev": "basne_z_koncentracniho_tabora_067.html",
       "next": "basne_z_koncentracniho_tabora_069.html",
       "toc": [
@@ -1381,7 +1321,7 @@
       "chars": 7,
       "ideas": 2,
       "role": "chapter",
-      "order": 68,
+      "order": 65,
       "prev": "basne_z_koncentracniho_tabora_068.html",
       "next": "basne_z_koncentracniho_tabora_070.html",
       "toc": [
@@ -1401,7 +1341,7 @@
       "chars": 13,
       "ideas": 2,
       "role": "chapter",
-      "order": 69,
+      "order": 66,
       "prev": "basne_z_koncentracniho_tabora_069.html",
       "next": "basne_z_koncentracniho_tabora_071.html",
       "toc": [
@@ -1421,7 +1361,7 @@
       "chars": 7,
       "ideas": 2,
       "role": "chapter",
-      "order": 70,
+      "order": 67,
       "prev": "basne_z_koncentracniho_tabora_070.html",
       "next": "basne_z_koncentracniho_tabora_072.html",
       "toc": [
@@ -1441,7 +1381,7 @@
       "chars": 576,
       "ideas": 26,
       "role": "chapter",
-      "order": 71,
+      "order": 68,
       "prev": "basne_z_koncentracniho_tabora_071.html",
       "next": "basne_z_koncentracniho_tabora_073.html",
       "toc": [
@@ -1461,7 +1401,7 @@
       "chars": 9,
       "ideas": 2,
       "role": "chapter",
-      "order": 72,
+      "order": 69,
       "prev": "basne_z_koncentracniho_tabora_072.html",
       "next": "basne_z_koncentracniho_tabora_074.html",
       "toc": [
@@ -1481,7 +1421,7 @@
       "chars": 674,
       "ideas": 20,
       "role": "chapter",
-      "order": 73,
+      "order": 70,
       "prev": "basne_z_koncentracniho_tabora_073.html",
       "next": "basne_z_koncentracniho_tabora_075.html",
       "toc": [
@@ -1501,7 +1441,7 @@
       "chars": 528,
       "ideas": 17,
       "role": "chapter",
-      "order": 74,
+      "order": 71,
       "prev": "basne_z_koncentracniho_tabora_074.html",
       "next": "basne_z_koncentracniho_tabora_076.html",
       "toc": [
@@ -1521,7 +1461,7 @@
       "chars": 345,
       "ideas": 11,
       "role": "chapter",
-      "order": 75,
+      "order": 72,
       "prev": "basne_z_koncentracniho_tabora_075.html",
       "next": "basne_z_koncentracniho_tabora_077.html",
       "toc": [
@@ -1541,7 +1481,7 @@
       "chars": 631,
       "ideas": 28,
       "role": "chapter",
-      "order": 76,
+      "order": 73,
       "prev": "basne_z_koncentracniho_tabora_076.html",
       "next": "basne_z_koncentracniho_tabora_078.html",
       "toc": [
@@ -1561,7 +1501,7 @@
       "chars": 11,
       "ideas": 2,
       "role": "chapter",
-      "order": 77,
+      "order": 74,
       "prev": "basne_z_koncentracniho_tabora_077.html",
       "next": "basne_z_koncentracniho_tabora_079.html",
       "toc": [
@@ -1581,7 +1521,7 @@
       "chars": 753,
       "ideas": 22,
       "role": "chapter",
-      "order": 78,
+      "order": 75,
       "prev": "basne_z_koncentracniho_tabora_078.html",
       "next": "basne_z_koncentracniho_tabora_080.html",
       "toc": [
@@ -1601,7 +1541,7 @@
       "chars": 1353,
       "ideas": 52,
       "role": "chapter",
-      "order": 79,
+      "order": 76,
       "prev": "basne_z_koncentracniho_tabora_079.html",
       "next": "basne_z_koncentracniho_tabora_081.html",
       "toc": [
@@ -1621,7 +1561,7 @@
       "chars": 1308,
       "ideas": 49,
       "role": "chapter",
-      "order": 80,
+      "order": 77,
       "prev": "basne_z_koncentracniho_tabora_080.html",
       "next": "basne_z_koncentracniho_tabora_082.html",
       "toc": [
@@ -1641,7 +1581,7 @@
       "chars": 436,
       "ideas": 15,
       "role": "chapter",
-      "order": 81,
+      "order": 78,
       "prev": "basne_z_koncentracniho_tabora_081.html",
       "next": "basne_z_koncentracniho_tabora_083.html",
       "toc": [
@@ -1661,7 +1601,7 @@
       "chars": 349,
       "ideas": 15,
       "role": "chapter",
-      "order": 82,
+      "order": 79,
       "prev": "basne_z_koncentracniho_tabora_082.html",
       "next": "basne_z_koncentracniho_tabora_084.html",
       "toc": [
@@ -1681,7 +1621,7 @@
       "chars": 1254,
       "ideas": 39,
       "role": "chapter",
-      "order": 83,
+      "order": 80,
       "prev": "basne_z_koncentracniho_tabora_083.html",
       "next": "basne_z_koncentracniho_tabora_085.html",
       "toc": [
@@ -1701,7 +1641,7 @@
       "chars": 2168,
       "ideas": 68,
       "role": "chapter",
-      "order": 84,
+      "order": 81,
       "prev": "basne_z_koncentracniho_tabora_084.html",
       "next": "basne_z_koncentracniho_tabora_086.html",
       "toc": [
@@ -1721,7 +1661,7 @@
       "chars": 227,
       "ideas": 9,
       "role": "chapter",
-      "order": 85,
+      "order": 82,
       "prev": "basne_z_koncentracniho_tabora_085.html",
       "next": "basne_z_koncentracniho_tabora_087.html",
       "toc": [
@@ -1741,7 +1681,7 @@
       "chars": 584,
       "ideas": 16,
       "role": "chapter",
-      "order": 86,
+      "order": 83,
       "prev": "basne_z_koncentracniho_tabora_086.html",
       "next": "basne_z_koncentracniho_tabora_088.html",
       "toc": [
@@ -1761,7 +1701,7 @@
       "chars": 10,
       "ideas": 2,
       "role": "chapter",
-      "order": 87,
+      "order": 84,
       "prev": "basne_z_koncentracniho_tabora_087.html",
       "next": "basne_z_koncentracniho_tabora_089.html",
       "toc": [
@@ -1781,7 +1721,7 @@
       "chars": 345,
       "ideas": 14,
       "role": "chapter",
-      "order": 88,
+      "order": 85,
       "prev": "basne_z_koncentracniho_tabora_088.html",
       "next": "basne_z_koncentracniho_tabora_090.html",
       "toc": [
@@ -1801,7 +1741,7 @@
       "chars": 485,
       "ideas": 22,
       "role": "chapter",
-      "order": 89,
+      "order": 86,
       "prev": "basne_z_koncentracniho_tabora_089.html",
       "next": "basne_z_koncentracniho_tabora_091.html",
       "toc": [
@@ -1821,7 +1761,7 @@
       "chars": 693,
       "ideas": 22,
       "role": "chapter",
-      "order": 90,
+      "order": 87,
       "prev": "basne_z_koncentracniho_tabora_090.html",
       "next": "basne_z_koncentracniho_tabora_092.html",
       "toc": [
@@ -1841,7 +1781,7 @@
       "chars": 19,
       "ideas": 1,
       "role": "chapter",
-      "order": 91,
+      "order": 88,
       "prev": "basne_z_koncentracniho_tabora_091.html",
       "next": "basne_z_koncentracniho_tabora_093.html",
       "toc": [
@@ -1861,7 +1801,7 @@
       "chars": 1652,
       "ideas": 46,
       "role": "chapter",
-      "order": 92,
+      "order": 89,
       "prev": "basne_z_koncentracniho_tabora_092.html",
       "next": "basne_z_koncentracniho_tabora_094.html",
       "toc": [
@@ -1881,7 +1821,7 @@
       "chars": 369,
       "ideas": 14,
       "role": "chapter",
-      "order": 93,
+      "order": 90,
       "prev": "basne_z_koncentracniho_tabora_093.html",
       "next": "basne_z_koncentracniho_tabora_095.html",
       "toc": [
@@ -1901,7 +1841,7 @@
       "chars": 5,
       "ideas": 1,
       "role": "chapter",
-      "order": 94,
+      "order": 91,
       "prev": "basne_z_koncentracniho_tabora_094.html",
       "next": "basne_z_koncentracniho_tabora_096.html",
       "toc": [
@@ -1921,7 +1861,7 @@
       "chars": 5,
       "ideas": 1,
       "role": "chapter",
-      "order": 95,
+      "order": 92,
       "prev": "basne_z_koncentracniho_tabora_095.html",
       "next": "basne_z_koncentracniho_tabora_097.html",
       "toc": [
@@ -1941,7 +1881,7 @@
       "chars": 681,
       "ideas": 34,
       "role": "chapter",
-      "order": 96,
+      "order": 93,
       "prev": "basne_z_koncentracniho_tabora_096.html",
       "next": "basne_z_koncentracniho_tabora_098.html",
       "toc": [
@@ -1961,7 +1901,7 @@
       "chars": 5,
       "ideas": 1,
       "role": "chapter",
-      "order": 97,
+      "order": 94,
       "prev": "basne_z_koncentracniho_tabora_097.html",
       "next": "basne_z_koncentracniho_tabora_099.html",
       "toc": [
@@ -1981,7 +1921,7 @@
       "chars": 5,
       "ideas": 1,
       "role": "chapter",
-      "order": 98,
+      "order": 95,
       "prev": "basne_z_koncentracniho_tabora_098.html",
       "next": "basne_z_koncentracniho_tabora_100.html",
       "toc": [
@@ -2001,7 +1941,7 @@
       "chars": 393,
       "ideas": 13,
       "role": "chapter",
-      "order": 99,
+      "order": 96,
       "prev": "basne_z_koncentracniho_tabora_099.html",
       "next": "basne_z_koncentracniho_tabora_101.html",
       "toc": [
@@ -2021,7 +1961,7 @@
       "chars": 5,
       "ideas": 1,
       "role": "chapter",
-      "order": 100,
+      "order": 97,
       "prev": "basne_z_koncentracniho_tabora_100.html",
       "next": "basne_z_koncentracniho_tabora_102.html",
       "toc": [
@@ -2041,7 +1981,7 @@
       "chars": 4,
       "ideas": 1,
       "role": "chapter",
-      "order": 101,
+      "order": 98,
       "prev": "basne_z_koncentracniho_tabora_101.html",
       "next": "basne_z_koncentracniho_tabora_103.html",
       "toc": [
@@ -2061,7 +2001,7 @@
       "chars": 26,
       "ideas": 1,
       "role": "chapter",
-      "order": 102,
+      "order": 99,
       "prev": "basne_z_koncentracniho_tabora_102.html",
       "next": "basne_z_koncentracniho_tabora_104.html",
       "toc": [
@@ -2081,7 +2021,7 @@
       "chars": 5,
       "ideas": 1,
       "role": "chapter",
-      "order": 103,
+      "order": 100,
       "prev": "basne_z_koncentracniho_tabora_103.html",
       "next": "basne_z_koncentracniho_tabora_105.html",
       "toc": [
@@ -2101,7 +2041,7 @@
       "chars": 350,
       "ideas": 11,
       "role": "chapter",
-      "order": 104,
+      "order": 101,
       "prev": "basne_z_koncentracniho_tabora_104.html",
       "next": "basne_z_koncentracniho_tabora_106.html",
       "toc": [
@@ -2121,7 +2061,7 @@
       "chars": 7,
       "ideas": 2,
       "role": "chapter",
-      "order": 105,
+      "order": 102,
       "prev": "basne_z_koncentracniho_tabora_105.html",
       "next": "basne_z_koncentracniho_tabora_107.html",
       "toc": [
@@ -2141,7 +2081,7 @@
       "chars": 6,
       "ideas": 1,
       "role": "chapter",
-      "order": 106,
+      "order": 103,
       "prev": "basne_z_koncentracniho_tabora_106.html",
       "next": "basne_z_koncentracniho_tabora_108.html",
       "toc": [
@@ -2161,7 +2101,7 @@
       "chars": 611,
       "ideas": 26,
       "role": "chapter",
-      "order": 107,
+      "order": 104,
       "prev": "basne_z_koncentracniho_tabora_107.html",
       "next": "basne_z_koncentracniho_tabora_109.html",
       "toc": [
@@ -2181,7 +2121,7 @@
       "chars": 13,
       "ideas": 2,
       "role": "chapter",
-      "order": 108,
+      "order": 105,
       "prev": "basne_z_koncentracniho_tabora_108.html",
       "next": "basne_z_koncentracniho_tabora_110.html",
       "toc": [
@@ -2201,7 +2141,7 @@
       "chars": 684,
       "ideas": 18,
       "role": "chapter",
-      "order": 109,
+      "order": 106,
       "prev": "basne_z_koncentracniho_tabora_109.html",
       "next": "basne_z_koncentracniho_tabora_111.html",
       "toc": [
@@ -2221,7 +2161,7 @@
       "chars": 343,
       "ideas": 10,
       "role": "chapter",
-      "order": 110,
+      "order": 107,
       "prev": "basne_z_koncentracniho_tabora_110.html",
       "next": "basne_z_koncentracniho_tabora_112.html",
       "toc": [
@@ -2241,7 +2181,7 @@
       "chars": 621,
       "ideas": 16,
       "role": "chapter",
-      "order": 111,
+      "order": 108,
       "prev": "basne_z_koncentracniho_tabora_111.html",
       "next": "basne_z_koncentracniho_tabora_113.html",
       "toc": [
@@ -2261,7 +2201,7 @@
       "chars": 12,
       "ideas": 2,
       "role": "chapter",
-      "order": 112,
+      "order": 109,
       "prev": "basne_z_koncentracniho_tabora_112.html",
       "next": "basne_z_koncentracniho_tabora_114.html",
       "toc": [
@@ -2281,7 +2221,7 @@
       "chars": 464,
       "ideas": 14,
       "role": "chapter",
-      "order": 113,
+      "order": 110,
       "prev": "basne_z_koncentracniho_tabora_113.html",
       "next": "basne_z_koncentracniho_tabora_115.html",
       "toc": [
@@ -2301,7 +2241,7 @@
       "chars": 726,
       "ideas": 20,
       "role": "chapter",
-      "order": 114,
+      "order": 111,
       "prev": "basne_z_koncentracniho_tabora_114.html",
       "next": "basne_z_koncentracniho_tabora_116.html",
       "toc": [
@@ -2321,7 +2261,7 @@
       "chars": 456,
       "ideas": 16,
       "role": "chapter",
-      "order": 115,
+      "order": 112,
       "prev": "basne_z_koncentracniho_tabora_115.html",
       "next": "basne_z_koncentracniho_tabora_117.html",
       "toc": [
@@ -2341,7 +2281,7 @@
       "chars": 638,
       "ideas": 22,
       "role": "chapter",
-      "order": 116,
+      "order": 113,
       "prev": "basne_z_koncentracniho_tabora_116.html",
       "next": "basne_z_koncentracniho_tabora_118.html",
       "toc": [
@@ -2361,7 +2301,7 @@
       "chars": 592,
       "ideas": 14,
       "role": "chapter",
-      "order": 117,
+      "order": 114,
       "prev": "basne_z_koncentracniho_tabora_117.html",
       "next": "basne_z_koncentracniho_tabora_119.html",
       "toc": [
@@ -2381,7 +2321,7 @@
       "chars": 4,
       "ideas": 1,
       "role": "chapter",
-      "order": 118,
+      "order": 115,
       "prev": "basne_z_koncentracniho_tabora_118.html",
       "next": "basne_z_koncentracniho_tabora_120.html",
       "toc": [
@@ -2401,7 +2341,7 @@
       "chars": 8,
       "ideas": 1,
       "role": "chapter",
-      "order": 119,
+      "order": 116,
       "prev": "basne_z_koncentracniho_tabora_119.html",
       "next": "basne_z_koncentracniho_tabora_121.html",
       "toc": [
@@ -2421,7 +2361,7 @@
       "chars": 6,
       "ideas": 1,
       "role": "chapter",
-      "order": 120,
+      "order": 117,
       "prev": "basne_z_koncentracniho_tabora_120.html",
       "next": "basne_z_koncentracniho_tabora_122.html",
       "toc": [
@@ -2441,7 +2381,7 @@
       "chars": 933,
       "ideas": 27,
       "role": "chapter",
-      "order": 121,
+      "order": 118,
       "prev": "basne_z_koncentracniho_tabora_121.html",
       "next": "basne_z_koncentracniho_tabora_123.html",
       "toc": [
@@ -2461,7 +2401,7 @@
       "chars": 3909,
       "ideas": 122,
       "role": "chapter",
-      "order": 122,
+      "order": 119,
       "prev": "basne_z_koncentracniho_tabora_122.html",
       "next": "basne_z_koncentracniho_tabora_124.html",
       "toc": [
@@ -2503,7 +2443,7 @@
       "chars": 16,
       "ideas": 2,
       "role": "chapter",
-      "order": 123,
+      "order": 120,
       "prev": "basne_z_koncentracniho_tabora_123.html",
       "next": "basne_z_koncentracniho_tabora_125.html",
       "toc": [
@@ -2523,7 +2463,7 @@
       "chars": 319,
       "ideas": 14,
       "role": "chapter",
-      "order": 124,
+      "order": 121,
       "prev": "basne_z_koncentracniho_tabora_124.html",
       "next": "basne_z_koncentracniho_tabora_126.html",
       "toc": [
@@ -2543,7 +2483,7 @@
       "chars": 383,
       "ideas": 3,
       "role": "chapter",
-      "order": 125,
+      "order": 122,
       "prev": "basne_z_koncentracniho_tabora_125.html",
       "next": "basne_z_koncentracniho_tabora_127.html",
       "toc": [
@@ -2563,7 +2503,7 @@
       "chars": 2070,
       "ideas": 26,
       "role": "chapter",
-      "order": 126,
+      "order": 123,
       "prev": "basne_z_koncentracniho_tabora_126.html",
       "next": "basne_z_koncentracniho_tabora_128.html",
       "toc": [
@@ -2583,9 +2523,9 @@
       "chars": 759,
       "ideas": 38,
       "role": "chapter",
-      "order": 127,
+      "order": 124,
       "prev": "basne_z_koncentracniho_tabora_127.html",
-      "next": "basne_z_koncentracniho_tabora_129.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -2597,20 +2537,20 @@
       ]
     },
     {
-      "title": "Básně z koncentračního tábora",
-      "file": "basne_z_koncentracniho_tabora_129.html",
-      "words": 49,
-      "chars": 323,
-      "ideas": 13,
-      "role": "chapter",
-      "order": 128,
+      "title": "Tiráž • Básně z koncentračního tábora",
+      "file": "colophon.html",
+      "words": 141,
+      "chars": 937,
+      "ideas": 24,
+      "role": "colophon",
+      "order": null,
       "prev": "basne_z_koncentracniho_tabora_128.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -2624,9 +2564,9 @@
       "ideas": 2199
     },
     "chapters": {
-      "words": 12723,
-      "chars": 69388,
-      "ideas": 2194
+      "words": 12583,
+      "chars": 68456,
+      "ideas": 2171
     }
   }
 }
