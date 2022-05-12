@@ -1,7 +1,5 @@
 ---
-title: |-
-  Těžká
-  chvíle
+title: Těžká chvíle
 contentType: prose
 ---
 

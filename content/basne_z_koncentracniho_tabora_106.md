@@ -1,7 +1,5 @@
 ---
-title: |-
-  Ne
-  dálka
+title: Ne dálka
 contentType: prose
 ---
 

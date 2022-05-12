@@ -1,8 +1,5 @@
 ---
-title: |-
-  Já
-  dávno života zvuk šťastný
-  nezaslech…
+title: Já dávno života zvuk šťastný nezaslech…
 contentType: prose
 ---
 

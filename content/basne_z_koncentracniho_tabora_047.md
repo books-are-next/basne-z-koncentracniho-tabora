@@ -1,7 +1,5 @@
 ---
-title: |-
-  Ač
-  jeden jen lidský život
+title: Ač jeden jen lidský život
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Mrtvé
-  s vozu…
+title: Mrtvé s vozu…
 contentType: prose
 ---
 

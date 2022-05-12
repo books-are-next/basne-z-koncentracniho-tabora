@@ -1,7 +1,5 @@
 ---
-title: |-
-  Mrtví
-  z Heinkel
+title: Mrtví z Heinkel
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Mé
-  dceři
+title: Mé dceři
 contentType: prose
 ---
 

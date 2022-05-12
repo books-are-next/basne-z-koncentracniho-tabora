@@ -1,7 +1,5 @@
 ---
-title: |-
-  Vzpomínka
-  na Karla
+title: Vzpomínka na Karla
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Tak
-  se rozlétnout
+title: Tak se rozlétnout
 contentType: prose
 ---
 

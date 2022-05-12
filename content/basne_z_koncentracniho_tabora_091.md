@@ -1,7 +1,5 @@
 ---
-title: |-
-  Prosinec
-  1944
+title: Prosinec 1944
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Za
-  bratrem
+title: Za bratrem
 contentType: prose
 ---
 

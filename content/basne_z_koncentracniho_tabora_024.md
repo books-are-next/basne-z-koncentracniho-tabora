@@ -1,7 +1,5 @@
 ---
-title: |-
-  Snad
-  nikdo
+title: Snad nikdo
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Podzimu
-  namále
+title: Podzimu namále
 contentType: prose
 ---
 

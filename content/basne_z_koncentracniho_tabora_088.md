@@ -1,7 +1,5 @@
 ---
-title: |-
-  Pocta
-  ženám
+title: Pocta ženám
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Poslední
-  sníh
+title: Poslední sníh
 contentType: prose
 ---
 

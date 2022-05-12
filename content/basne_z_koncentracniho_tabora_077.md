@@ -1,7 +1,5 @@
 ---
-title: |-
-  Listopad
-  1944
+title: Listopad 1944
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Ty,
-  který…
+title: Ty, který…
 contentType: prose
 ---
 

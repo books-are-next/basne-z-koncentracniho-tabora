@@ -1,7 +1,5 @@
 ---
-title: |-
-  Těžkomyslnost
-  (K. Cidlíkovi)
+title: Těžkomyslnost (K\. Cidlíkovi)
 contentType: prose
 ---
 

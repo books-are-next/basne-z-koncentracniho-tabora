@@ -1,7 +1,5 @@
 ---
-title: |-
-  Když
-  plachá divá zvěř —
+title: Když plachá divá zvěř —
 contentType: prose
 ---
 

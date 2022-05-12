@@ -1,7 +1,5 @@
 ---
-title: |-
-  Lidskost
-  a přátelství
+title: Lidskost a přátelství
 contentType: prose
 ---
 

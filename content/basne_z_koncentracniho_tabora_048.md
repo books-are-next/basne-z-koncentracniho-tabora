@@ -1,7 +1,5 @@
 ---
-title: |-
-  K Rilkově
-  básni
+title: K Rilkově básni
 contentType: prose
 ---
 

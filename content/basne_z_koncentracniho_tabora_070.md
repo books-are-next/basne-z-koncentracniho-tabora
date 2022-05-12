@@ -1,7 +1,5 @@
 ---
-title: |-
-  V zlatavé
-  záři
+title: V zlatavé záři
 contentType: prose
 ---
 

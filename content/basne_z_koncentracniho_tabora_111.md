@@ -1,7 +1,5 @@
 ---
-title: |-
-  Stříbrným
-  krajkovím
+title: Stříbrným krajkovím
 contentType: prose
 ---
 

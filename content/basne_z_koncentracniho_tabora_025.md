@@ -1,7 +1,5 @@
 ---
-title: |-
-  Čas
-  příliš pomalý
+title: Čas příliš pomalý
 contentType: prose
 ---
 

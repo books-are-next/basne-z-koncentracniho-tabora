@@ -1,7 +1,5 @@
 ---
-title: |-
-  Chvíle
-  beznaděje
+title: Chvíle beznaděje
 contentType: prose
 ---
 

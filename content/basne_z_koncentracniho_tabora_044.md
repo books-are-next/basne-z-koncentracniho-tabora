@@ -1,7 +1,5 @@
 ---
-title: |-
-  Škoda
-  přeškoda
+title: Škoda přeškoda
 contentType: prose
 ---
 

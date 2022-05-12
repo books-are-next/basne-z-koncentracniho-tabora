@@ -1,7 +1,5 @@
 ---
-title: |-
-  Mé
-  ženě
+title: Mé ženě
 contentType: prose
 ---
 

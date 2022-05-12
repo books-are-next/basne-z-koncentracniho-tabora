@@ -1,7 +1,5 @@
 ---
-title: |-
-  Sem
-  k nám
+title: Sem k nám
 contentType: prose
 ---
 

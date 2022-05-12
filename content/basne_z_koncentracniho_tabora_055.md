@@ -1,7 +1,5 @@
 ---
-title: |-
-  Zářivou
-  oponou
+title: Zářivou oponou
 contentType: prose
 ---
 

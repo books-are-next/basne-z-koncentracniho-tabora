@@ -1,7 +1,5 @@
 ---
-title: |-
-  Té
-  ohavnosti
+title: Té ohavnosti
 contentType: prose
 ---
 

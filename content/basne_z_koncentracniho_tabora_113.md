@@ -1,7 +1,5 @@
 ---
-title: |-
-  Byť
-  i po noci
+title: Byť i po noci
 contentType: prose
 ---
 

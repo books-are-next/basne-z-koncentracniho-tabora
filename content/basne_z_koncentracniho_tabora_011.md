@@ -1,7 +1,5 @@
 ---
-title: |-
-  Vzpomínka
-  I
+title: Vzpomínka I
 contentType: prose
 ---
 

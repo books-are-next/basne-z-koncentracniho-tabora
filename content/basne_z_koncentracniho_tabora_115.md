@@ -1,7 +1,5 @@
 ---
-title: |-
-  Až
-  na dně života
+title: Až na dně života
 contentType: prose
 ---
 

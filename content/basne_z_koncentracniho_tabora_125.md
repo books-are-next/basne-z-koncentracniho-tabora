@@ -1,7 +1,5 @@
 ---
-title: |-
-  Před
-  velikou cestou
+title: Před velikou cestou
 contentType: prose
 ---
 

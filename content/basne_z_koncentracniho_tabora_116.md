@@ -1,7 +1,5 @@
 ---
-title: |-
-  V předjarním
-  slunci
+title: V předjarním slunci
 contentType: prose
 ---
 

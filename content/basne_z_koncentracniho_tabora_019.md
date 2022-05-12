@@ -1,7 +1,5 @@
 ---
-title: |-
-  Čas
-  zajetí
+title: Čas zajetí
 contentType: prose
 ---
 

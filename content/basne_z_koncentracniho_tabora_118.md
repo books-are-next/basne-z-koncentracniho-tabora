@@ -1,7 +1,5 @@
 ---
-title: |-
-  Na
-  naše ženy
+title: Na naše ženy
 contentType: prose
 ---
 
