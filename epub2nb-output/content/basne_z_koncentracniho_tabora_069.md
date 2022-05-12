@@ -1,7 +1,5 @@
 ---
-title: |-
-  Pátý
-  rok
+title: Pátý rok
 contentType: prose
 ---
 

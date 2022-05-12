@@ -1,7 +1,5 @@
 ---
-title: |-
-  Jedna
-  pravda
+title: Jedna pravda
 contentType: prose
 ---
 

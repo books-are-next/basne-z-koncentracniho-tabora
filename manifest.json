@@ -1,22 +1,151 @@
 {
-  "author": "Josef Čapek",
-  "contenttype": "poetry",
-  "edition": "beletrie",
-  "identifier": "capek-basne-z-koncentracniho-tabora-5d468de",
-  "languagecode": "cs",
-  "modified": "2018-01-15T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Básně z koncentračního tábora",
-  "revision": "5d468de",
+  "author": "Josef Čapek",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "capek-basne-z-koncentracniho-tabora-9c96b43",
+  "revision": "9c96b43",
+  "readingOrder": [
+    "promo.html",
+    "basne_z_koncentracniho_tabora_005.html",
+    "basne_z_koncentracniho_tabora_006.html",
+    "basne_z_koncentracniho_tabora_007.html",
+    "basne_z_koncentracniho_tabora_008.html",
+    "basne_z_koncentracniho_tabora_009.html",
+    "basne_z_koncentracniho_tabora_010.html",
+    "basne_z_koncentracniho_tabora_011.html",
+    "basne_z_koncentracniho_tabora_012.html",
+    "basne_z_koncentracniho_tabora_013.html",
+    "basne_z_koncentracniho_tabora_014.html",
+    "basne_z_koncentracniho_tabora_015.html",
+    "basne_z_koncentracniho_tabora_016.html",
+    "basne_z_koncentracniho_tabora_017.html",
+    "basne_z_koncentracniho_tabora_018.html",
+    "basne_z_koncentracniho_tabora_019.html",
+    "basne_z_koncentracniho_tabora_020.html",
+    "basne_z_koncentracniho_tabora_021.html",
+    "basne_z_koncentracniho_tabora_022.html",
+    "basne_z_koncentracniho_tabora_023.html",
+    "basne_z_koncentracniho_tabora_024.html",
+    "basne_z_koncentracniho_tabora_025.html",
+    "basne_z_koncentracniho_tabora_026.html",
+    "basne_z_koncentracniho_tabora_027.html",
+    "basne_z_koncentracniho_tabora_028.html",
+    "basne_z_koncentracniho_tabora_029.html",
+    "basne_z_koncentracniho_tabora_030.html",
+    "basne_z_koncentracniho_tabora_031.html",
+    "basne_z_koncentracniho_tabora_032.html",
+    "basne_z_koncentracniho_tabora_033.html",
+    "basne_z_koncentracniho_tabora_034.html",
+    "basne_z_koncentracniho_tabora_035.html",
+    "basne_z_koncentracniho_tabora_036.html",
+    "basne_z_koncentracniho_tabora_037.html",
+    "basne_z_koncentracniho_tabora_038.html",
+    "basne_z_koncentracniho_tabora_039.html",
+    "basne_z_koncentracniho_tabora_040.html",
+    "basne_z_koncentracniho_tabora_041.html",
+    "basne_z_koncentracniho_tabora_042.html",
+    "basne_z_koncentracniho_tabora_043.html",
+    "basne_z_koncentracniho_tabora_044.html",
+    "basne_z_koncentracniho_tabora_045.html",
+    "basne_z_koncentracniho_tabora_046.html",
+    "basne_z_koncentracniho_tabora_047.html",
+    "basne_z_koncentracniho_tabora_048.html",
+    "basne_z_koncentracniho_tabora_049.html",
+    "basne_z_koncentracniho_tabora_050.html",
+    "basne_z_koncentracniho_tabora_051.html",
+    "basne_z_koncentracniho_tabora_052.html",
+    "basne_z_koncentracniho_tabora_053.html",
+    "basne_z_koncentracniho_tabora_054.html",
+    "basne_z_koncentracniho_tabora_055.html",
+    "basne_z_koncentracniho_tabora_056.html",
+    "basne_z_koncentracniho_tabora_057.html",
+    "basne_z_koncentracniho_tabora_058.html",
+    "basne_z_koncentracniho_tabora_059.html",
+    "basne_z_koncentracniho_tabora_060.html",
+    "basne_z_koncentracniho_tabora_061.html",
+    "basne_z_koncentracniho_tabora_062.html",
+    "basne_z_koncentracniho_tabora_063.html",
+    "basne_z_koncentracniho_tabora_064.html",
+    "basne_z_koncentracniho_tabora_065.html",
+    "basne_z_koncentracniho_tabora_066.html",
+    "basne_z_koncentracniho_tabora_067.html",
+    "basne_z_koncentracniho_tabora_068.html",
+    "basne_z_koncentracniho_tabora_069.html",
+    "basne_z_koncentracniho_tabora_070.html",
+    "basne_z_koncentracniho_tabora_071.html",
+    "basne_z_koncentracniho_tabora_072.html",
+    "basne_z_koncentracniho_tabora_073.html",
+    "basne_z_koncentracniho_tabora_074.html",
+    "basne_z_koncentracniho_tabora_075.html",
+    "basne_z_koncentracniho_tabora_076.html",
+    "basne_z_koncentracniho_tabora_077.html",
+    "basne_z_koncentracniho_tabora_078.html",
+    "basne_z_koncentracniho_tabora_079.html",
+    "basne_z_koncentracniho_tabora_080.html",
+    "basne_z_koncentracniho_tabora_081.html",
+    "basne_z_koncentracniho_tabora_082.html",
+    "basne_z_koncentracniho_tabora_083.html",
+    "basne_z_koncentracniho_tabora_084.html",
+    "basne_z_koncentracniho_tabora_085.html",
+    "basne_z_koncentracniho_tabora_086.html",
+    "basne_z_koncentracniho_tabora_087.html",
+    "basne_z_koncentracniho_tabora_088.html",
+    "basne_z_koncentracniho_tabora_089.html",
+    "basne_z_koncentracniho_tabora_090.html",
+    "basne_z_koncentracniho_tabora_091.html",
+    "basne_z_koncentracniho_tabora_092.html",
+    "basne_z_koncentracniho_tabora_093.html",
+    "basne_z_koncentracniho_tabora_094.html",
+    "basne_z_koncentracniho_tabora_095.html",
+    "basne_z_koncentracniho_tabora_096.html",
+    "basne_z_koncentracniho_tabora_097.html",
+    "basne_z_koncentracniho_tabora_098.html",
+    "basne_z_koncentracniho_tabora_099.html",
+    "basne_z_koncentracniho_tabora_100.html",
+    "basne_z_koncentracniho_tabora_101.html",
+    "basne_z_koncentracniho_tabora_102.html",
+    "basne_z_koncentracniho_tabora_103.html",
+    "basne_z_koncentracniho_tabora_104.html",
+    "basne_z_koncentracniho_tabora_105.html",
+    "basne_z_koncentracniho_tabora_106.html",
+    "basne_z_koncentracniho_tabora_107.html",
+    "basne_z_koncentracniho_tabora_108.html",
+    "basne_z_koncentracniho_tabora_109.html",
+    "basne_z_koncentracniho_tabora_110.html",
+    "basne_z_koncentracniho_tabora_111.html",
+    "basne_z_koncentracniho_tabora_112.html",
+    "basne_z_koncentracniho_tabora_113.html",
+    "basne_z_koncentracniho_tabora_114.html",
+    "basne_z_koncentracniho_tabora_115.html",
+    "basne_z_koncentracniho_tabora_116.html",
+    "basne_z_koncentracniho_tabora_117.html",
+    "basne_z_koncentracniho_tabora_118.html",
+    "basne_z_koncentracniho_tabora_119.html",
+    "basne_z_koncentracniho_tabora_120.html",
+    "basne_z_koncentracniho_tabora_121.html",
+    "basne_z_koncentracniho_tabora_122.html",
+    "basne_z_koncentracniho_tabora_123.html",
+    "basne_z_koncentracniho_tabora_124.html",
+    "basne_z_koncentracniho_tabora_125.html",
+    "basne_z_koncentracniho_tabora_126.html",
+    "basne_z_koncentracniho_tabora_127.html",
+    "basne_z_koncentracniho_tabora_128.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Tue Apr 12 2022 07:42:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649749374391
+    "date": "Thu May 12 2022 10:42:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352164418
   },
   "documents": [
     {
-      "title": "Básně z koncentračního tábora",
-      "file": "basne_z_koncentracniho_tabora_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +153,17 @@
       "order": 0,
       "prev": null,
       "next": "basne_z_koncentracniho_tabora_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Předmluva • Básně z koncentračního tábora",
+      "title": "Předmluva",
       "file": "basne_z_koncentracniho_tabora_005.html",
       "words": 189,
       "chars": 1218,
       "ideas": 5,
       "role": "chapter",
       "order": 1,
-      "prev": "basne_z_koncentracniho_tabora_002.html",
+      "prev": "promo.html",
       "next": "basne_z_koncentracniho_tabora_006.html",
       "toc": [
         {
@@ -55,7 +176,7 @@
       ]
     },
     {
-      "title": "Úvodní • Básně z koncentračního tábora",
+      "title": "Úvodní",
       "file": "basne_z_koncentracniho_tabora_006.html",
       "words": 1,
       "chars": 6,
@@ -75,11 +196,11 @@
       ]
     },
     {
-      "title": "Za\nbratrem Karlem • Básně z koncentračního tábora",
+      "title": "Za bratrem Karlem",
       "file": "basne_z_koncentracniho_tabora_007.html",
       "words": 1277,
-      "chars": 6779,
-      "ideas": 174,
+      "chars": 6780,
+      "ideas": 173,
       "role": "chapter",
       "order": 3,
       "prev": "basne_z_koncentracniho_tabora_006.html",
@@ -88,18 +209,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Za\nbratrem Karlem",
+          "name": "Za bratrem Karlem",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Na\nspánek • Básně z koncentračního tábora",
+      "title": "Na spánek",
       "file": "basne_z_koncentracniho_tabora_008.html",
       "words": 799,
-      "chars": 4274,
-      "ideas": 161,
+      "chars": 4275,
+      "ideas": 160,
       "role": "chapter",
       "order": 4,
       "prev": "basne_z_koncentracniho_tabora_007.html",
@@ -108,14 +229,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Na\nspánek",
+          "name": "Na spánek",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Rozbřesk • Básně z koncentračního tábora",
+      "title": "Rozbřesk",
       "file": "basne_z_koncentracniho_tabora_009.html",
       "words": 1,
       "chars": 8,
@@ -135,11 +256,11 @@
       ]
     },
     {
-      "title": "Vězeňská\nprocházka • Básně z koncentračního tábora",
+      "title": "Vězeňská procházka",
       "file": "basne_z_koncentracniho_tabora_010.html",
       "words": 41,
-      "chars": 248,
-      "ideas": 12,
+      "chars": 249,
+      "ideas": 11,
       "role": "chapter",
       "order": 6,
       "prev": "basne_z_koncentracniho_tabora_009.html",
@@ -148,18 +269,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vězeňská\nprocházka",
+          "name": "Vězeňská procházka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Vzpomínka\nI • Básně z koncentračního tábora",
+      "title": "Vzpomínka I",
       "file": "basne_z_koncentracniho_tabora_011.html",
       "words": 2,
-      "chars": 10,
-      "ideas": 2,
+      "chars": 11,
+      "ideas": 1,
       "role": "chapter",
       "order": 7,
       "prev": "basne_z_koncentracniho_tabora_010.html",
@@ -168,14 +289,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vzpomínka\nI",
+          "name": "Vzpomínka I",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Čekání • Básně z koncentračního tábora",
+      "title": "Čekání",
       "file": "basne_z_koncentracniho_tabora_012.html",
       "words": 114,
       "chars": 644,
@@ -195,11 +316,11 @@
       ]
     },
     {
-      "title": "Bez\nnázvu • Básně z koncentračního tábora",
+      "title": "Bez názvu",
       "file": "basne_z_koncentracniho_tabora_013.html",
       "words": 2,
-      "chars": 8,
-      "ideas": 2,
+      "chars": 9,
+      "ideas": 1,
       "role": "chapter",
       "order": 9,
       "prev": "basne_z_koncentracniho_tabora_012.html",
@@ -208,14 +329,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Bez\nnázvu",
+          "name": "Bez názvu",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Stesk • Básně z koncentračního tábora",
+      "title": "Stesk",
       "file": "basne_z_koncentracniho_tabora_014.html",
       "words": 1,
       "chars": 5,
@@ -235,7 +356,7 @@
       ]
     },
     {
-      "title": "Únava • Básně z koncentračního tábora",
+      "title": "Únava",
       "file": "basne_z_koncentracniho_tabora_015.html",
       "words": 215,
       "chars": 1186,
@@ -255,7 +376,7 @@
       ]
     },
     {
-      "title": "Jako vy • Básně z koncentračního tábora",
+      "title": "Jako vy",
       "file": "basne_z_koncentracniho_tabora_016.html",
       "words": 2,
       "chars": 7,
@@ -275,7 +396,7 @@
       ]
     },
     {
-      "title": "Tíseň • Básně z koncentračního tábora",
+      "title": "Tíseň",
       "file": "basne_z_koncentracniho_tabora_017.html",
       "words": 59,
       "chars": 296,
@@ -295,7 +416,7 @@
       ]
     },
     {
-      "title": "Pondělí • Básně z koncentračního tábora",
+      "title": "Pondělí",
       "file": "basne_z_koncentracniho_tabora_018.html",
       "words": 1,
       "chars": 7,
@@ -315,11 +436,11 @@
       ]
     },
     {
-      "title": "Čas\nzajetí • Básně z koncentračního tábora",
+      "title": "Čas zajetí",
       "file": "basne_z_koncentracniho_tabora_019.html",
       "words": 2,
-      "chars": 9,
-      "ideas": 2,
+      "chars": 10,
+      "ideas": 1,
       "role": "chapter",
       "order": 15,
       "prev": "basne_z_koncentracniho_tabora_018.html",
@@ -328,18 +449,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Čas\nzajetí",
+          "name": "Čas zajetí",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Vzpomínka\nna Karla • Básně z koncentračního tábora",
+      "title": "Vzpomínka na Karla",
       "file": "basne_z_koncentracniho_tabora_020.html",
       "words": 3,
-      "chars": 17,
-      "ideas": 2,
+      "chars": 18,
+      "ideas": 1,
       "role": "chapter",
       "order": 16,
       "prev": "basne_z_koncentracniho_tabora_019.html",
@@ -348,14 +469,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vzpomínka\nna Karla",
+          "name": "Vzpomínka na Karla",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Šílený • Básně z koncentračního tábora",
+      "title": "Šílený",
       "file": "basne_z_koncentracniho_tabora_021.html",
       "words": 1,
       "chars": 6,
@@ -375,11 +496,11 @@
       ]
     },
     {
-      "title": "Vězeňská\nprocházka II • Básně z koncentračního tábora",
+      "title": "Vězeňská procházka II",
       "file": "basne_z_koncentracniho_tabora_022.html",
       "words": 3,
-      "chars": 20,
-      "ideas": 2,
+      "chars": 21,
+      "ideas": 1,
       "role": "chapter",
       "order": 18,
       "prev": "basne_z_koncentracniho_tabora_021.html",
@@ -388,14 +509,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vězeňská\nprocházka II",
+          "name": "Vězeňská procházka II",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Básníci • Básně z koncentračního tábora",
+      "title": "Básníci",
       "file": "basne_z_koncentracniho_tabora_023.html",
       "words": 1,
       "chars": 7,
@@ -415,11 +536,11 @@
       ]
     },
     {
-      "title": "Snad\nnikdo • Básně z koncentračního tábora",
+      "title": "Snad nikdo",
       "file": "basne_z_koncentracniho_tabora_024.html",
       "words": 131,
-      "chars": 758,
-      "ideas": 25,
+      "chars": 759,
+      "ideas": 24,
       "role": "chapter",
       "order": 20,
       "prev": "basne_z_koncentracniho_tabora_023.html",
@@ -428,18 +549,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Snad\nnikdo",
+          "name": "Snad nikdo",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Čas\npříliš pomalý • Básně z koncentračního tábora",
+      "title": "Čas příliš pomalý",
       "file": "basne_z_koncentracniho_tabora_025.html",
       "words": 148,
-      "chars": 768,
-      "ideas": 22,
+      "chars": 769,
+      "ideas": 21,
       "role": "chapter",
       "order": 21,
       "prev": "basne_z_koncentracniho_tabora_024.html",
@@ -448,14 +569,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Čas\npříliš pomalý",
+          "name": "Čas příliš pomalý",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Z jara • Básně z koncentračního tábora",
+      "title": "Z jara",
       "file": "basne_z_koncentracniho_tabora_026.html",
       "words": 2,
       "chars": 6,
@@ -475,7 +596,7 @@
       ]
     },
     {
-      "title": "Ráno • Básně z koncentračního tábora",
+      "title": "Ráno",
       "file": "basne_z_koncentracniho_tabora_027.html",
       "words": 1,
       "chars": 4,
@@ -495,11 +616,11 @@
       ]
     },
     {
-      "title": "Co\nvšechno • Básně z koncentračního tábora",
+      "title": "Co všechno",
       "file": "basne_z_koncentracniho_tabora_028.html",
       "words": 73,
-      "chars": 356,
-      "ideas": 12,
+      "chars": 357,
+      "ideas": 11,
       "role": "chapter",
       "order": 24,
       "prev": "basne_z_koncentracniho_tabora_027.html",
@@ -508,18 +629,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Co\nvšechno",
+          "name": "Co všechno",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Vzpomínka\nII • Básně z koncentračního tábora",
+      "title": "Vzpomínka II",
       "file": "basne_z_koncentracniho_tabora_029.html",
       "words": 45,
-      "chars": 207,
-      "ideas": 8,
+      "chars": 208,
+      "ideas": 7,
       "role": "chapter",
       "order": 25,
       "prev": "basne_z_koncentracniho_tabora_028.html",
@@ -528,18 +649,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vzpomínka\nII",
+          "name": "Vzpomínka II",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Den\ni noc • Básně z koncentračního tábora",
+      "title": "Den i noc",
       "file": "basne_z_koncentracniho_tabora_030.html",
       "words": 73,
-      "chars": 378,
-      "ideas": 14,
+      "chars": 379,
+      "ideas": 13,
       "role": "chapter",
       "order": 26,
       "prev": "basne_z_koncentracniho_tabora_029.html",
@@ -548,14 +669,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Den\ni noc",
+          "name": "Den i noc",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Cvrček • Básně z koncentračního tábora",
+      "title": "Cvrček",
       "file": "basne_z_koncentracniho_tabora_031.html",
       "words": 1,
       "chars": 6,
@@ -575,11 +696,11 @@
       ]
     },
     {
-      "title": "Za\nbratrem • Básně z koncentračního tábora",
+      "title": "Za bratrem",
       "file": "basne_z_koncentracniho_tabora_032.html",
       "words": 2,
-      "chars": 9,
-      "ideas": 2,
+      "chars": 10,
+      "ideas": 1,
       "role": "chapter",
       "order": 28,
       "prev": "basne_z_koncentracniho_tabora_031.html",
@@ -588,14 +709,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Za\nbratrem",
+          "name": "Za bratrem",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "V předjaří • Básně z koncentračního tábora",
+      "title": "V předjaří",
       "file": "basne_z_koncentracniho_tabora_033.html",
       "words": 2,
       "chars": 10,
@@ -615,7 +736,7 @@
       ]
     },
     {
-      "title": "Oblaka • Básně z koncentračního tábora",
+      "title": "Oblaka",
       "file": "basne_z_koncentracniho_tabora_034.html",
       "words": 232,
       "chars": 1294,
@@ -635,7 +756,7 @@
       ]
     },
     {
-      "title": "Mřížemi • Básně z koncentračního tábora",
+      "title": "Mřížemi",
       "file": "basne_z_koncentracniho_tabora_035.html",
       "words": 1,
       "chars": 7,
@@ -655,7 +776,7 @@
       ]
     },
     {
-      "title": "Vítr • Básně z koncentračního tábora",
+      "title": "Vítr",
       "file": "basne_z_koncentracniho_tabora_036.html",
       "words": 244,
       "chars": 1283,
@@ -675,7 +796,7 @@
       ]
     },
     {
-      "title": "Obrazy • Básně z koncentračního tábora",
+      "title": "Obrazy",
       "file": "basne_z_koncentracniho_tabora_037.html",
       "words": 339,
       "chars": 1879,
@@ -695,7 +816,7 @@
       ]
     },
     {
-      "title": "Kdysi • Básně z koncentračního tábora",
+      "title": "Kdysi",
       "file": "basne_z_koncentracniho_tabora_038.html",
       "words": 1,
       "chars": 5,
@@ -715,11 +836,11 @@
       ]
     },
     {
-      "title": "Sem\na tam • Básně z koncentračního tábora",
+      "title": "Sem a tam",
       "file": "basne_z_koncentracniho_tabora_039.html",
       "words": 127,
-      "chars": 648,
-      "ideas": 22,
+      "chars": 649,
+      "ideas": 21,
       "role": "chapter",
       "order": 35,
       "prev": "basne_z_koncentracniho_tabora_038.html",
@@ -728,14 +849,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Sem\na tam",
+          "name": "Sem a tam",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Zpěvák • Básně z koncentračního tábora",
+      "title": "Zpěvák",
       "file": "basne_z_koncentracniho_tabora_040.html",
       "words": 114,
       "chars": 583,
@@ -755,7 +876,7 @@
       ]
     },
     {
-      "title": "Melancholie • Básně z koncentračního tábora",
+      "title": "Melancholie",
       "file": "basne_z_koncentracniho_tabora_041.html",
       "words": 503,
       "chars": 2713,
@@ -775,11 +896,11 @@
       ]
     },
     {
-      "title": "Mrtvé\ns vozu… • Básně z koncentračního tábora",
+      "title": "Mrtvé s vozu…",
       "file": "basne_z_koncentracniho_tabora_042.html",
       "words": 248,
-      "chars": 1256,
-      "ideas": 27,
+      "chars": 1257,
+      "ideas": 26,
       "role": "chapter",
       "order": 38,
       "prev": "basne_z_koncentracniho_tabora_041.html",
@@ -788,14 +909,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Mrtvé\ns vozu…",
+          "name": "Mrtvé s vozu…",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Verše • Básně z koncentračního tábora",
+      "title": "Verše",
       "file": "basne_z_koncentracniho_tabora_043.html",
       "words": 92,
       "chars": 464,
@@ -815,11 +936,11 @@
       ]
     },
     {
-      "title": "Škoda\npřeškoda • Básně z koncentračního tábora",
+      "title": "Škoda přeškoda",
       "file": "basne_z_koncentracniho_tabora_044.html",
       "words": 144,
-      "chars": 814,
-      "ideas": 25,
+      "chars": 815,
+      "ideas": 24,
       "role": "chapter",
       "order": 40,
       "prev": "basne_z_koncentracniho_tabora_043.html",
@@ -828,18 +949,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Škoda\npřeškoda",
+          "name": "Škoda přeškoda",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Oknem\nsvé cely… • Básně z koncentračního tábora",
+      "title": "Oknem své cely…",
       "file": "basne_z_koncentracniho_tabora_045.html",
       "words": 3,
-      "chars": 14,
-      "ideas": 2,
+      "chars": 15,
+      "ideas": 1,
       "role": "chapter",
       "order": 41,
       "prev": "basne_z_koncentracniho_tabora_044.html",
@@ -848,18 +969,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Oknem\nsvé cely…",
+          "name": "Oknem své cely…",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Sem\nk nám • Básně z koncentračního tábora",
+      "title": "Sem k nám",
       "file": "basne_z_koncentracniho_tabora_046.html",
       "words": 134,
-      "chars": 657,
-      "ideas": 20,
+      "chars": 658,
+      "ideas": 19,
       "role": "chapter",
       "order": 42,
       "prev": "basne_z_koncentracniho_tabora_045.html",
@@ -868,18 +989,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Sem\nk nám",
+          "name": "Sem k nám",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ač\njeden jen lidský život • Básně z koncentračního tábora",
+      "title": "Ač jeden jen lidský život",
       "file": "basne_z_koncentracniho_tabora_047.html",
       "words": 5,
-      "chars": 24,
-      "ideas": 2,
+      "chars": 25,
+      "ideas": 1,
       "role": "chapter",
       "order": 43,
       "prev": "basne_z_koncentracniho_tabora_046.html",
@@ -888,18 +1009,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ač\njeden jen lidský život",
+          "name": "Ač jeden jen lidský život",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "K Rilkově\nbásni • Básně z koncentračního tábora",
+      "title": "K Rilkově básni",
       "file": "basne_z_koncentracniho_tabora_048.html",
       "words": 73,
-      "chars": 389,
-      "ideas": 15,
+      "chars": 390,
+      "ideas": 14,
       "role": "chapter",
       "order": 44,
       "prev": "basne_z_koncentracniho_tabora_047.html",
@@ -908,18 +1029,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "K Rilkově\nbásni",
+          "name": "K Rilkově básni",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Místo\ndopisu • Básně z koncentračního tábora",
+      "title": "Místo dopisu",
       "file": "basne_z_koncentracniho_tabora_049.html",
       "words": 124,
-      "chars": 684,
-      "ideas": 20,
+      "chars": 685,
+      "ideas": 19,
       "role": "chapter",
       "order": 45,
       "prev": "basne_z_koncentracniho_tabora_048.html",
@@ -928,18 +1049,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Místo\ndopisu",
+          "name": "Místo dopisu",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nechť\njak chce zle • Básně z koncentračního tábora",
+      "title": "Nechť jak chce zle",
       "file": "basne_z_koncentracniho_tabora_050.html",
       "words": 81,
-      "chars": 420,
-      "ideas": 18,
+      "chars": 421,
+      "ideas": 17,
       "role": "chapter",
       "order": 46,
       "prev": "basne_z_koncentracniho_tabora_049.html",
@@ -948,18 +1069,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Nechť\njak chce zle",
+          "name": "Nechť jak chce zle",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Na\nmáchovský motiv • Básně z koncentračního tábora",
+      "title": "Na máchovský motiv",
       "file": "basne_z_koncentracniho_tabora_051.html",
       "words": 3,
-      "chars": 17,
-      "ideas": 2,
+      "chars": 18,
+      "ideas": 1,
       "role": "chapter",
       "order": 47,
       "prev": "basne_z_koncentracniho_tabora_050.html",
@@ -968,14 +1089,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Na\nmáchovský motiv",
+          "name": "Na máchovský motiv",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ty • Básně z koncentračního tábora",
+      "title": "Ty",
       "file": "basne_z_koncentracniho_tabora_052.html",
       "words": 194,
       "chars": 1086,
@@ -995,11 +1116,11 @@
       ]
     },
     {
-      "title": "Mrtví\nz Heinkel • Básně z koncentračního tábora",
+      "title": "Mrtví z Heinkel",
       "file": "basne_z_koncentracniho_tabora_053.html",
       "words": 229,
-      "chars": 1227,
-      "ideas": 34,
+      "chars": 1228,
+      "ideas": 33,
       "role": "chapter",
       "order": 49,
       "prev": "basne_z_koncentracniho_tabora_052.html",
@@ -1008,18 +1129,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Mrtví\nz Heinkel",
+          "name": "Mrtví z Heinkel",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Mrtvého\nnesli • Básně z koncentračního tábora",
+      "title": "Mrtvého nesli",
       "file": "basne_z_koncentracniho_tabora_054.html",
       "words": 115,
-      "chars": 623,
-      "ideas": 26,
+      "chars": 624,
+      "ideas": 25,
       "role": "chapter",
       "order": 50,
       "prev": "basne_z_koncentracniho_tabora_053.html",
@@ -1028,18 +1149,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Mrtvého\nnesli",
+          "name": "Mrtvého nesli",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Zářivou\noponou • Básně z koncentračního tábora",
+      "title": "Zářivou oponou",
       "file": "basne_z_koncentracniho_tabora_055.html",
       "words": 2,
-      "chars": 13,
-      "ideas": 2,
+      "chars": 14,
+      "ideas": 1,
       "role": "chapter",
       "order": 51,
       "prev": "basne_z_koncentracniho_tabora_054.html",
@@ -1048,18 +1169,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Zářivou\noponou",
+          "name": "Zářivou oponou",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Když\nplachá divá zvěř — • Básně z koncentračního tábora",
+      "title": "Když plachá divá zvěř —",
       "file": "basne_z_koncentracniho_tabora_056.html",
       "words": 5,
-      "chars": 22,
-      "ideas": 2,
+      "chars": 23,
+      "ideas": 1,
       "role": "chapter",
       "order": 52,
       "prev": "basne_z_koncentracniho_tabora_055.html",
@@ -1068,14 +1189,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Když\nplachá divá zvěř —",
+          "name": "Když plachá divá zvěř —",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Svlačec • Básně z koncentračního tábora",
+      "title": "Svlačec",
       "file": "basne_z_koncentracniho_tabora_057.html",
       "words": 1,
       "chars": 7,
@@ -1095,7 +1216,7 @@
       ]
     },
     {
-      "title": "Píseň • Básně z koncentračního tábora",
+      "title": "Píseň",
       "file": "basne_z_koncentracniho_tabora_058.html",
       "words": 62,
       "chars": 340,
@@ -1115,7 +1236,7 @@
       ]
     },
     {
-      "title": "Píseň • Básně z koncentračního tábora",
+      "title": "Píseň",
       "file": "basne_z_koncentracniho_tabora_059.html",
       "words": 54,
       "chars": 305,
@@ -1135,11 +1256,11 @@
       ]
     },
     {
-      "title": "Já\ndávno života zvuk šťastný\nnezaslech… • Básně z koncentračního tábora",
+      "title": "Já dávno života zvuk šťastný nezaslech…",
       "file": "basne_z_koncentracniho_tabora_060.html",
       "words": 6,
-      "chars": 37,
-      "ideas": 3,
+      "chars": 39,
+      "ideas": 1,
       "role": "chapter",
       "order": 56,
       "prev": "basne_z_koncentracniho_tabora_059.html",
@@ -1148,18 +1269,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Já\ndávno života zvuk šťastný\nnezaslech…",
+          "name": "Já dávno života zvuk šťastný nezaslech…",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Jedna\npravda • Básně z koncentračního tábora",
+      "title": "Jedna pravda",
       "file": "basne_z_koncentracniho_tabora_061.html",
       "words": 2,
-      "chars": 11,
-      "ideas": 2,
+      "chars": 12,
+      "ideas": 1,
       "role": "chapter",
       "order": 57,
       "prev": "basne_z_koncentracniho_tabora_060.html",
@@ -1168,14 +1289,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jedna\npravda",
+          "name": "Jedna pravda",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Zbědovaný • Básně z koncentračního tábora",
+      "title": "Zbědovaný",
       "file": "basne_z_koncentracniho_tabora_062.html",
       "words": 289,
       "chars": 1457,
@@ -1195,7 +1316,7 @@
       ]
     },
     {
-      "title": "Pěnkava • Básně z koncentračního tábora",
+      "title": "Pěnkava",
       "file": "basne_z_koncentracniho_tabora_063.html",
       "words": 83,
       "chars": 456,
@@ -1215,7 +1336,7 @@
       ]
     },
     {
-      "title": "V bouřlivém dění • Básně z koncentračního tábora",
+      "title": "V bouřlivém dění",
       "file": "basne_z_koncentracniho_tabora_064.html",
       "words": 3,
       "chars": 16,
@@ -1235,11 +1356,11 @@
       ]
     },
     {
-      "title": "Jestliže,\nvězni • Básně z koncentračního tábora",
+      "title": "Jestliže, vězni",
       "file": "basne_z_koncentracniho_tabora_065.html",
       "words": 2,
-      "chars": 14,
-      "ideas": 2,
+      "chars": 15,
+      "ideas": 1,
       "role": "chapter",
       "order": 61,
       "prev": "basne_z_koncentracniho_tabora_064.html",
@@ -1248,14 +1369,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jestliže,\nvězni",
+          "name": "Jestliže, vězni",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Čekání • Básně z koncentračního tábora",
+      "title": "Čekání",
       "file": "basne_z_koncentracniho_tabora_066.html",
       "words": 241,
       "chars": 1203,
@@ -1275,11 +1396,11 @@
       ]
     },
     {
-      "title": "Ty,\nkterý… • Básně z koncentračního tábora",
+      "title": "Ty, který…",
       "file": "basne_z_koncentracniho_tabora_067.html",
       "words": 246,
-      "chars": 1353,
-      "ideas": 31,
+      "chars": 1354,
+      "ideas": 30,
       "role": "chapter",
       "order": 63,
       "prev": "basne_z_koncentracniho_tabora_066.html",
@@ -1288,14 +1409,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ty,\nkterý…",
+          "name": "Ty, který…",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "O naději • Básně z koncentračního tábora",
+      "title": "O naději",
       "file": "basne_z_koncentracniho_tabora_068.html",
       "words": 2,
       "chars": 8,
@@ -1315,11 +1436,11 @@
       ]
     },
     {
-      "title": "Pátý\nrok • Básně z koncentračního tábora",
+      "title": "Pátý rok",
       "file": "basne_z_koncentracniho_tabora_069.html",
       "words": 2,
-      "chars": 7,
-      "ideas": 2,
+      "chars": 8,
+      "ideas": 1,
       "role": "chapter",
       "order": 65,
       "prev": "basne_z_koncentracniho_tabora_068.html",
@@ -1328,18 +1449,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pátý\nrok",
+          "name": "Pátý rok",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "V zlatavé\nzáři • Básně z koncentračního tábora",
+      "title": "V zlatavé záři",
       "file": "basne_z_koncentracniho_tabora_070.html",
       "words": 3,
-      "chars": 13,
-      "ideas": 2,
+      "chars": 14,
+      "ideas": 1,
       "role": "chapter",
       "order": 66,
       "prev": "basne_z_koncentracniho_tabora_069.html",
@@ -1348,18 +1469,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "V zlatavé\nzáři",
+          "name": "V zlatavé záři",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pět\nroků • Básně z koncentračního tábora",
+      "title": "Pět roků",
       "file": "basne_z_koncentracniho_tabora_071.html",
       "words": 2,
-      "chars": 7,
-      "ideas": 2,
+      "chars": 8,
+      "ideas": 1,
       "role": "chapter",
       "order": 67,
       "prev": "basne_z_koncentracniho_tabora_070.html",
@@ -1368,18 +1489,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pět\nroků",
+          "name": "Pět roků",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pět\nroků • Básně z koncentračního tábora",
+      "title": "Pět roků",
       "file": "basne_z_koncentracniho_tabora_072.html",
       "words": 111,
-      "chars": 576,
-      "ideas": 26,
+      "chars": 577,
+      "ideas": 25,
       "role": "chapter",
       "order": 68,
       "prev": "basne_z_koncentracniho_tabora_071.html",
@@ -1388,18 +1509,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pět\nroků",
+          "name": "Pět roků",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Za\nbratrem • Básně z koncentračního tábora",
+      "title": "Za bratrem",
       "file": "basne_z_koncentracniho_tabora_073.html",
       "words": 2,
-      "chars": 9,
-      "ideas": 2,
+      "chars": 10,
+      "ideas": 1,
       "role": "chapter",
       "order": 69,
       "prev": "basne_z_koncentracniho_tabora_072.html",
@@ -1408,18 +1529,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Za\nbratrem",
+          "name": "Za bratrem",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pět\nroků • Básně z koncentračního tábora",
+      "title": "Pět roků",
       "file": "basne_z_koncentracniho_tabora_074.html",
       "words": 128,
-      "chars": 674,
-      "ideas": 20,
+      "chars": 675,
+      "ideas": 19,
       "role": "chapter",
       "order": 70,
       "prev": "basne_z_koncentracniho_tabora_073.html",
@@ -1428,14 +1549,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pět\nroků",
+          "name": "Pět roků",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nechť • Básně z koncentračního tábora",
+      "title": "Nechť",
       "file": "basne_z_koncentracniho_tabora_075.html",
       "words": 89,
       "chars": 528,
@@ -1455,11 +1576,11 @@
       ]
     },
     {
-      "title": "Podzimu\nnamále • Básně z koncentračního tábora",
+      "title": "Podzimu namále",
       "file": "basne_z_koncentracniho_tabora_076.html",
       "words": 59,
-      "chars": 345,
-      "ideas": 11,
+      "chars": 346,
+      "ideas": 10,
       "role": "chapter",
       "order": 72,
       "prev": "basne_z_koncentracniho_tabora_075.html",
@@ -1468,18 +1589,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Podzimu\nnamále",
+          "name": "Podzimu namále",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Listopad\n1944 • Básně z koncentračního tábora",
+      "title": "Listopad 1944",
       "file": "basne_z_koncentracniho_tabora_077.html",
       "words": 125,
-      "chars": 631,
-      "ideas": 28,
+      "chars": 632,
+      "ideas": 27,
       "role": "chapter",
       "order": 73,
       "prev": "basne_z_koncentracniho_tabora_076.html",
@@ -1488,18 +1609,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Listopad\n1944",
+          "name": "Listopad 1944",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Těžká\nchvíle • Básně z koncentračního tábora",
+      "title": "Těžká chvíle",
       "file": "basne_z_koncentracniho_tabora_078.html",
       "words": 2,
-      "chars": 11,
-      "ideas": 2,
+      "chars": 12,
+      "ideas": 1,
       "role": "chapter",
       "order": 74,
       "prev": "basne_z_koncentracniho_tabora_077.html",
@@ -1508,14 +1629,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Těžká\nchvíle",
+          "name": "Těžká chvíle",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Píseň • Básně z koncentračního tábora",
+      "title": "Píseň",
       "file": "basne_z_koncentracniho_tabora_079.html",
       "words": 139,
       "chars": 753,
@@ -1535,11 +1656,11 @@
       ]
     },
     {
-      "title": "Chvíle\nbeznaděje • Básně z koncentračního tábora",
+      "title": "Chvíle beznaděje",
       "file": "basne_z_koncentracniho_tabora_080.html",
       "words": 231,
-      "chars": 1353,
-      "ideas": 52,
+      "chars": 1354,
+      "ideas": 51,
       "role": "chapter",
       "order": 76,
       "prev": "basne_z_koncentracniho_tabora_079.html",
@@ -1548,14 +1669,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Chvíle\nbeznaděje",
+          "name": "Chvíle beznaděje",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Přátelům • Básně z koncentračního tábora",
+      "title": "Přátelům",
       "file": "basne_z_koncentracniho_tabora_081.html",
       "words": 235,
       "chars": 1308,
@@ -1575,7 +1696,7 @@
       ]
     },
     {
-      "title": "Píseň • Básně z koncentračního tábora",
+      "title": "Píseň",
       "file": "basne_z_koncentracniho_tabora_082.html",
       "words": 76,
       "chars": 436,
@@ -1595,7 +1716,7 @@
       ]
     },
     {
-      "title": "Píseň • Básně z koncentračního tábora",
+      "title": "Píseň",
       "file": "basne_z_koncentracniho_tabora_083.html",
       "words": 56,
       "chars": 349,
@@ -1615,7 +1736,7 @@
       ]
     },
     {
-      "title": "Verše • Básně z koncentračního tábora",
+      "title": "Verše",
       "file": "basne_z_koncentracniho_tabora_084.html",
       "words": 231,
       "chars": 1254,
@@ -1635,11 +1756,11 @@
       ]
     },
     {
-      "title": "Té\nohavnosti • Básně z koncentračního tábora",
+      "title": "Té ohavnosti",
       "file": "basne_z_koncentracniho_tabora_085.html",
       "words": 378,
-      "chars": 2168,
-      "ideas": 68,
+      "chars": 2169,
+      "ideas": 67,
       "role": "chapter",
       "order": 81,
       "prev": "basne_z_koncentracniho_tabora_084.html",
@@ -1648,14 +1769,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Té\nohavnosti",
+          "name": "Té ohavnosti",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Píseň • Básně z koncentračního tábora",
+      "title": "Píseň",
       "file": "basne_z_koncentracniho_tabora_086.html",
       "words": 43,
       "chars": 227,
@@ -1675,7 +1796,7 @@
       ]
     },
     {
-      "title": "Mužové • Básně z koncentračního tábora",
+      "title": "Mužové",
       "file": "basne_z_koncentracniho_tabora_087.html",
       "words": 106,
       "chars": 584,
@@ -1695,11 +1816,11 @@
       ]
     },
     {
-      "title": "Pocta\nženám • Básně z koncentračního tábora",
+      "title": "Pocta ženám",
       "file": "basne_z_koncentracniho_tabora_088.html",
       "words": 2,
-      "chars": 10,
-      "ideas": 2,
+      "chars": 11,
+      "ideas": 1,
       "role": "chapter",
       "order": 84,
       "prev": "basne_z_koncentracniho_tabora_087.html",
@@ -1708,18 +1829,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pocta\nženám",
+          "name": "Pocta ženám",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Tak\nmnohý • Básně z koncentračního tábora",
+      "title": "Tak mnohý",
       "file": "basne_z_koncentracniho_tabora_089.html",
       "words": 64,
-      "chars": 345,
-      "ideas": 14,
+      "chars": 346,
+      "ideas": 13,
       "role": "chapter",
       "order": 85,
       "prev": "basne_z_koncentracniho_tabora_088.html",
@@ -1728,18 +1849,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Tak\nmnohý",
+          "name": "Tak mnohý",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Mé\nsrdce • Básně z koncentračního tábora",
+      "title": "Mé srdce",
       "file": "basne_z_koncentracniho_tabora_090.html",
       "words": 94,
-      "chars": 485,
-      "ideas": 22,
+      "chars": 486,
+      "ideas": 21,
       "role": "chapter",
       "order": 86,
       "prev": "basne_z_koncentracniho_tabora_089.html",
@@ -1748,18 +1869,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Mé\nsrdce",
+          "name": "Mé srdce",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Prosinec\n1944 • Básně z koncentračního tábora",
+      "title": "Prosinec 1944",
       "file": "basne_z_koncentracniho_tabora_091.html",
       "words": 134,
-      "chars": 693,
-      "ideas": 22,
+      "chars": 694,
+      "ideas": 21,
       "role": "chapter",
       "order": 87,
       "prev": "basne_z_koncentracniho_tabora_090.html",
@@ -1768,14 +1889,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Prosinec\n1944",
+          "name": "Prosinec 1944",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Štědrý den v táboře • Básně z koncentračního tábora",
+      "title": "Štědrý den v táboře",
       "file": "basne_z_koncentracniho_tabora_092.html",
       "words": 4,
       "chars": 19,
@@ -1795,11 +1916,11 @@
       ]
     },
     {
-      "title": "Ve\nvýročí úmrtí • Básně z koncentračního tábora",
+      "title": "Ve výročí úmrtí",
       "file": "basne_z_koncentracniho_tabora_093.html",
       "words": 297,
-      "chars": 1652,
-      "ideas": 46,
+      "chars": 1653,
+      "ideas": 45,
       "role": "chapter",
       "order": 89,
       "prev": "basne_z_koncentracniho_tabora_092.html",
@@ -1808,18 +1929,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ve\nvýročí úmrtí",
+          "name": "Ve výročí úmrtí",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Mé\nženě • Básně z koncentračního tábora",
+      "title": "Mé ženě",
       "file": "basne_z_koncentracniho_tabora_094.html",
       "words": 69,
-      "chars": 369,
-      "ideas": 14,
+      "chars": 370,
+      "ideas": 13,
       "role": "chapter",
       "order": 90,
       "prev": "basne_z_koncentracniho_tabora_093.html",
@@ -1828,14 +1949,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Mé\nženě",
+          "name": "Mé ženě",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Píseň • Básně z koncentračního tábora",
+      "title": "Píseň",
       "file": "basne_z_koncentracniho_tabora_095.html",
       "words": 1,
       "chars": 5,
@@ -1855,7 +1976,7 @@
       ]
     },
     {
-      "title": "Píseň • Básně z koncentračního tábora",
+      "title": "Píseň",
       "file": "basne_z_koncentracniho_tabora_096.html",
       "words": 1,
       "chars": 5,
@@ -1875,7 +1996,7 @@
       ]
     },
     {
-      "title": "X • Básně z koncentračního tábora",
+      "title": "X",
       "file": "basne_z_koncentracniho_tabora_097.html",
       "words": 135,
       "chars": 681,
@@ -1895,7 +2016,7 @@
       ]
     },
     {
-      "title": "Píseň • Básně z koncentračního tábora",
+      "title": "Píseň",
       "file": "basne_z_koncentracniho_tabora_098.html",
       "words": 1,
       "chars": 5,
@@ -1915,7 +2036,7 @@
       ]
     },
     {
-      "title": "Píseň • Básně z koncentračního tábora",
+      "title": "Píseň",
       "file": "basne_z_koncentracniho_tabora_099.html",
       "words": 1,
       "chars": 5,
@@ -1935,7 +2056,7 @@
       ]
     },
     {
-      "title": "Píseň • Básně z koncentračního tábora",
+      "title": "Píseň",
       "file": "basne_z_koncentracniho_tabora_100.html",
       "words": 69,
       "chars": 393,
@@ -1955,7 +2076,7 @@
       ]
     },
     {
-      "title": "Píseň • Básně z koncentračního tábora",
+      "title": "Píseň",
       "file": "basne_z_koncentracniho_tabora_101.html",
       "words": 1,
       "chars": 5,
@@ -1975,7 +2096,7 @@
       ]
     },
     {
-      "title": "Vítr • Básně z koncentračního tábora",
+      "title": "Vítr",
       "file": "basne_z_koncentracniho_tabora_102.html",
       "words": 1,
       "chars": 4,
@@ -1995,7 +2116,7 @@
       ]
     },
     {
-      "title": "Na chvilku zvolni svůj běh • Básně z koncentračního tábora",
+      "title": "Na chvilku zvolni svůj běh",
       "file": "basne_z_koncentracniho_tabora_103.html",
       "words": 5,
       "chars": 26,
@@ -2015,7 +2136,7 @@
       ]
     },
     {
-      "title": "Rakví • Básně z koncentračního tábora",
+      "title": "Rakví",
       "file": "basne_z_koncentracniho_tabora_104.html",
       "words": 1,
       "chars": 5,
@@ -2035,7 +2156,7 @@
       ]
     },
     {
-      "title": "Píseň • Básně z koncentračního tábora",
+      "title": "Píseň",
       "file": "basne_z_koncentracniho_tabora_105.html",
       "words": 58,
       "chars": 350,
@@ -2055,11 +2176,11 @@
       ]
     },
     {
-      "title": "Ne\ndálka • Básně z koncentračního tábora",
+      "title": "Ne dálka",
       "file": "basne_z_koncentracniho_tabora_106.html",
       "words": 2,
-      "chars": 7,
-      "ideas": 2,
+      "chars": 8,
+      "ideas": 1,
       "role": "chapter",
       "order": 102,
       "prev": "basne_z_koncentracniho_tabora_105.html",
@@ -2068,14 +2189,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ne\ndálka",
+          "name": "Ne dálka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Mrtvým • Básně z koncentračního tábora",
+      "title": "Mrtvým",
       "file": "basne_z_koncentracniho_tabora_107.html",
       "words": 1,
       "chars": 6,
@@ -2095,11 +2216,11 @@
       ]
     },
     {
-      "title": "Josefu\nKořínkovi • Básně z koncentračního tábora",
+      "title": "Josefu Kořínkovi",
       "file": "basne_z_koncentracniho_tabora_108.html",
       "words": 117,
-      "chars": 611,
-      "ideas": 26,
+      "chars": 612,
+      "ideas": 25,
       "role": "chapter",
       "order": 104,
       "prev": "basne_z_koncentracniho_tabora_107.html",
@@ -2108,18 +2229,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Josefu\nKořínkovi",
+          "name": "Josefu Kořínkovi",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ne\nještě dávno • Básně z koncentračního tábora",
+      "title": "Ne ještě dávno",
       "file": "basne_z_koncentracniho_tabora_109.html",
       "words": 3,
-      "chars": 13,
-      "ideas": 2,
+      "chars": 14,
+      "ideas": 1,
       "role": "chapter",
       "order": 105,
       "prev": "basne_z_koncentracniho_tabora_108.html",
@@ -2128,18 +2249,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ne\nještě dávno",
+          "name": "Ne ještě dávno",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Mé\ndceři • Básně z koncentračního tábora",
+      "title": "Mé dceři",
       "file": "basne_z_koncentracniho_tabora_110.html",
       "words": 133,
-      "chars": 684,
-      "ideas": 18,
+      "chars": 685,
+      "ideas": 17,
       "role": "chapter",
       "order": 106,
       "prev": "basne_z_koncentracniho_tabora_109.html",
@@ -2148,18 +2269,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Mé\ndceři",
+          "name": "Mé dceři",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Stříbrným\nkrajkovím • Básně z koncentračního tábora",
+      "title": "Stříbrným krajkovím",
       "file": "basne_z_koncentracniho_tabora_111.html",
       "words": 62,
-      "chars": 343,
-      "ideas": 10,
+      "chars": 344,
+      "ideas": 9,
       "role": "chapter",
       "order": 107,
       "prev": "basne_z_koncentracniho_tabora_110.html",
@@ -2168,14 +2289,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Stříbrným\nkrajkovím",
+          "name": "Stříbrným krajkovím",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Komíny skřípají • Básně z koncentračního tábora",
+      "title": "Komíny skřípají",
       "file": "basne_z_koncentracniho_tabora_112.html",
       "words": 118,
       "chars": 621,
@@ -2195,11 +2316,11 @@
       ]
     },
     {
-      "title": "Byť\ni po noci • Básně z koncentračního tábora",
+      "title": "Byť i po noci",
       "file": "basne_z_koncentracniho_tabora_113.html",
       "words": 4,
-      "chars": 12,
-      "ideas": 2,
+      "chars": 13,
+      "ideas": 1,
       "role": "chapter",
       "order": 109,
       "prev": "basne_z_koncentracniho_tabora_112.html",
@@ -2208,18 +2329,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Byť\ni po noci",
+          "name": "Byť i po noci",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Poslední\nsníh • Básně z koncentračního tábora",
+      "title": "Poslední sníh",
       "file": "basne_z_koncentracniho_tabora_114.html",
       "words": 77,
-      "chars": 464,
-      "ideas": 14,
+      "chars": 465,
+      "ideas": 13,
       "role": "chapter",
       "order": 110,
       "prev": "basne_z_koncentracniho_tabora_113.html",
@@ -2228,18 +2349,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Poslední\nsníh",
+          "name": "Poslední sníh",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Až\nna dně života • Básně z koncentračního tábora",
+      "title": "Až na dně života",
       "file": "basne_z_koncentracniho_tabora_115.html",
       "words": 142,
-      "chars": 726,
-      "ideas": 20,
+      "chars": 727,
+      "ideas": 19,
       "role": "chapter",
       "order": 111,
       "prev": "basne_z_koncentracniho_tabora_114.html",
@@ -2248,18 +2369,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Až\nna dně života",
+          "name": "Až na dně života",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "V předjarním\nslunci • Básně z koncentračního tábora",
+      "title": "V předjarním slunci",
       "file": "basne_z_koncentracniho_tabora_116.html",
       "words": 87,
-      "chars": 456,
-      "ideas": 16,
+      "chars": 457,
+      "ideas": 15,
       "role": "chapter",
       "order": 112,
       "prev": "basne_z_koncentracniho_tabora_115.html",
@@ -2268,18 +2389,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "V předjarním\nslunci",
+          "name": "V předjarním slunci",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ten\ntichý hlas • Básně z koncentračního tábora",
+      "title": "Ten tichý hlas",
       "file": "basne_z_koncentracniho_tabora_117.html",
       "words": 113,
-      "chars": 638,
-      "ideas": 22,
+      "chars": 639,
+      "ideas": 21,
       "role": "chapter",
       "order": 113,
       "prev": "basne_z_koncentracniho_tabora_116.html",
@@ -2288,18 +2409,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ten\ntichý hlas",
+          "name": "Ten tichý hlas",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Na\nnaše ženy • Básně z koncentračního tábora",
+      "title": "Na naše ženy",
       "file": "basne_z_koncentracniho_tabora_118.html",
       "words": 107,
-      "chars": 592,
-      "ideas": 14,
+      "chars": 593,
+      "ideas": 13,
       "role": "chapter",
       "order": 114,
       "prev": "basne_z_koncentracniho_tabora_117.html",
@@ -2308,14 +2429,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Na\nnaše ženy",
+          "name": "Na naše ženy",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Zima • Básně z koncentračního tábora",
+      "title": "Zima",
       "file": "basne_z_koncentracniho_tabora_119.html",
       "words": 1,
       "chars": 4,
@@ -2335,7 +2456,7 @@
       ]
     },
     {
-      "title": "Předjaří • Básně z koncentračního tábora",
+      "title": "Předjaří",
       "file": "basne_z_koncentracniho_tabora_120.html",
       "words": 1,
       "chars": 8,
@@ -2355,7 +2476,7 @@
       ]
     },
     {
-      "title": "Čekání • Básně z koncentračního tábora",
+      "title": "Čekání",
       "file": "basne_z_koncentracniho_tabora_121.html",
       "words": 1,
       "chars": 6,
@@ -2375,11 +2496,11 @@
       ]
     },
     {
-      "title": "Lidskost\na přátelství • Básně z koncentračního tábora",
+      "title": "Lidskost a přátelství",
       "file": "basne_z_koncentracniho_tabora_122.html",
       "words": 171,
-      "chars": 933,
-      "ideas": 27,
+      "chars": 934,
+      "ideas": 26,
       "role": "chapter",
       "order": 118,
       "prev": "basne_z_koncentracniho_tabora_121.html",
@@ -2388,18 +2509,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Lidskost\na přátelství",
+          "name": "Lidskost a přátelství",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Těžkomyslnost\n(K. Cidlíkovi) • Básně z koncentračního tábora",
+      "title": "Těžkomyslnost (K. Cidlíkovi)",
       "file": "basne_z_koncentracniho_tabora_123.html",
       "words": 720,
-      "chars": 3909,
-      "ideas": 122,
+      "chars": 3910,
+      "ideas": 121,
       "role": "chapter",
       "order": 119,
       "prev": "basne_z_koncentracniho_tabora_122.html",
@@ -2408,7 +2529,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Těžkomyslnost\n(K. Cidlíkovi)",
+          "name": "Těžkomyslnost (K. Cidlíkovi)",
           "id": null,
           "children": [
             {
@@ -2437,11 +2558,11 @@
       ]
     },
     {
-      "title": "Tak\nse rozlétnout • Básně z koncentračního tábora",
+      "title": "Tak se rozlétnout",
       "file": "basne_z_koncentracniho_tabora_124.html",
       "words": 3,
-      "chars": 16,
-      "ideas": 2,
+      "chars": 17,
+      "ideas": 1,
       "role": "chapter",
       "order": 120,
       "prev": "basne_z_koncentracniho_tabora_123.html",
@@ -2450,18 +2571,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Tak\nse rozlétnout",
+          "name": "Tak se rozlétnout",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Před\nvelikou cestou • Básně z koncentračního tábora",
+      "title": "Před velikou cestou",
       "file": "basne_z_koncentracniho_tabora_125.html",
       "words": 60,
-      "chars": 319,
-      "ideas": 14,
+      "chars": 320,
+      "ideas": 13,
       "role": "chapter",
       "order": 121,
       "prev": "basne_z_koncentracniho_tabora_124.html",
@@ -2470,14 +2591,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Před\nvelikou cestou",
+          "name": "Před velikou cestou",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ediční poznámka • Básně z koncentračního tábora",
+      "title": "Ediční poznámka",
       "file": "basne_z_koncentracniho_tabora_126.html",
       "words": 53,
       "chars": 383,
@@ -2497,11 +2618,11 @@
       ]
     },
     {
-      "title": "Život\na doba spisovatele\nJosefa Čapka v datech • Básně z koncentračního tábora",
+      "title": "Život a doba spisovatele Josefa Čapka v datech",
       "file": "basne_z_koncentracniho_tabora_127.html",
       "words": 319,
-      "chars": 2070,
-      "ideas": 26,
+      "chars": 2072,
+      "ideas": 24,
       "role": "chapter",
       "order": 123,
       "prev": "basne_z_koncentracniho_tabora_126.html",
@@ -2510,18 +2631,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život\na doba spisovatele\nJosefa Čapka v datech",
+          "name": "Život a doba spisovatele Josefa Čapka v datech",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "První\nvydání knih Josefa Čapka • Básně z koncentračního tábora",
+      "title": "První vydání knih Josefa Čapka",
       "file": "basne_z_koncentracniho_tabora_128.html",
       "words": 136,
-      "chars": 759,
-      "ideas": 38,
+      "chars": 760,
+      "ideas": 37,
       "role": "chapter",
       "order": 124,
       "prev": "basne_z_koncentracniho_tabora_127.html",
@@ -2530,18 +2651,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "První\nvydání knih Josefa Čapka",
+          "name": "První vydání knih Josefa Čapka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Tiráž • Básně z koncentračního tábora",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 141,
-      "chars": 937,
-      "ideas": 24,
+      "words": 111,
+      "chars": 743,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "basne_z_koncentracniho_tabora_128.html",
@@ -2559,14 +2680,14 @@
   ],
   "totals": {
     "all": {
-      "words": 12732,
-      "chars": 69444,
-      "ideas": 2199
+      "words": 12702,
+      "chars": 69318,
+      "ideas": 2121
     },
     "chapters": {
       "words": 12583,
-      "chars": 68456,
-      "ideas": 2171
+      "chars": 68524,
+      "ideas": 2103
     }
   }
 }

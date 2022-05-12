@@ -1,7 +1,5 @@
 ---
-title: |-
-  Na
-  máchovský motiv
+title: Na máchovský motiv
 contentType: prose
 ---
 

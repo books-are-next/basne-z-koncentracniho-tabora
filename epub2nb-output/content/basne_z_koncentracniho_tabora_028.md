@@ -1,7 +1,5 @@
 ---
-title: |-
-  Co
-  všechno
+title: Co všechno
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Jestliže,
-  vězni
+title: Jestliže, vězni
 contentType: prose
 ---
 

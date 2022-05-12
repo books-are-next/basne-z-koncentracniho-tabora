@@ -1,7 +1,5 @@
 ---
-title: |-
-  Oknem
-  své cely…
+title: Oknem své cely…
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Sem
-  a tam
+title: Sem a tam
 contentType: prose
 ---
 

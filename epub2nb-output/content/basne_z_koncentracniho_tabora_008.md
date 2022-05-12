@@ -1,7 +1,5 @@
 ---
-title: |-
-  Na
-  spánek
+title: Na spánek
 contentType: prose
 ---
 

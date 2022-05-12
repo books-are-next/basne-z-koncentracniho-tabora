@@ -1,7 +1,5 @@
 ---
-title: |-
-  Ten
-  tichý hlas
+title: Ten tichý hlas
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Mrtvého
-  nesli
+title: Mrtvého nesli
 contentType: prose
 ---
 

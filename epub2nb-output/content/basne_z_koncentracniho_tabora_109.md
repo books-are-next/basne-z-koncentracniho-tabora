@@ -1,7 +1,5 @@
 ---
-title: |-
-  Ne
-  ještě dávno
+title: Ne ještě dávno
 contentType: prose
 ---
 

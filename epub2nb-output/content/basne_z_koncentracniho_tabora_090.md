@@ -1,7 +1,5 @@
 ---
-title: |-
-  Mé
-  srdce
+title: Mé srdce
 contentType: prose
 ---
 

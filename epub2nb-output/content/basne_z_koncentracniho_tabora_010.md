@@ -1,7 +1,5 @@
 ---
-title: |-
-  Vězeňská
-  procházka
+title: Vězeňská procházka
 contentType: prose
 ---
 

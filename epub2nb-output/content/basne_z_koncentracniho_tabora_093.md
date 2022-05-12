@@ -1,7 +1,5 @@
 ---
-title: |-
-  Ve
-  výročí úmrtí
+title: Ve výročí úmrtí
 contentType: prose
 ---
 

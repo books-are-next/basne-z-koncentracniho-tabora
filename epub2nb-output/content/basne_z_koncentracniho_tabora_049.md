@@ -1,7 +1,5 @@
 ---
-title: |-
-  Místo
-  dopisu
+title: Místo dopisu
 contentType: prose
 ---
 

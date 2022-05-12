@@ -1,7 +1,5 @@
 ---
-title: |-
-  Za
-  bratrem Karlem
+title: Za bratrem Karlem
 contentType: prose
 ---
 

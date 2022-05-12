@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - basne_z_koncentracniho_tabora_002.html
+  - promo.html
   - basne_z_koncentracniho_tabora_005.html
   - basne_z_koncentracniho_tabora_006.html
   - basne_z_koncentracniho_tabora_007.html

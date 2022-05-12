@@ -1,7 +1,5 @@
 ---
-title: |-
-  Josefu
-  Kořínkovi
+title: Josefu Kořínkovi
 contentType: prose
 ---
 

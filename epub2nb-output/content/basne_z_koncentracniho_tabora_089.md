@@ -1,7 +1,5 @@
 ---
-title: |-
-  Tak
-  mnohý
+title: Tak mnohý
 contentType: prose
 ---
 

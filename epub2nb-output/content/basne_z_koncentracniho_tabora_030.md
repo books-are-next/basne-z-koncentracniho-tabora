@@ -1,7 +1,5 @@
 ---
-title: |-
-  Den
-  i noc
+title: Den i noc
 contentType: prose
 ---
 

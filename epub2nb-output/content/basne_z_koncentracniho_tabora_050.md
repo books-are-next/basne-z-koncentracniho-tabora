@@ -1,7 +1,5 @@
 ---
-title: |-
-  Nechť
-  jak chce zle
+title: Nechť jak chce zle
 contentType: prose
 ---
 

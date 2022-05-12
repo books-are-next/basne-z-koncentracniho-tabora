@@ -1,7 +1,5 @@
 ---
-title: |-
-  Pět
-  roků
+title: Pět roků
 contentType: prose
 ---
 
