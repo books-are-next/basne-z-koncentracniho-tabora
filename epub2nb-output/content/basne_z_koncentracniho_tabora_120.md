@@ -1,6 +1,6 @@
 ---
 title: Předjaří
-contentType: prose
+contentType: poetry
 ---
 
 Již země otvírá se, život se do ní vrací,  

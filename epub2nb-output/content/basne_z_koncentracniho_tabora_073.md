@@ -1,6 +1,6 @@
 ---
 title: Za bratrem
-contentType: prose
+contentType: poetry
 ---
 
 Ty, mrtvý, o mně už nevíš, ty nedbáš, neznáš již,  

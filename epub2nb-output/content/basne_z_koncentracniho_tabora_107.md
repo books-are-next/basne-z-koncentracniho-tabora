@@ -1,6 +1,6 @@
 ---
 title: Mrtvým
-contentType: prose
+contentType: poetry
 ---
 
 V zármutku černý flór se svěsil přes mramor,  

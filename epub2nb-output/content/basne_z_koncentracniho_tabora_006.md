@@ -1,6 +1,6 @@
 ---
 title: Úvodní
-contentType: prose
+contentType: poetry
 ---
 
 Za těla i duše trápení  

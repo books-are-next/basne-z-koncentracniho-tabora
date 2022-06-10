@@ -1,6 +1,6 @@
 ---
 title: Mrtvé s vozu…
-contentType: prose
+contentType: poetry
 ---
 
 Mrtvé s vozu shazovali jako dříví — ne jak dříví,  

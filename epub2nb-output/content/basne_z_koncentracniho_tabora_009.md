@@ -1,6 +1,6 @@
 ---
 title: Rozbřesk
-contentType: prose
+contentType: poetry
 ---
 
 Eh, přece je to pravda  

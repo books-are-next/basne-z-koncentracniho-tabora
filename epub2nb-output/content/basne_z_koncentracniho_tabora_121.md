@@ -1,6 +1,6 @@
 ---
 title: Čekání
-contentType: prose
+contentType: poetry
 ---
 
 Temný svazek člověčiny v černých tmách,  

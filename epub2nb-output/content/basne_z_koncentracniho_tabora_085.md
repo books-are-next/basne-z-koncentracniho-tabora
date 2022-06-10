@@ -1,6 +1,6 @@
 ---
 title: Té ohavnosti
-contentType: prose
+contentType: poetry
 ---
 
 Té ohavnosti, křivdy, bídy té,  

@@ -1,6 +1,6 @@
 ---
 title: Mužové
-contentType: prose
+contentType: poetry
 ---
 
 Až na dno pekel bylo nám sestoupit,  

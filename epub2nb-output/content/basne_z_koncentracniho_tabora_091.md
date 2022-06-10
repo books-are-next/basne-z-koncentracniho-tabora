@@ -1,6 +1,6 @@
 ---
 title: Prosinec 1944
-contentType: prose
+contentType: poetry
 ---
 
 Nad blátem tábora pár holých stromů  

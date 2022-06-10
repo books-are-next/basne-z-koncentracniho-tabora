@@ -1,6 +1,6 @@
 ---
 title: Rakví
-contentType: prose
+contentType: poetry
 ---
 
 Rakví jsem viděl sta a sta,  

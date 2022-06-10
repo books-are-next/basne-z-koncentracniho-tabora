@@ -1,6 +1,6 @@
 ---
 title: Ne ještě dávno
-contentType: prose
+contentType: poetry
 ---
 
 Ne, ještě dávno není konec všeho,  

@@ -1,6 +1,6 @@
 ---
 title: V zlatavé záři
-contentType: prose
+contentType: poetry
 ---
 
 V zlatavé záři podzimu asi dříme  

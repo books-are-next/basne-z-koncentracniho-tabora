@@ -1,6 +1,6 @@
 ---
 title: Mrtvého nesli
-contentType: prose
+contentType: poetry
 ---
 
 Mrtvého nesli, zas jednoho z nás,  

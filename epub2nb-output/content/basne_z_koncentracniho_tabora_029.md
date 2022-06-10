@@ -1,6 +1,6 @@
 ---
 title: Vzpomínka II
-contentType: prose
+contentType: poetry
 ---
 
 Na kamarády vzpomínám,  

@@ -1,6 +1,6 @@
 ---
 title: Básníci
-contentType: prose
+contentType: poetry
 ---
 
 Básníci imaginárních bolestí,  

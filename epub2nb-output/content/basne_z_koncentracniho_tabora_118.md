@@ -1,6 +1,6 @@
 ---
 title: Na naše ženy
-contentType: prose
+contentType: poetry
 ---
 
 Na ně, ušlechtilé, teď musím pomyslit, na naše ženy;  

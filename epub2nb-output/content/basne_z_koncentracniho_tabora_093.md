@@ -1,6 +1,6 @@
 ---
 title: Ve výročí úmrtí
-contentType: prose
+contentType: poetry
 ---
 
 Dnes před lety, truchlivé loučení,  

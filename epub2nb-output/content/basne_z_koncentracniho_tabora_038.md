@@ -1,6 +1,6 @@
 ---
 title: Kdysi
-contentType: prose
+contentType: poetry
 ---
 
 Kdysi  

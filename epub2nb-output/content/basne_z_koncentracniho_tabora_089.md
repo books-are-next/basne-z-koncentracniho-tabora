@@ -1,6 +1,6 @@
 ---
 title: Tak mnohý
-contentType: prose
+contentType: poetry
 ---
 
 Tak mnohý temný den  

@@ -1,6 +1,6 @@
 ---
 title: Zpěvák
-contentType: prose
+contentType: poetry
 ---
 
 Ty oči tesklivé a smutné tak!  

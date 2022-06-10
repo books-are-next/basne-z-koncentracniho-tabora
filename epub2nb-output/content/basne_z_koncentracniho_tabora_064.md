@@ -1,6 +1,6 @@
 ---
 title: V bouřlivém dění
-contentType: prose
+contentType: poetry
 ---
 
 V bouřlivém dění plném děsu, běd,  

@@ -1,6 +1,6 @@
 ---
 title: Tak se rozlétnout
-contentType: prose
+contentType: poetry
 ---
 
 Tak se rozlétnout tím modrým prostorem,  

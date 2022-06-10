@@ -1,6 +1,6 @@
 ---
 title: Těžká chvíle
-contentType: prose
+contentType: poetry
 ---
 
 Černá peruť mne nestíní,  

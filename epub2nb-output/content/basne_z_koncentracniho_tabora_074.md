@@ -1,6 +1,6 @@
 ---
 title: Pět roků
-contentType: prose
+contentType: poetry
 ---
 
 Pět roků uvězněn za živa nežil jsem,  

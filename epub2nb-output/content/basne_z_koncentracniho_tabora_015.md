@@ -1,6 +1,6 @@
 ---
 title: Únava
-contentType: prose
+contentType: poetry
 ---
 
 Hnusnosti kalných oken uprášených,  

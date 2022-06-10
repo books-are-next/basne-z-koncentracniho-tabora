@@ -1,6 +1,6 @@
 ---
 title: Ten tichý hlas
-contentType: prose
+contentType: poetry
 ---
 
 Ten tichý vyčítavý hlas,  

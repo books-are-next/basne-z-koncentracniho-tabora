@@ -1,6 +1,6 @@
 ---
 title: Z jara
-contentType: prose
+contentType: poetry
 ---
 
 Jitro svou náruč dychtivě rozpnulo do dálek  

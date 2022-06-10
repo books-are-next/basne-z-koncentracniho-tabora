@@ -1,6 +1,6 @@
 ---
 title: Stříbrným krajkovím
-contentType: prose
+contentType: poetry
 ---
 
 Stříbrným krajkovím oblaka se vroubí,  

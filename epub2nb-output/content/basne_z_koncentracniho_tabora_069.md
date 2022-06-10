@@ -1,6 +1,6 @@
 ---
 title: Pátý rok
-contentType: prose
+contentType: poetry
 ---
 
 Každým dechnutím toužím,  

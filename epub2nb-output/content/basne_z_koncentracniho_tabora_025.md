@@ -1,6 +1,6 @@
 ---
 title: Čas příliš pomalý
-contentType: prose
+contentType: poetry
 ---
 
 Čas příliš pomalý se nad mými dny vláčí,  

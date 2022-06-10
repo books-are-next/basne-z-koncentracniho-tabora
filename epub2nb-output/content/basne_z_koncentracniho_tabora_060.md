@@ -1,6 +1,6 @@
 ---
 title: Já dávno života zvuk šťastný nezaslech…
-contentType: prose
+contentType: poetry
 ---
 
 To bledé ticho, přičernalé, nebo černé též,  

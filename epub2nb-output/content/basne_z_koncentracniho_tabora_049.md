@@ -1,6 +1,6 @@
 ---
 title: Místo dopisu
-contentType: prose
+contentType: poetry
 ---
 
 Tak chtělo by se vypovědět čeho duše plna,  

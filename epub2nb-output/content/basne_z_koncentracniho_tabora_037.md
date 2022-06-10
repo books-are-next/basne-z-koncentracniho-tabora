@@ -1,6 +1,6 @@
 ---
 title: Obrazy
-contentType: prose
+contentType: poetry
 ---
 
 Tak modrý  

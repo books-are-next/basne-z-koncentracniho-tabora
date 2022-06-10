@@ -1,6 +1,6 @@
 ---
 title: Verše
-contentType: prose
+contentType: poetry
 ---
 
 Tak dálo se mně uvidět:  

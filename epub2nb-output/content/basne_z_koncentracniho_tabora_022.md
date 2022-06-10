@@ -1,6 +1,6 @@
 ---
 title: Vězeňská procházka II
-contentType: prose
+contentType: poetry
 ---
 
 Čas dáví ze sebe zas jeden den,  

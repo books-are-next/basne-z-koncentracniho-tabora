@@ -1,6 +1,6 @@
 ---
 title: Čekání
-contentType: prose
+contentType: poetry
 ---
 
 Tak stále čekám, čekám jen,  

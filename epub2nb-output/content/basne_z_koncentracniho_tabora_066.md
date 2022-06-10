@@ -1,6 +1,6 @@
 ---
 title: Čekání
-contentType: prose
+contentType: poetry
 ---
 
 Jak dlouhý, dlouhý čas a života jak málo!  

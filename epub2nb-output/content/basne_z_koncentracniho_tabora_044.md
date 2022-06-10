@@ -1,6 +1,6 @@
 ---
 title: Škoda přeškoda
-contentType: prose
+contentType: poetry
 ---
 
 Škoda, přeškoda zhanobeného  

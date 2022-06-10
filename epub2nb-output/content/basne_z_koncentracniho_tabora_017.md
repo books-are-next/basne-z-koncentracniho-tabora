@@ -1,6 +1,6 @@
 ---
 title: Tíseň
-contentType: prose
+contentType: poetry
 ---
 
 Hej, vzhůru, bijí na zvonec,  

@@ -1,6 +1,6 @@
 ---
 title: Na chvilku zvolni svůj běh
-contentType: prose
+contentType: poetry
 ---
 
 Jen na chvilku zvolni svůj běh  

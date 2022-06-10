@@ -1,6 +1,6 @@
 ---
 title: Ač jeden jen lidský život
-contentType: prose
+contentType: poetry
 ---
 
 Ač jeden jen lidský život, ač jenom zčásti  

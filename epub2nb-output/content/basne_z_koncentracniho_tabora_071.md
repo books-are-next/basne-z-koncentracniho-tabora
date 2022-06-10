@@ -1,6 +1,6 @@
 ---
 title: Pět roků
-contentType: prose
+contentType: poetry
 ---
 
 Pět roků v žaláři už život ztrácím,  

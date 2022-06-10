@@ -1,6 +1,6 @@
 ---
 title: Ráno
-contentType: prose
+contentType: poetry
 ---
 
 Závoje noci už rozehnal ranní van,  

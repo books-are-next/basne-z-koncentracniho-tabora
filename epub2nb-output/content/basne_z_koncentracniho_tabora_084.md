@@ -1,6 +1,6 @@
 ---
 title: Verše
-contentType: prose
+contentType: poetry
 ---
 
 Jen kroků několik od Smrti jsme žili,  

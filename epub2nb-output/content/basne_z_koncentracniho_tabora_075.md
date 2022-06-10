@@ -1,6 +1,6 @@
 ---
 title: Nechť
-contentType: prose
+contentType: poetry
 ---
 
 Nechť hrůza, hnus, nechť bída, soužení,  

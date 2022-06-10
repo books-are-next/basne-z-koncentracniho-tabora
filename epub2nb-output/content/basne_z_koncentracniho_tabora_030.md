@@ -1,6 +1,6 @@
 ---
 title: Den i noc
-contentType: prose
+contentType: poetry
 ---
 
 Ach, kdy už bude konec toho dne!  

@@ -1,6 +1,6 @@
 ---
 title: Nechť jak chce zle
-contentType: prose
+contentType: poetry
 ---
 
 Nechť jak chce zle, nechť sebe hůř,  

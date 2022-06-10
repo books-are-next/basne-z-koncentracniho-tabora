@@ -1,6 +1,6 @@
 ---
 title: Mé srdce
-contentType: prose
+contentType: poetry
 ---
 
 Mé srdce je plno děsu,  

@@ -1,6 +1,6 @@
 ---
 title: Lidskost a přátelství
-contentType: prose
+contentType: poetry
 ---
 
 Lidskost a přátelství chci velebit  

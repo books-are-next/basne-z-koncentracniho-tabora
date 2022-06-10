@@ -1,6 +1,6 @@
 ---
 title: Na máchovský motiv
-contentType: prose
+contentType: poetry
 ---
 
 Zlatého jitra sen mne roztoužil,  

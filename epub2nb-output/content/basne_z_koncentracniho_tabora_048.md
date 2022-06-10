@@ -1,6 +1,6 @@
 ---
 title: K Rilkově básni
-contentType: prose
+contentType: poetry
 ---
 
 V zahradách božích mlčky jíti  

@@ -1,6 +1,6 @@
 ---
 title: Těžkomyslnost (K\. Cidlíkovi)
-contentType: prose
+contentType: poetry
 ---
 
 ## I.

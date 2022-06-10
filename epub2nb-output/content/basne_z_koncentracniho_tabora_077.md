@@ -1,6 +1,6 @@
 ---
 title: Listopad 1944
-contentType: prose
+contentType: poetry
 ---
 
 Mokro, siro, šeré nebe,  

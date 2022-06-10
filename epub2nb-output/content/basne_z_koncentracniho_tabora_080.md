@@ -1,6 +1,6 @@
 ---
 title: Chvíle beznaděje
-contentType: prose
+contentType: poetry
 ---
 
 Marně, marně vyhlížím,  

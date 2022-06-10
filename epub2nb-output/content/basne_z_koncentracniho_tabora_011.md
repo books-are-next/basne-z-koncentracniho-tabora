@@ -1,6 +1,6 @@
 ---
 title: Vzpomínka I
-contentType: prose
+contentType: poetry
 ---
 
 Stesk s vírou, tíha s nadějí,  

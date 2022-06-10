@@ -1,6 +1,6 @@
 ---
 title: Mé dceři
-contentType: prose
+contentType: poetry
 ---
 
 Tak se mně nyní zdá, má dcerko, moje dítě,  

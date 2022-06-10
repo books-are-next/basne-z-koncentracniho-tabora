@@ -1,6 +1,6 @@
 ---
 title: Čas zajetí
-contentType: prose
+contentType: poetry
 ---
 
 To není život, to je rakev tísnivá,  

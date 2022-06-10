@@ -1,6 +1,6 @@
 ---
 title: Vítr
-contentType: prose
+contentType: poetry
 ---
 
 Kdo to zde po tmě pláče — co to je?  

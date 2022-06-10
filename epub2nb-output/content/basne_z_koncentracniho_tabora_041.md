@@ -1,6 +1,6 @@
 ---
 title: Melancholie
-contentType: prose
+contentType: poetry
 ---
 
 Sta a sta těl na sebe natlačených,  
