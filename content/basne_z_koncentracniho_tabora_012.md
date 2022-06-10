@@ -3,6 +3,8 @@ title: Čekání
 contentType: poetry
 ---
 
+<section>
+
 Tak stále čekám, čekám jen,  
 víc nemohu než ustavičně čekat,  
 ať sláb, ať úzkostmi jsem usoužen,  
@@ -24,3 +26,5 @@ Ach, kdypak já, ach, kdy už jen
 z času čekání vymaněn  
 času radosti zažiji zas  
 čirý a bystrý proud?
+
+</section>

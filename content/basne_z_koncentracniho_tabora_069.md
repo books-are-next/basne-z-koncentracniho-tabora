@@ -3,6 +3,8 @@ title: Pátý rok
 contentType: poetry
 ---
 
+<section>
+
 Každým dechnutím toužím,  
 každým dechnutím doufám  
 a každým věřím;  
@@ -20,3 +22,5 @@ tak žiji čas a tak jím skomírám
 a se mnou tisíce, tak na tisíce nás,  
 a přece jsem v svém toužení tak sám,  
 jak tepem, dechem svým svůj měřím čas.
+
+</section>

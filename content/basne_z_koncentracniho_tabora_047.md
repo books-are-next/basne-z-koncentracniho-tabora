@@ -3,6 +3,8 @@ title: Ač jeden jen lidský život
 contentType: poetry
 ---
 
+<section>
+
 Ač jeden jen lidský život, ač jenom zčásti  
 mohl jsem poznat lidskou špatnost a zlobu,  
 přec bylo jí tolik, by se mi zdála  
@@ -22,3 +24,5 @@ i tam, kde pláč, by ještě byla závist
 a podlost, krutost tam, kde zubů skřípění;  
 jí smůla nevře dost, plameny slabě hoří:  
 i v pekle samotném si ještě peklo pekel stvoří!
+
+</section>

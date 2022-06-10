@@ -3,6 +3,8 @@ title: Svlačec
 contentType: poetry
 ---
 
+<section>
+
 Ty těžký žáre srpnového dne,  
 té vůně ještě, ještě víc!  
 Tábor se škvaří v špíně ohavné,  
@@ -26,3 +28,5 @@ Kde trpělivost vzíti a kde sílu,
 já tolik toužím po štěstí, světle a míru,  
 kde sílu vzíti, vzpomínko ty vonná,  
 doma bych býti chtěl, jen doma, doma!
+
+</section>

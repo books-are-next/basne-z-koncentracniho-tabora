@@ -3,6 +3,8 @@ title: Píseň
 contentType: poetry
 ---
 
+<section>
+
 Když je ti těžko, smutno,  
 tohle já dobře znám,  
 co neštěstí je tíha  
@@ -23,3 +25,5 @@ stesk v nitru mém se setká
 povždycky s ohlasem,  
 svět světlý i svět černý  
 až do dna poznal jsem.
+
+</section>

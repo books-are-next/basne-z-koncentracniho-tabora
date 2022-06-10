@@ -3,6 +3,8 @@ title: Té ohavnosti
 contentType: poetry
 ---
 
+<section>
+
 Té ohavnosti, křivdy, bídy té,  
 té bídy zimničnatě zjitřelé,  
 boláků strachu, vředů trampoty,  
@@ -78,3 +80,5 @@ jen mrazivá cizota halí se za vaší plenou;
 nic na obzoru němém,  
                                           jen neviditelné  
 letadlo řehtá nad zemí opuštěnou.
+
+</section>

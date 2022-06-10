@@ -3,6 +3,8 @@ title: Škoda přeškoda
 contentType: poetry
 ---
 
+<section>
+
 Škoda, přeškoda zhanobeného  
 bezradostného života! Vždyť čím je tomu,  
 kdo dny svými trpí? duši i tělu  
@@ -27,3 +29,5 @@ toť život, který trýzní je a potupou,
 to stesk a žal, to bolest je, to slzy jsou,  
 to krutost je a zmar a v pekel uvržení,  
 toť hoře života, jenž žití hoden není!
+
+</section>

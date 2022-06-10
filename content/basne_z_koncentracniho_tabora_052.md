@@ -3,6 +3,8 @@ title: Ty
 contentType: poetry
 ---
 
+<section>
+
 Ty, jenž tu v hnusu, děsu zbědovaný,  
 jako Job na hnojišti drásáš svoje rány,  
 ty žalný, nebohý, tebe, sebe se ptám,  
@@ -37,3 +39,5 @@ ve svou a rodiny své záchovu,
 jenž vírem svým tě jako stéblo pohání,  
 tě navrátí zas životu a domovu:  
 byl’s hoden naděje své, svého doufání?
+
+</section>

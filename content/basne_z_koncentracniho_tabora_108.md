@@ -3,6 +3,8 @@ title: Josefu Kořínkovi
 contentType: poetry
 ---
 
+<section>
+
 Co kdysi bylo radostí,  
 tolik je nyní útrap, běd,  
 dříve mně život svátkem byl,  
@@ -29,3 +31,5 @@ i když vše mine jak zlý sen,
 co čas vzal, nevrátí se zpět,  
 kus života já ztratil jsem,  
 ten nelze nikdy oželet.
+
+</section>

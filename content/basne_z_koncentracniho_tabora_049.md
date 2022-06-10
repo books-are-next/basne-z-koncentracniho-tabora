@@ -3,6 +3,8 @@ title: Místo dopisu
 contentType: poetry
 ---
 
+<section>
+
 Tak chtělo by se vypovědět čeho duše plna,  
 slova, však slova jsou tak nevýmluvná,  
 tak prázdně vyznívají, planě!  
@@ -22,3 +24,5 @@ v prach sráží vrahy, pána i jeho slouhu
 — ty dýme, ohni, vyřiď jim mou touhu,  
 mou lásku tam těm našim, v hromu hřmění  
 jim pověz lásku mou, mé pozdravení!
+
+</section>

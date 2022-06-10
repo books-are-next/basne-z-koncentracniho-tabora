@@ -3,6 +3,8 @@ title: O naději
 contentType: poetry
 ---
 
+<section>
+
 Bylinku nevzhlednou, tobolku jen pastuší,  
 jsem ze svého okna viděl kvést a odkvétat;  
 dost na ní by bylo, abys ochořel touhou  
@@ -31,3 +33,5 @@ a právě v neštěstí se trpícího ujímá,
 — toť lidská naděje! Bohům, za jisté to mám,  
 že předem vědí vše, naděje známa není;  
 tu ze své síly smrtelné stvořil si člověk sám!
+
+</section>

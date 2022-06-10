@@ -3,6 +3,8 @@ title: Čas příliš pomalý
 contentType: poetry
 ---
 
+<section>
+
 Čas příliš pomalý se nad mými dny vláčí,  
 tak těžce na nich leží, nízko je k zemi tlačí,  
 nic nenese, nic neodnáší a pohnouti se otálí,  
@@ -27,3 +29,5 @@ Ta moudrost utěší, že vládneš dějinám
 a já jen drobný, osobní svůj osud mám  
 a ne že toužiti — čekat že úkol je těžší!  
 ta moudrost, ach, že utěší?
+
+</section>

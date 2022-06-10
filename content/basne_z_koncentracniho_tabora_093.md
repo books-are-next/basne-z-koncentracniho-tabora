@@ -3,6 +3,8 @@ title: Ve výročí úmrtí
 contentType: poetry
 ---
 
+<section>
+
 Dnes před lety, truchlivé loučení,  
 nešťastný bratr jsem u tvého lože stál  
 v žalostném úděsu; běda, ty’s umíral,  
@@ -51,3 +53,5 @@ To učiníc tě smrti odevzdala, Zabiječce
 chtivé a neúprosné; láska, ach, jen láska  
 ji nezadrží, neboť smrt je na konci všeho,  
 milé odnímá, rozdílí žal, lásku však nezabíjí…
+
+</section>

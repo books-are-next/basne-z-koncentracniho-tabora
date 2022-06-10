@@ -3,6 +3,8 @@ title: Oknem své cely…
 contentType: poetry
 ---
 
+<section>
+
 Oknem své cely vidím, jak vítr čechrá  
 řiďounkou trávu; v listopadu  
 ji v půdu zaryli, obrátili  
@@ -15,3 +17,5 @@ a v nevděčné půdě; má tesknoto, ach,
 domů se stáčí myšlenek proud:  
 tak jíti po svobodných lučinách  
 a na smutek vězení zapomenout…
+
+</section>

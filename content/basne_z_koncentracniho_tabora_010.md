@@ -3,6 +3,8 @@ title: Vězeňská procházka
 contentType: poetry
 ---
 
+<section>
+
 Obdélník kamenných zdí  
 se čtvercem železných vrat,  
 zavřený dalekou oblohou,  
@@ -14,3 +16,5 @@ vězňové dokola jdou,
 v dálce vojenské povely zní,  
 pořád dokola za sebou  
 — tak naše dni —
+
+</section>

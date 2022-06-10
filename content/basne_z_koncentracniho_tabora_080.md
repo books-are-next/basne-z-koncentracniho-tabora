@@ -3,6 +3,8 @@ title: Chvíle beznaděje
 contentType: poetry
 ---
 
+<section>
+
 Marně, marně vyhlížím,  
 darmo dychtivě ku předu zírám  
 tíživě kalným dnům vstříc,  
@@ -59,3 +61,5 @@ a nekvetou květy naděje,
 nezlátne plodů sladký dar  
 — vždyť jsem už, běda, hodně stár,  
 ach, nikdy už nebudu víno mladosti pít?!
+
+</section>

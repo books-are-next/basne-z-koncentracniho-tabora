@@ -3,6 +3,8 @@ title: Zpěvák
 contentType: poetry
 ---
 
+<section>
+
 Ty oči tesklivé a smutné tak!  
 Nějaký žal, ó jaký žal  
 tkvěl ve tváři té truchlivé,  
@@ -27,3 +29,5 @@ Sám chorý, chorým pro potěchu,
 pták jatý jsem se rozzpíval  
 tam ven, ach, ven zde ze zajetí,  
 tam ke svobodě, odtud v dál!
+
+</section>

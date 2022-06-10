@@ -3,6 +3,8 @@ title: Komíny skřípají
 contentType: poetry
 ---
 
+<section>
+
 Komíny skřípají, černou cestou se smýká  
 papíru cár, hnaný podzimním větrem;  
 bude mne někdy ještě kdo potřebovat?
@@ -22,3 +24,5 @@ kdy, ó kdy se tak obtížen navrátím domů?
 Do černé kaluže vítr cárem papíru smýká  
 na černé cestě — kdo však by zoufal?  
 zoufati nebudeš, nesmíš, i když útěchy není!
+
+</section>

@@ -3,6 +3,8 @@ title: Pocta ženám
 contentType: poetry
 ---
 
+<section>
+
 Ne na ni samu zde myslím, ne na tebe jen,  
 má ženo milovaná, která v srdci mém  
 svůj památník máš z lásky nejvděčnější;  
@@ -11,3 +13,5 @@ ty čase dnešní pro čas budoucí,
 jak zbožnou svatyni jim k poctě vysvětíš,  
 těm ženám statečným údělu přetěžkého,  
 jež na Kalvárii svůj nesly kříž!
+
+</section>

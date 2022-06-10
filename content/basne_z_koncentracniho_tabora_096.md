@@ -3,6 +3,8 @@ title: Píseň
 contentType: poetry
 ---
 
+<section>
+
 Již připozdívá se, truchlivý den  
 s večerem do náruči noci klesá,  
 mračnatý závoj stře se přes nebesa,  
@@ -15,3 +17,5 @@ všechno, co daleké a ztracené
 v ztracený vzdech náš život mění;  
 tak daleko je vše! jen moje samota  
 je se mnou, jen mé odloučení!
+
+</section>

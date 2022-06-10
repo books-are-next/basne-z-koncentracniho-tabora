@@ -3,6 +3,8 @@ title: Ten tichý hlas
 contentType: poetry
 ---
 
+<section>
+
 Ten tichý vyčítavý hlas,  
 toť mladosti mé, mládí hlas:  
 přeškoda! co jsi se mnou učinil?  
@@ -24,3 +26,5 @@ mnohé jsi konal, málo vykonal,
 svůj život ledajak jsi rozplýtval,  
 zbůhdarma, jak děravé síto;  
 teď líto je ti, pozdě je ti líto!
+
+</section>

@@ -3,6 +3,8 @@ title: Pěnkava
 contentType: poetry
 ---
 
+<section>
+
 Pěnkavko něžná, zpěváčku roztomilý,  
 ty sladká, zpíváš jako doma kdysi —  
 pro mne však žádné růže se nerozvily  
@@ -17,3 +19,5 @@ ty křídla máš, já přiražen jsem k zemi.
 dme se tvé hrudí líbezně růžové;  
 mne straší mrtví, jichž hrudi jedna rána,  
 i rozervaná srdce živých — a co mé…?
+
+</section>

@@ -3,6 +3,8 @@ title: Za bratrem Karlem
 contentType: poetry
 ---
 
+<section>
+
 O živote, já splatil ti svou daň!  
 Tvou štědrost poznal jsem i tvoji skoupou dlaň,  
 laskavost tvoji znám i strašnou krutost tvou,  
@@ -186,3 +188,5 @@ on po smrti vám všem podává ještě lásku svou
 a ještě promlouvati bude věrným bratrstvím  
 k těm, kteří po nás přijdou, k našim budoucím,  
 kdož zase po nás slávu života a jeho bídu ponesou.
+
+</section>

@@ -3,6 +3,8 @@ title: Úvodní
 contentType: poetry
 ---
 
+<section>
+
 Za těla i duše trápení  
 jsem skládal tato slova;  
 to slova nevolníkova  
@@ -15,3 +17,5 @@ kdy temno nade vším se svírá
 a prokleto se zdá být všechno bytí —  
 — Ne, nikdy ne! i tehdy na dně srdce svítí  
 nám stále ještě nepohaslá víra!
+
+</section>

@@ -3,6 +3,8 @@ title: Píseň
 contentType: poetry
 ---
 
+<section>
+
 Snad budu ještě dosti stár,  
 snad velká radost čeká mne tu:  
 velmi jsem život miloval,  
@@ -12,3 +14,5 @@ Horoucně miloval jsem svět:
 což bude-li ještě — kdož to ví? —  
 mi přáno z dáli uvidět  
 snad také i květy tajemství?
+
+</section>

@@ -3,6 +3,8 @@ title: Když plachá divá zvěř —
 contentType: poetry
 ---
 
+<section>
+
 Když plachá divá zvěř, jež v kleci zavřena,  
 když srnec zajatý, chycený lesní pták  
 se náhle utiší v strnulém pozoru,  
@@ -39,3 +41,5 @@ a ona přichází — blíží se — necítíš?
 volá tě k sobě — slyš — přichází blíž a blíž —  
 o ptáku, srnče, mne, jak rád zas viděl bych  
 nás volné, šťastně plaché v lesích svobodných!
+
+</section>

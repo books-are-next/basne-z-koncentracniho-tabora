@@ -3,6 +3,8 @@ title: Píseň
 contentType: poetry
 ---
 
+<section>
+
 Ta píseň chtěla by tvrdě znět,  
 však vzpomínka přichází měkce,  
 ztracená myšlenka na domov,  
@@ -17,3 +19,5 @@ Ach, nikdy ta píseň nedozní,
 vzdech touhy a vzkřiknutí děsu:  
 své nebe a hrůzu pekla s ním  
 navždy už v sobě teď nesu.
+
+</section>

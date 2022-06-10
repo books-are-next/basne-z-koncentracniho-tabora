@@ -3,6 +3,8 @@ title: Jako vy
 contentType: poetry
 ---
 
+<section>
+
 Jako vy, oblaka jitřní,  
 růžová, zlatá, stříbroskvoucí,  
 na nebi ještě nočním se čarovně rozžíháte,  
@@ -13,3 +15,5 @@ a planou v skvoucím perleťovém jasu
 na těžce tmoucím šeru mého času.  
 — Ó kdy už se vzbudí, kdy jen, kdy,  
 den vzejde nám, den radosti a slávy?
+
+</section>

@@ -3,6 +3,8 @@ title: Verše
 contentType: poetry
 ---
 
+<section>
+
 Tak dálo se mně uvidět:  
 svou kosu z ruky vypustíc  
 do dlaní hlavu složila  
@@ -19,3 +21,5 @@ smutna a k smrti zemdlena, ejhle, Smrt sama
 svou kosu odkládá: Dost, víc již nesnesu  
 té bídy zřít, sklízet ta přežalostná těla.  
 Proč ti? Zde raději bych já umříti chtěla!
+
+</section>

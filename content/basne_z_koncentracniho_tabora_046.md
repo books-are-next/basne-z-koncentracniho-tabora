@@ -3,6 +3,8 @@ title: Sem k nám
 contentType: poetry
 ---
 
+<section>
+
 Květiny, oblaka, větře a ptáci,  
 všechno, co na živu a co se hýbe,  
 jen k nám, sem, mezi nás! zůstaňte s námi!  
@@ -23,3 +25,5 @@ nás vězňů je krása, dobro i radost
 vrať život nám a svět — ne! dřív nežli nám  
 život vrať životu, svět zase světu,  
 pak na nás vzpomeň, pak vězně vyveď ven!
+
+</section>

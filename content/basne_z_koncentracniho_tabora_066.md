@@ -3,6 +3,8 @@ title: Čekání
 contentType: poetry
 ---
 
+<section>
+
 Jak dlouhý, dlouhý čas a života jak málo!  
 co z mládí mého jen, co ze stáří se stalo?  
 co minulo, je málo, co zbývá, ještě míň,  
@@ -37,3 +39,5 @@ nám však jen pomíjivé žití bylo přáno;
 na každého z nás čeká dílo neukončené;  
 v ráz, než bude pozdě, svobodo svolej nás:  
        vzhůru, je čas! je čas, už čas!
+
+</section>

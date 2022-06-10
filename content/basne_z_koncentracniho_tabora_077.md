@@ -3,6 +3,8 @@ title: Listopad 1944
 contentType: poetry
 ---
 
+<section>
+
 Mokro, siro, šeré nebe,  
 dvanáct rakví ráno nesli,  
 zebe, do duše až zebe,  
@@ -31,3 +33,5 @@ z bolesti a ponížení? —
 Je naděje, či už není? —  
 — Jak čas stojí, jak čas letí!  
 Vzpomínáš a líto je ti…
+
+</section>

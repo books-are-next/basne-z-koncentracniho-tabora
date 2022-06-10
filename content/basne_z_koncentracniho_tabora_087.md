@@ -3,6 +3,8 @@ title: Mužové
 contentType: poetry
 ---
 
+<section>
+
 Až na dno pekel bylo nám sestoupit,  
 my příliš poznali jsme, co je stesk a žal,  
 co ponížení, trýzeň, muka zdlouhavá,  
@@ -20,3 +22,5 @@ tisíckrát proželeli — hanbu i slávu svou,
 ne, hrdinové sotva, jistě však mučedníci;  
 ne přilbu na skráni, my korunu svou trnovou  
 jsme nesli jako mužové za lepší světa řád!
+
+</section>

@@ -3,6 +3,8 @@ title: Zářivou oponou
 contentType: poetry
 ---
 
+<section>
+
 Zářivou oponou se letní jitro zvedá,  
 jak brána radosti se otevírá,  
 klene se jako úsměv všehomíra,  
@@ -21,3 +23,5 @@ a neováže milosrdně rány,
 jež zavinila člověkova zvůle ukrutná  
 a ruka; jenom jemu samotnému  
 srdce dáno — a trýzeň a žal k němu!
+
+</section>

@@ -3,6 +3,8 @@ title: K Rilkově básni
 contentType: poetry
 ---
 
+<section>
+
 V zahradách božích mlčky jíti  
 anděly, blažený, jsi zřel,  
 jimž v duši nekonečné světlo svítí  
@@ -18,3 +20,5 @@ běsům těm do cesty se nestaví;
 jestli do jejich šklebu cos se sklání  
 jak lidský rys, toť jenom zdání,  
 jen slabost, chvilka únavy.
+
+</section>

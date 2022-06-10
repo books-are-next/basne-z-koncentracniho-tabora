@@ -3,6 +3,8 @@ title: Únava
 contentType: poetry
 ---
 
+<section>
+
 Hnusnosti kalných oken uprášených,  
 černě škvárových cest a zlého, zlého,  
 které se vleče, opakuje! Tisíce truchlých očí  
@@ -37,3 +39,5 @@ sám sobě marný, nicotný a protivný,
 tak jako ty zas sobě; oj, vy moje dny,  
 jak chcíple uplýváte, chodem hlemýždím —  
 ach, kdypak doma růže kvésti uvidím?
+
+</section>

@@ -3,6 +3,8 @@ title: V bouřlivém dění
 contentType: poetry
 ---
 
+<section>
+
 V bouřlivém dění plném děsu, běd,  
 ztajena též má bolest, skryt můj žal;  
 když v strašném boji celý svět  
@@ -26,3 +28,5 @@ jest a chce být! ó dokud dýchám, žiji,
 byť mocnějšího celku nepodstatná část,  
 byť drcen vichrem časů — nechť: zde jsem!  
 a se mnou touha má, můj o svobodě sen!
+
+</section>

@@ -3,6 +3,8 @@ title: Těžkomyslnost (K\. Cidlíkovi)
 contentType: poetry
 ---
 
+<section>
+
 ## I.
 
 Mnoho bych mohl vypovědět o tom všem,  
@@ -128,3 +130,5 @@ a oni oživnou a s hlavou vztyčenou
 jak okřídleni domů, domů jdou,  
 oni, kdož byli mrtví, tupí a zasmušilí,  
 by živi byli zas, by ještě žili, žili!
+
+</section>

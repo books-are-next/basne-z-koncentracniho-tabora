@@ -3,6 +3,8 @@ title: X
 contentType: poetry
 ---
 
+<section>
+
 Na popraviště šel  
 ku předu křepkým krokem  
 a na rtech úsměv měl  
@@ -37,3 +39,5 @@ a jasným svěžím hlasem
 „Ať žije…“ provolal,  
 stoličku zprudka odkop’  
 a život dokonal.
+
+</section>

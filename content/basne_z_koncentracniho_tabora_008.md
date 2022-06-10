@@ -3,6 +3,8 @@ title: Na spánek
 contentType: poetry
 ---
 
+<section>
+
 Byl básník,  
 který se hrozil spánku tak  
 jako propasti bez dna:  
@@ -168,3 +170,5 @@ a šťastné volné bytí —
 tebe se, spánku, nebojím,  
 tebe já miluji a ctím  
 a děkuji ti!
+
+</section>

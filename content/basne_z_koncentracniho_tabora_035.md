@@ -3,6 +3,8 @@ title: Mřížemi
 contentType: poetry
 ---
 
+<section>
+
 Smutkem a vztekem otráven  
 dívám se mřížemi žaláře daleko, ven,  
 tam do blankytu, do oblak, do mračen,  
@@ -20,3 +22,5 @@ ach, rozkoš svobody, volného pohybu!
 — Ó tvrdý úděle, aspoň mně trpělivost dej! —  
 Oblaka plynou, přes jejich rozvlněný hedváb  
 volně a hravě rozlétli se ptáci.
+
+</section>

@@ -3,6 +3,8 @@ title: Až na dně života
 contentType: poetry
 ---
 
+<section>
+
 Až na dně života jsem byl, tam dole, nejníže,  
 kde mezi ním a mezi děsem, smrtí  
 žádných už hranic není; ať den ať noc,  
@@ -22,3 +24,5 @@ a ne už tesknota a trápení a strach,
 nikoliv peklo, prokletí, nikoliv zavržení,  
 tam, kde on stálým počátkem, však zmarem není,  
 tam vzhůru ještě, žít na jeho výšinách!
+
+</section>

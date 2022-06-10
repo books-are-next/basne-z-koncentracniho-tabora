@@ -3,6 +3,8 @@ title: Na chvilku zvolni svůj běh
 contentType: poetry
 ---
 
+<section>
+
 Jen na chvilku zvolni svůj běh  
 a ptáti se nech, ty živote drsný a divý!  
 já vděčně přijímal tvůj rozmar dobrotivý,  
@@ -34,3 +36,5 @@ ty asi neznáš sám, co v silách tvých se tají,
 nadarmo se tě poddaní tví ptají,  
 ty mlčky své si po svém konáš sám,  
 já, běda, nemohu a ptám se, darmo ptám…
+
+</section>

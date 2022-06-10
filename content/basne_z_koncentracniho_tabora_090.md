@@ -3,6 +3,8 @@ title: Mé srdce
 contentType: poetry
 ---
 
+<section>
+
 Mé srdce je plno děsu,  
 hrůzami jsem naplněn,  
 je to jako černý sen,  
@@ -27,3 +29,5 @@ Duše k letu rozpíná se,
 za svobodu žít či mřít;  
 tluku, tluku, otevřít,  
 k štěstí, volnosti a kráse!
+
+</section>

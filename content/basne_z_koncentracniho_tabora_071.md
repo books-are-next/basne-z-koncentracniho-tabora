@@ -3,6 +3,8 @@ title: Pět roků
 contentType: poetry
 ---
 
+<section>
+
 Pět roků v žaláři už život ztrácím,  
 stesk, úděs, trýzeň, hnus a ponížení  
 — ach, pekel chřtán a smrti práh! —  
@@ -21,3 +23,5 @@ ni svého stesku ni svých nadějí —.
 ty stání nemáš, viď, což jinak možno?  
 Nechať už všeho, všeho jsi se vzdalo,  
 lásky k domovu nikdy ne!
+
+</section>

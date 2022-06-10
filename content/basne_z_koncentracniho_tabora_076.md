@@ -3,6 +3,8 @@ title: Podzimu namále
 contentType: poetry
 ---
 
+<section>
+
 Podzimu namále, naze ční bezlistý strom,  
 ruce jsou ustydlé, i uvnitř v srdci tě zebe  
 svěravý chlad; samota, odloučení.
@@ -14,3 +16,5 @@ za slzou slza splývá; snad hledají pláč.
 Po písčité trávě mezi nahými stonky  
 podzimní větřice honí zetlelý list;  
 nechci, ba nechci mysliti na svůj osud!
+
+</section>

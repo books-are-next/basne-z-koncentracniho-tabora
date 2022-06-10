@@ -3,6 +3,8 @@ title: Lidskost a přátelství
 contentType: poetry
 ---
 
+<section>
+
 Lidskost a přátelství chci velebit  
 a všechno, co se s dobrým srdcem pojí:  
 laskavost, bodrost, ochotné soucítění,  
@@ -32,3 +34,5 @@ a ctnostem, které spojeny jsou s nimi:
 ba věru na člověčenství to nejkrásnější  
 a světa toho nejryzejší dobrodiní —  
 toť lidskosti je zář, jež nás bytostmi světla činí. —
+
+</section>

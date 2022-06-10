@@ -3,6 +3,8 @@ title: Stříbrným krajkovím
 contentType: poetry
 ---
 
+<section>
+
 Stříbrným krajkovím oblaka se vroubí,  
 tu a tam proráží modro, kdysi má radost,  
 kdysi má radost ta zářivá hra nebes  
@@ -12,3 +14,5 @@ Odpůldne snad už je na přelomu,
 úterý? středa? Vězňova duše přítomnosti nezná,  
 čím jest jí život, čas, čím včera — zítra — dnes?  
 ona nejvýše jen nadějí žije a vzpomínkami.
+
+</section>

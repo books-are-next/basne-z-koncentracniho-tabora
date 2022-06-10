@@ -3,6 +3,8 @@ title: Tíseň
 contentType: poetry
 ---
 
+<section>
+
 Hej, vzhůru, bijí na zvonec,  
 noci už dovršena míra!  
 co však to srdce, proč jen to  
@@ -17,3 +19,5 @@ Na dopis čekám z domova
 jaké už dlouhé doby —  
 ten kdyby přišel, sevřené  
 srdce zas vydechlo by!
+
+</section>

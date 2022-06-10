@@ -3,6 +3,8 @@ title: Mé dceři
 contentType: poetry
 ---
 
+<section>
+
 Tak se mně nyní zdá, má dcerko, moje dítě,  
 že nikdy jsem ti dosti neřekl, jak mám tě rád,  
 a tolik jsem se přece o tebe nastrachoval  
@@ -22,3 +24,5 @@ Já nikdy jsem ti dosti neřekl, jak mám tě rád,
 jež část jsi krve mé, ba více, duše mojí díl  
 a přec tě cele neznám, nevím dost, kdo jsi  
 a více nemohu než s něžnou úzkostí tě milovat!
+
+</section>

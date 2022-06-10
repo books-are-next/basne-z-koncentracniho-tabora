@@ -3,6 +3,8 @@ title: Jedna pravda
 contentType: poetry
 ---
 
+<section>
+
 Nechce se člověku na sebe bolest brát,  
 přijímat neštěstí, upadnout v těžký žal.  
 A pravdu má  
@@ -21,3 +23,5 @@ kdo poznal už, co životu vše dlužen jest
 pro jeho čest a slávu — a svou vlastní čest,  
 ten pravdu zná, ten jedinou tu pravdu zná,  
 pro kterou v pravdě žije se i umírá.
+
+</section>
