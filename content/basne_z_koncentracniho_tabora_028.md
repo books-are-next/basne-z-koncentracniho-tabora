@@ -1,6 +1,6 @@
 ---
 title: Co všechno
-contentType: prose
+contentType: poetry
 ---
 
 Co všechno viděly ty staré moje oči!  

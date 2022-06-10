@@ -1,6 +1,6 @@
 ---
 title: V předjaří
-contentType: prose
+contentType: poetry
 ---
 
 Jitro se vzbouzí v mrákotách; cizotou  

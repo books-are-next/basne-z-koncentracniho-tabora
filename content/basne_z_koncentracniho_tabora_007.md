@@ -1,6 +1,6 @@
 ---
 title: Za bratrem Karlem
-contentType: prose
+contentType: poetry
 ---
 
 O živote, já splatil ti svou daň!  

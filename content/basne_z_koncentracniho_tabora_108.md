@@ -1,6 +1,6 @@
 ---
 title: Josefu Kořínkovi
-contentType: prose
+contentType: poetry
 ---
 
 Co kdysi bylo radostí,  

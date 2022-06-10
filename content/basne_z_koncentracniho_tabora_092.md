@@ -1,6 +1,6 @@
 ---
 title: Štědrý den v táboře
-contentType: prose
+contentType: poetry
 ---
 
 Dnes, dceruško má, o tom sním,  

@@ -1,6 +1,6 @@
 ---
 title: Jako vy
-contentType: prose
+contentType: poetry
 ---
 
 Jako vy, oblaka jitřní,  

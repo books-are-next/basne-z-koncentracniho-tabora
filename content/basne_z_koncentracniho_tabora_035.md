@@ -1,6 +1,6 @@
 ---
 title: Mřížemi
-contentType: prose
+contentType: poetry
 ---
 
 Smutkem a vztekem otráven  

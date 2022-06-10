@@ -1,6 +1,6 @@
 ---
 title: Vítr
-contentType: prose
+contentType: poetry
 ---
 
 Ó větře, vždycky jsem tě ctil  

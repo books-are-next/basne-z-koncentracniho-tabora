@@ -1,6 +1,6 @@
 ---
 title: Šílený
-contentType: prose
+contentType: poetry
 ---
 
 Za dne i noci jsem tě, šíleného, slyšel  

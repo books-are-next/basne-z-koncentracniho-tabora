@@ -1,6 +1,6 @@
 ---
 title: Zářivou oponou
-contentType: prose
+contentType: poetry
 ---
 
 Zářivou oponou se letní jitro zvedá,  

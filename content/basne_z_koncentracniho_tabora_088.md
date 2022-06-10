@@ -1,6 +1,6 @@
 ---
 title: Pocta ženám
-contentType: prose
+contentType: poetry
 ---
 
 Ne na ni samu zde myslím, ne na tebe jen,  

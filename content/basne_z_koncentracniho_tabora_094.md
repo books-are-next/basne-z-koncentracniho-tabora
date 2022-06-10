@@ -1,6 +1,6 @@
 ---
 title: Mé ženě
-contentType: prose
+contentType: poetry
 ---
 
 V podobě dívčí zřím vás stále před sebou,  

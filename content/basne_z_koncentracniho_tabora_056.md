@@ -1,6 +1,6 @@
 ---
 title: Když plachá divá zvěř —
-contentType: prose
+contentType: poetry
 ---
 
 Když plachá divá zvěř, jež v kleci zavřena,  

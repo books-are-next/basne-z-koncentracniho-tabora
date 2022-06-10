@@ -1,6 +1,6 @@
 ---
 title: Píseň
-contentType: prose
+contentType: poetry
 ---
 
 Šedou oblohu míval jsem rád,  

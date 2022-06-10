@@ -1,6 +1,6 @@
 ---
 title: Až na dně života
-contentType: prose
+contentType: poetry
 ---
 
 Až na dně života jsem byl, tam dole, nejníže,  

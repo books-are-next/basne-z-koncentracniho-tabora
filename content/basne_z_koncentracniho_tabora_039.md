@@ -1,6 +1,6 @@
 ---
 title: Sem a tam
-contentType: prose
+contentType: poetry
 ---
 
 Sem a tam, v cele, sem a tam,  

@@ -1,6 +1,6 @@
 ---
 title: Poslední sníh
-contentType: prose
+contentType: poetry
 ---
 
 Poslední sníh na hroudách rozmrzlých  

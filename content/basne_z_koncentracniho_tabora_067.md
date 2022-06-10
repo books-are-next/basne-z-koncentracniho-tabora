@@ -1,6 +1,6 @@
 ---
 title: Ty, který…
-contentType: prose
+contentType: poetry
 ---
 
 Ty, který ve vězení  

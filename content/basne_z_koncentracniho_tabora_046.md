@@ -1,6 +1,6 @@
 ---
 title: Sem k nám
-contentType: prose
+contentType: poetry
 ---
 
 Květiny, oblaka, větře a ptáci,  

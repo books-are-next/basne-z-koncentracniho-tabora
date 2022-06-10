@@ -1,6 +1,6 @@
 ---
 title: Mrtví z Heinkel
-contentType: prose
+contentType: poetry
 ---
 
 Tam doma, doma snad v záplavě slunečné,  

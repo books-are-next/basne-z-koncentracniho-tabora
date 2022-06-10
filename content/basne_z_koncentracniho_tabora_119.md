@@ -1,6 +1,6 @@
 ---
 title: Zima
-contentType: prose
+contentType: poetry
 ---
 
 Černý tábor sněhem zastříkán jak vápnem,  

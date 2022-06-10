@@ -1,6 +1,6 @@
 ---
 title: V předjarním slunci
-contentType: prose
+contentType: poetry
 ---
 
 V předjarním slunci, budiž žel,  

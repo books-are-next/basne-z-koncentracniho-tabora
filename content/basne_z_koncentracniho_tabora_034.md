@@ -1,6 +1,6 @@
 ---
 title: Oblaka
-contentType: prose
+contentType: poetry
 ---
 
 Oblaka krásná viděl jsem,  

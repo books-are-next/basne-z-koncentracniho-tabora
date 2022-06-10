@@ -1,6 +1,6 @@
 ---
 title: Na spánek
-contentType: prose
+contentType: poetry
 ---
 
 Byl básník,  

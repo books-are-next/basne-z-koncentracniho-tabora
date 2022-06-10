@@ -1,6 +1,6 @@
 ---
 title: Ne dálka
-contentType: prose
+contentType: poetry
 ---
 
 Ne dálka dělí nás, však propast běd!  

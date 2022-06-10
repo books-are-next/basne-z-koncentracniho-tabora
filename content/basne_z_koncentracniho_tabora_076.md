@@ -1,6 +1,6 @@
 ---
 title: Podzimu namále
-contentType: prose
+contentType: poetry
 ---
 
 Podzimu namále, naze ční bezlistý strom,  

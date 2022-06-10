@@ -1,6 +1,6 @@
 ---
 title: První vydání knih Josefa Čapka
-contentType: prose
+contentType: poetry
 ---
 
 **1911**

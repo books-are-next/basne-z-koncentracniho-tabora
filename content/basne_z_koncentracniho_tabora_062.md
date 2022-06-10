@@ -1,6 +1,6 @@
 ---
 title: Zbědovaný
-contentType: prose
+contentType: poetry
 ---
 
 Zbědovaný, s košilí rozedranou,  

@@ -1,6 +1,6 @@
 ---
 title: Píseň
-contentType: prose
+contentType: poetry
 ---
 
 Ba, zažil jsem až příliš mnoho zlého  

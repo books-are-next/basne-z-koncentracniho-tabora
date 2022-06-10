@@ -1,6 +1,6 @@
 ---
 title: Píseň
-contentType: prose
+contentType: poetry
 ---
 
 Ta píseň chtěla by tvrdě znět,  

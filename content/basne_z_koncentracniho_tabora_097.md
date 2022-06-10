@@ -1,6 +1,6 @@
 ---
 title: X
-contentType: prose
+contentType: poetry
 ---
 
 Na popraviště šel  

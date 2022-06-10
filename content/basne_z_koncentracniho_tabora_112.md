@@ -1,6 +1,6 @@
 ---
 title: Komíny skřípají
-contentType: prose
+contentType: poetry
 ---
 
 Komíny skřípají, černou cestou se smýká  

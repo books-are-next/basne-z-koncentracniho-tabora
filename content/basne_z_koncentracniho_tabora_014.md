@@ -1,6 +1,6 @@
 ---
 title: Stesk
-contentType: prose
+contentType: poetry
 ---
 
 Má ženo, moje dítě, domove můj drahý,  

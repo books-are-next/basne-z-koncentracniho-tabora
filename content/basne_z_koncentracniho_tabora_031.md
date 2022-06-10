@@ -1,6 +1,6 @@
 ---
 title: Cvrček
-contentType: prose
+contentType: poetry
 ---
 
 Ustaň už, cvrčku, s tou svou rolničkou,  

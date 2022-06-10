@@ -1,6 +1,6 @@
 ---
 title: Za bratrem
-contentType: prose
+contentType: poetry
 ---
 
 Karle, můj bratře, napořád  

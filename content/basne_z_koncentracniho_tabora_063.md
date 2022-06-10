@@ -1,6 +1,6 @@
 ---
 title: Pěnkava
-contentType: prose
+contentType: poetry
 ---
 
 Pěnkavko něžná, zpěváčku roztomilý,  

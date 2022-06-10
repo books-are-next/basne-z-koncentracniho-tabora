@@ -1,6 +1,6 @@
 ---
 title: Přátelům
-contentType: prose
+contentType: poetry
 ---
 
 Dříve než odejdu s tohoto světa  

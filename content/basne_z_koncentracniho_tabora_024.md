@@ -1,6 +1,6 @@
 ---
 title: Snad nikdo
-contentType: prose
+contentType: poetry
 ---
 
 Snad nikdo nebyl ženami tak milován,  

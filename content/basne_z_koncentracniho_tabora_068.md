@@ -1,6 +1,6 @@
 ---
 title: O naději
-contentType: prose
+contentType: poetry
 ---
 
 Bylinku nevzhlednou, tobolku jen pastuší,  

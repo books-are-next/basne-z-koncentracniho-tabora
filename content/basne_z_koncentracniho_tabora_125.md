@@ -1,6 +1,6 @@
 ---
 title: Před velikou cestou
-contentType: prose
+contentType: poetry
 ---
 
 Těžké chvíle, těžké dny,  

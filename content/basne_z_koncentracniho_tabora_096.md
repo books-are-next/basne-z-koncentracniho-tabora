@@ -1,6 +1,6 @@
 ---
 title: Píseň
-contentType: prose
+contentType: poetry
 ---
 
 Již připozdívá se, truchlivý den  

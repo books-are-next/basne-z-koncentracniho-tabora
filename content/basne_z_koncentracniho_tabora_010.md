@@ -1,6 +1,6 @@
 ---
 title: Vězeňská procházka
-contentType: prose
+contentType: poetry
 ---
 
 Obdélník kamenných zdí  

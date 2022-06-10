@@ -1,6 +1,6 @@
 ---
 title: Bez názvu
-contentType: prose
+contentType: poetry
 ---
 
 Mně prožít věci zlé a strašné bylo dáno,  

@@ -1,6 +1,6 @@
 ---
 title: Vzpomínka na Karla
-contentType: prose
+contentType: poetry
 ---
 
 Jak světlé a sladké to bylo dřív,  

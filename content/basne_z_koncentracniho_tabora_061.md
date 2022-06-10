@@ -1,6 +1,6 @@
 ---
 title: Jedna pravda
-contentType: prose
+contentType: poetry
 ---
 
 Nechce se člověku na sebe bolest brát,  

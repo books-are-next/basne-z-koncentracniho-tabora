@@ -1,6 +1,6 @@
 ---
 title: Oknem své cely…
-contentType: prose
+contentType: poetry
 ---
 
 Oknem své cely vidím, jak vítr čechrá  

@@ -1,6 +1,6 @@
 ---
 title: Píseň
-contentType: prose
+contentType: poetry
 ---
 
 Z druhého světa viděl jsem  

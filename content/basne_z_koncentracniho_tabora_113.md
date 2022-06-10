@@ -1,6 +1,6 @@
 ---
 title: Byť i po noci
-contentType: prose
+contentType: poetry
 ---
 
 Byť i po noci těžké jako kámen  

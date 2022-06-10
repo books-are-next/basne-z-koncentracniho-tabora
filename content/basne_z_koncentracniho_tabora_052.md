@@ -1,6 +1,6 @@
 ---
 title: Ty
-contentType: prose
+contentType: poetry
 ---
 
 Ty, jenž tu v hnusu, děsu zbědovaný,  

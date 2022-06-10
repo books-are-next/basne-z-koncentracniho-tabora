@@ -1,6 +1,6 @@
 ---
 title: Pondělí
-contentType: prose
+contentType: poetry
 ---
 
 Zas další týden před sebou —  

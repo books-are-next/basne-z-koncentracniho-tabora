@@ -1,6 +1,6 @@
 ---
 title: Jestliže, vězni
-contentType: prose
+contentType: poetry
 ---
 
 Jestliže, vězni — dávno, jak dávno…  

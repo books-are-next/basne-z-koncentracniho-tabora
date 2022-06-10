@@ -1,6 +1,6 @@
 ---
 title: Svlačec
-contentType: prose
+contentType: poetry
 ---
 
 Ty těžký žáre srpnového dne,  
