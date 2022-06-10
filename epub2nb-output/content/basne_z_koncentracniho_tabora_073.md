@@ -3,6 +3,8 @@ title: Za bratrem
 contentType: poetry
 ---
 
+<section>
+
 Ty, mrtvý, o mně už nevíš, ty nedbáš, neznáš již,  
 ty už se nepamatuješ, že’s bratra někdy měl,  
 ne, tebe už nic netrápí, ničeho neželíš,  
@@ -15,3 +17,5 @@ ničím, ne, ničím, už nejsou, ani bledným snem,
 mně život však je útrapou; ty, mrtvý, nedbáš již,  
 co je to život v zajetí, co nesvobody stesk —  
 — ne, tebe již nic netrápí, ničeho neželíš!
+
+</section>

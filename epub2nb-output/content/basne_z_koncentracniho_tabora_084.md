@@ -3,6 +3,8 @@ title: Verše
 contentType: poetry
 ---
 
+<section>
+
 Jen kroků několik od Smrti jsme žili,  
 od Smrti jen krok,  
 těžké roky se přes nás převalily,  
@@ -44,3 +46,5 @@ muk poroby, muk otroctví a ponížení:
 což konce jim, což pomoci nám není?  
 Svobodo, spas nás! Ó vysvoboď již!  
 Od Smrti ne, však rabství sejmi s nás kříž!
+
+</section>

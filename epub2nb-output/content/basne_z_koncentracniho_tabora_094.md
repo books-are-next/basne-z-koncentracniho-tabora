@@ -3,6 +3,8 @@ title: Mé ženě
 contentType: poetry
 ---
 
+<section>
+
 V podobě dívčí zřím vás stále před sebou,  
 ještě dnes v podobě dívčí;  
 ten plachý půvab, hlavu skloněnou,  
@@ -16,3 +18,5 @@ celý svůj život s mým jste, žena má,
 statečně spjala ve všech hodinách,  
 ať brány nebes, ať sám pekel práh,  
 má jediná, má jediná!
+
+</section>

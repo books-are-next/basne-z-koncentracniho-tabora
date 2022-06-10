@@ -3,6 +3,8 @@ title: Čekání
 contentType: poetry
 ---
 
+<section>
+
 Temný svazek člověčiny v černých tmách,  
 schoulený na loži bědném,  
 obklopený nejasnem a neprůhlednem,  
@@ -33,3 +35,5 @@ trpělivý, nedočkavý, čekám nečinně
 to má být všechen čin, že jsem si nezoufal?  
 ač živ, jsem nežil, nežije žil jsem, ach,  
 bědný svazek člověčiny v černých temnotách!
+
+</section>

@@ -3,6 +3,8 @@ title: Vítr
 contentType: poetry
 ---
 
+<section>
+
 Kdo to zde po tmě pláče — co to je?  
 to zbitý naříká či nemocný  
 tu bez útěchy štká a běduje  
@@ -33,3 +35,5 @@ tu běsi chechtají se posupně
 nad zemí ubohou, jež propadá se v tmě  
 jim v plen, a nešťastná a zavržená  
 kvílením větru běduje a sténá.
+
+</section>

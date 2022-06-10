@@ -3,6 +3,8 @@ title: Píseň
 contentType: poetry
 ---
 
+<section>
+
 Z druhého světa viděl jsem  
 mřížemi vězení  
 let oblaků a úprk ptáků jen,  
@@ -18,3 +20,5 @@ do nenávratna, nikam, do ztracena,
 tam do dáli, ach, do dáli,  
 jak ptáků let, jak oblak stálá změna?  
 — Mne ztraceného jste tu nechaly!
+
+</section>

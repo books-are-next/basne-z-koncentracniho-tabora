@@ -3,6 +3,8 @@ title: Píseň
 contentType: poetry
 ---
 
+<section>
+
 Ať bolest, aťsi tesknota,  
 nechť zestaralý, šedý,  
 přec do nového života  
@@ -17,3 +19,5 @@ Volného žití a práce
 chci ještě míti svůj díl  
 — nechť starý, nehodlám vzdát se:  
 ne! ještě jsem nedožil!
+
+</section>

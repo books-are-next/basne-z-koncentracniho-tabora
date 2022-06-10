@@ -3,6 +3,8 @@ title: Tak se rozlétnout
 contentType: poetry
 ---
 
+<section>
+
 Tak se rozlétnout tím modrým prostorem,  
 s větrem se nést a s oblaky plout…  
 tak hladinám se svěřit třpytivým…  
@@ -28,3 +30,5 @@ pět let jsem uvězněn, pět roků zajatcem,
 teď šestý… Naději a víro v závrati:  
 tam v dáli svoboda už mává praporem,  
 už zřím ho přicházet, ten veliký náš den!
+
+</section>

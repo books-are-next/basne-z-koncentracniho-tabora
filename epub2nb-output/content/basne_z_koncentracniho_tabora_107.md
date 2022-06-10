@@ -3,6 +3,8 @@ title: Mrtvým
 contentType: poetry
 ---
 
+<section>
+
 V zármutku černý flór se svěsil přes mramor,  
 do shonu dne katafalk temný stroze ční,  
 do stínů věčnosti se utápějí světla smuteční  
@@ -21,3 +23,5 @@ ni světla oslavná, či palma, mramor cele nevypoví,
 co jejich vzor nám v srdci, v duchu znamená:  
 my v bědách jedinou jsme byli velkou rodinou,  
 ti zde, to nejsou mrtví jen, to Naši mrtví jsou!
+
+</section>

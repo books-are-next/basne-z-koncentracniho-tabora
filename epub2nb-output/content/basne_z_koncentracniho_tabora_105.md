@@ -3,6 +3,8 @@ title: Píseň
 contentType: poetry
 ---
 
+<section>
+
 Šedou oblohu míval jsem rád,  
 pod šedou oblohou se srdce usebírá;  
 teď šerá obloha mně srdce svírá:  
@@ -14,3 +16,5 @@ pod modrou oblohou se srdce k letu sbírá;
 teď modrá obloha mne steskem svírá:  
 blankytným nebem zkouzlen, roztoužen,  
 vím dvojnásob, že vězněm, vězněm jsem!
+
+</section>

@@ -3,6 +3,8 @@ title: Nechť jak chce zle
 contentType: poetry
 ---
 
+<section>
+
 Nechť jak chce zle, nechť sebe hůř,  
 ať toužím, trpím, hynu,  
 hluboko v srdci zpívá přec  
@@ -22,3 +24,5 @@ s důvěrou něžnou svěřuji
 svůj domov a ty svoje  
 všemu, co v světě světlého,  
 co v lidech dobrého je!
+
+</section>

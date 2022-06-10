@@ -3,6 +3,8 @@ title: Pět roků
 contentType: poetry
 ---
 
+<section>
+
 Pět roků uvězněn za živa nežil jsem,  
 pět let už nepoznal jsem volný kraj,  
 nedýchal modrý les, nespatřil žito kvést,  
@@ -23,3 +25,5 @@ líbezná svobodo! V blaženém jasu tvém
 já celý svět jsem tehdy viděl kvésti —  
 Já ztratil víc než života pět let…  
 Buď žel! — Ztratil však ve mně něco svět?
+
+</section>

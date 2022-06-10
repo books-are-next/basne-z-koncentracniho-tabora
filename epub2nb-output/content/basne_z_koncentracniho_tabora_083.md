@@ -3,6 +3,8 @@ title: Píseň
 contentType: poetry
 ---
 
+<section>
+
 Něžná píseň vzpomínání  
 tichounce se rozeznívá,  
 o tom, co kdy krásné bylo,  
@@ -18,3 +20,5 @@ s touhou tesknota se sdílí:
 nežaluj na dávné hříchy,  
 co štěstí jsme promarnili,  
 něžná písni vzpomínání!
+
+</section>

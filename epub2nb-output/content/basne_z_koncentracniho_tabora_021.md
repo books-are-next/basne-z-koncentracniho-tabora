@@ -3,6 +3,8 @@ title: Šílený
 contentType: poetry
 ---
 
+<section>
+
 Za dne i noci jsem tě, šíleného, slyšel  
 žalostně naříkati,  
 jak Meluziny kvil, když v zimních tmách  
@@ -39,3 +41,5 @@ ty chtěl bys, aby šťastnější byl tento svět,
 by dobrého v něm bylo více znát,  
 by’s hrůzou křičet nemusil v něm, viď,  
 a proklínat a žalovat!
+
+</section>

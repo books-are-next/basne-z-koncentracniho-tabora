@@ -3,6 +3,8 @@ title: Sem a tam
 contentType: poetry
 ---
 
+<section>
+
 Sem a tam, v cele, sem a tam,  
 to putování nemá východiska, cíle,  
 jen sedm kroků sem a tam,  
@@ -25,3 +27,5 @@ to nestojí za trošku přemýšlení,
 já, rozum, nic si z toho nedělám!?  
 — Sem a tam, v cele, sem a tam,  
 nedomyslíš a nedojdeš —.
+
+</section>

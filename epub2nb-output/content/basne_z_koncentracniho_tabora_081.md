@@ -3,6 +3,8 @@ title: Přátelům
 contentType: poetry
 ---
 
+<section>
+
 Dříve než odejdu s tohoto světa  
 a v nic se obrátím,  
 již ani šerý stín  
@@ -55,3 +57,5 @@ měla svůj ustavičný byt,
 ta tichá věrnost v srdci mém  
 žehnula světlým plamenem,  
 ten jenom smrt může uhasit!
+
+</section>

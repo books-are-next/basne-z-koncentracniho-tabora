@@ -3,6 +3,8 @@ title: Ty, který…
 contentType: poetry
 ---
 
+<section>
+
 Ty, který ve vězení  
 spřádáš svůj roztouženě zkrášlený sen o životě,  
 což — jestli ta tvá víra v život nic jiného není  
@@ -33,3 +35,5 @@ ne životem, však lidskou krutostí se cítím zraněn
 nevěřit v život — kde v sebe důvěru pak vzíti mám?  
 dokud jsem živ, nechť nešťastný, nechť zoufalství mne sžírá,  
 chci věřit v život — a zoufaje — přece si nezoufám!
+
+</section>

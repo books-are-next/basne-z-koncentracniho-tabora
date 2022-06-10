@@ -3,6 +3,8 @@ title: Vítr
 contentType: poetry
 ---
 
+<section>
+
 Ó větře, vždycky jsem tě ctil  
 a miloval tě obzvlášť v létě  
 na kopcích, na slunečných výšinách  
@@ -43,3 +45,5 @@ sirénu divou povzteklého jeku,
 či cokoliv, co jenom se ti ráčí,  
 a zvedni se a běsni, vaň a duj,  
 co tvoje síly i ty naše stačí!
+
+</section>

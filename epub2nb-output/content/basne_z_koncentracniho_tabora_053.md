@@ -3,6 +3,8 @@ title: Mrtví z Heinkel
 contentType: poetry
 ---
 
+<section>
+
 Tam doma, doma snad v záplavě slunečné,  
 tam doma v zahradách snad zpívají ptáci,  
 pěnkava v březoví a na vikýři kos  
@@ -42,3 +44,5 @@ to není člověk už, zde zmařen život sám,
 ne člověk sám, zde život vniveč uvržen  
 a jeho den zde proměněn ve věčnou noc,  
 jež marně o pomoc tu volá ke hvězdám!
+
+</section>

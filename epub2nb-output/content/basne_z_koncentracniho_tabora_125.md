@@ -3,6 +3,8 @@ title: Před velikou cestou
 contentType: poetry
 ---
 
+<section>
+
 Těžké chvíle, těžké dny,  
 není volby, rozhodnutí,  
 temní dnové poslední,  
@@ -17,3 +19,5 @@ Vzešel velké cesty den,
 dávno připraven jsi k tomu:  
 života či smrti žeň —  
 vždyť jdeš domů — jdeš přec domů!
+
+</section>

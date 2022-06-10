@@ -3,6 +3,8 @@ title: V předjarním slunci
 contentType: poetry
 ---
 
+<section>
+
 V předjarním slunci, budiž žel,  
 žádnou radost jsem nenašel  
 — to modré nebe, oblaků bílých let —  
@@ -18,3 +20,5 @@ co nejdále, tam nejblíž k nám!
 běda, vždyť v okovy jsem uvázán,  
 do dáli za vámi bych chtěl,  
 však místo křídel pouta mám, ó žel!
+
+</section>

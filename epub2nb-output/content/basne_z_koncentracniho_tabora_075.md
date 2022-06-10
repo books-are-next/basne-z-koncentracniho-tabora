@@ -3,6 +3,8 @@ title: Nechť
 contentType: poetry
 ---
 
+<section>
+
 Nechť hrůza, hnus, nechť bída, soužení,  
 ať dny se plíží obtěžkány tmou  
 a smrt zde pánem, trestem život je,  
@@ -22,3 +24,5 @@ nad radostmi, jež zanikly jak dým,
 jak bledý dým, když vichr zavěje,  
 ta hvězda ještě září přede mnou,  
 přec ještě plá mně hvězda naděje!
+
+</section>

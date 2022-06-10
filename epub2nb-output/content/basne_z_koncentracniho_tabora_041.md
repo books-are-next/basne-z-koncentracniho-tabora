@@ -3,6 +3,8 @@ title: Melancholie
 contentType: poetry
 ---
 
+<section>
+
 Sta a sta těl na sebe natlačených,  
 tito tam stojí, jeden pro druhého  
 se nemohouce hnouti;  
@@ -83,3 +85,5 @@ příliš je krátký, i když vězení je dlouhý stesk;
 vždyť ona sama, Melancholie, i ona, němá,  
 tu mezi námi lidmi jen bloudí, se toulá,  
 ni ona, ta žalná, nikde žádného stání nemá.
+
+</section>

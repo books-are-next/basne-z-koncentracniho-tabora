@@ -3,6 +3,8 @@ title: Obrazy
 contentType: poetry
 ---
 
+<section>
+
 Tak modrý  
 jako ta obloha,  
 tak modrý obraz chtěl bych udělat  
@@ -61,3 +63,5 @@ co vlastní úděl byl a co dal dějin proud,
 to všecko bych tam též chtěl obsáhnout  
 ve scénách, které dokola by byly ověnčeny  
 růžemi, jak snil jsem o nich ve vězení.
+
+</section>

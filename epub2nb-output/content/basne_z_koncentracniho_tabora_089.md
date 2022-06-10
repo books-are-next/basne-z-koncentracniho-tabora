@@ -3,6 +3,8 @@ title: Tak mnohý
 contentType: poetry
 ---
 
+<section>
+
 Tak mnohý temný den  
 jsem prožil v těžkém napětí:  
 ty neúkojné srdce, co je ti,  
@@ -16,3 +18,5 @@ zde není mezi námi neshody:
 rozum i srdce, uvězněni,  
 strádají v témže roztoužení;  
 jim oběma je stejně třeba svobody!
+
+</section>

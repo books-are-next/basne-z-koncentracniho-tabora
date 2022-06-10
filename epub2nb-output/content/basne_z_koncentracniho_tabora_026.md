@@ -3,6 +3,8 @@ title: Z jara
 contentType: poetry
 ---
 
+<section>
+
 Jitro svou náruč dychtivě rozpnulo do dálek  
 šedivě zamžených ze zimní ještě doby,  
 s oblaků stříbrných skřivan svou píseň drobí  
@@ -11,3 +13,5 @@ hle, rozkvétá už pryskyřník a první trsy fialek
 u cesty, po níž bědný průvod vězňů šel —  
 na domov jsem se s vlahou něhou rozpomněl  
 a se srdcem sevřeným.
+
+</section>

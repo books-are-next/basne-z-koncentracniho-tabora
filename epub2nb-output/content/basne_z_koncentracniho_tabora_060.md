@@ -3,6 +3,8 @@ title: Já dávno života zvuk šťastný nezaslech…
 contentType: poetry
 ---
 
+<section>
+
 To bledé ticho, přičernalé, nebo černé též,  
 má v sobě právě smrt; strnulé bezhlasno  
 má obzvlášť ráda, v něm plíží se a chvátí;  
@@ -36,3 +38,5 @@ kdy dočkám se, kdy znova budu slyšet zas
 Byť za živa jsem pohřben už tak dlouhý čas,  
 já žízeň života jsem ještě v sobě nepochoval:  
 ó zpívej, ptáku, zpívej, přehluš smrti hlas!
+
+</section>

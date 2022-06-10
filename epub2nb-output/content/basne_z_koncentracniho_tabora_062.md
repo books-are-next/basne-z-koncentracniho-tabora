@@ -3,6 +3,8 @@ title: Zbědovaný
 contentType: poetry
 ---
 
+<section>
+
 Zbědovaný, s košilí rozedranou,  
 v cárech, jež nezakryjí jeho rány,  
 vychrtlý, zkřehlý, s hlavou ovázanou,  
@@ -48,3 +50,5 @@ jak jsem zas rád zde mezi vámi všemi!
 — Já — totiž já — tož pravda, já to jsem —?  
 nu ano — já — jen tělo zůstalo tam v cizí zemi,  
 to tělo vzala si ta cizí zem…
+
+</section>

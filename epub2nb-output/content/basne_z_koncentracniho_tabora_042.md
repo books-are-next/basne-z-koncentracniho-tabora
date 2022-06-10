@@ -3,6 +3,8 @@ title: Mrtvé s vozu…
 contentType: poetry
 ---
 
+<section>
+
 Mrtvé s vozu shazovali jako dříví — ne jak dříví,  
 jak zkažený materiál, jako odpadky, jak smetí,  
 ach, jak ubozí jsou mrtví, jak jsme žalostní my živí,  
@@ -32,3 +34,5 @@ než sama sebe; ta zhouba, lhostejnost vzpurná, němá,
 jež stře své rány na odiv, nezná však lítost ani žal,  
 k nám živým se už nehlásí, žádný vzkaz pro nás už nemá  
 ten němý zmar, netečný škleb, mrazivý nahý děs!
+
+</section>

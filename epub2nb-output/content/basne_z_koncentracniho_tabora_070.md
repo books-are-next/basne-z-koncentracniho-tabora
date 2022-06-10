@@ -3,6 +3,8 @@ title: V zlatavé záři
 contentType: poetry
 ---
 
+<section>
+
 V zlatavé záři podzimu asi dříme  
 domov můj sladký; či utrpení snad  
 mu spáti nedá a on mlčky pláče  
@@ -20,3 +22,5 @@ tam s vámi, za vámi se toužně vydává
 pryč, odtud dál, ven z bídy té —  
 na samotářských vodách budete vy plout  
 tak tiše, pyšně, šíje vztyčené!
+
+</section>

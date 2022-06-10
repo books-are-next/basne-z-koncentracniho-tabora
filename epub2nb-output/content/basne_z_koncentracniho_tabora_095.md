@@ -3,6 +3,8 @@ title: Píseň
 contentType: poetry
 ---
 
+<section>
+
 Světlé radosti světlých dnů,  
 příliš, až příliš mnoho  
 jsem zažil lidského hoře!  
@@ -14,3 +16,5 @@ Růžemi, domove můj! růžemi
 rozkvěť a zahoř ó milený  
 domove můj, můj osude,  
 nikdy jich, nikdy příliš nebude!
+
+</section>

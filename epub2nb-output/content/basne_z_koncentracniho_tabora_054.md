@@ -3,6 +3,8 @@ title: Mrtvého nesli
 contentType: poetry
 ---
 
+<section>
+
 Mrtvého nesli, zas jednoho z nás,  
 codenní smrti žeň;  
 mrtvých já, tolik mrtvých viděl jsem  
@@ -32,3 +34,5 @@ co život uložil i odepřel,
 své ano, nikoli,  
 radosti, úsměvy, trýzeň i žel,  
 — tam už nic nebolí!
+
+</section>

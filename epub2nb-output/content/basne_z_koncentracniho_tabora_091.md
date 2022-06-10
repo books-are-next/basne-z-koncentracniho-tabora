@@ -3,6 +3,8 @@ title: Prosinec 1944
 contentType: poetry
 ---
 
+<section>
+
 Nad blátem tábora pár holých stromů  
 ční k obloze jak ruce prosebné —  
 ó ruce prázdné, marně žádající,  
@@ -27,3 +29,5 @@ Už šesté vánoce… Jak dlouho ještě, jak?
 to dlouhé čekání nakonec utrápí tě:  
 ty přece doma ženu máš a dítě —.  
 — Po šedém nebi vzhůru se vznes’ pták. —
+
+</section>

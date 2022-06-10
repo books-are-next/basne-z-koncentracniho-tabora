@@ -3,6 +3,8 @@ title: Den i noc
 contentType: poetry
 ---
 
+<section>
+
 Ach, kdy už bude konec toho dne!  
 Tak těžce tíží a nic neváží,  
 jen protivnosti přines’ šeredné;  
@@ -16,3 +18,5 @@ vzpomínek trapných, myšlenek bezmoci
 obludný rozpřádá chuchvalec;  
 ty noci bez pomoci, spáti dej mi přec! —  
 ach, kdy už zase bude den!
+
+</section>

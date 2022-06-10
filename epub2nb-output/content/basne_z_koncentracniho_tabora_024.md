@@ -3,6 +3,8 @@ title: Snad nikdo
 contentType: poetry
 ---
 
+<section>
+
 Snad nikdo nebyl ženami tak milován,  
 ach, tolik milován,  
 jako jsme byli milováni my,  
@@ -27,3 +29,5 @@ ty sladké sny a krásné plány,
 co lásky ještě splatné, dlužné, nevyžité:  
 vy krásné sny a něžná, vděčná přání,  
 kéž ve štěstí a radosti se vyplníte!
+
+</section>

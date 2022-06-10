@@ -3,6 +3,8 @@ title: Píseň
 contentType: poetry
 ---
 
+<section>
+
 Kdysi, ba dávno tomu, žel,  
 milenci mladí, blažení,  
 nám zdálo se, že ráj se otevřel,  
@@ -16,3 +18,5 @@ chřtán pekel se před námi rozevřel
 a všechno vzal nám, všechno rozkotal,  
 však lásku, kterou na světě nic nezmaří,  
 tu přec si, drahá, odnášíme do stáří!
+
+</section>

@@ -3,6 +3,8 @@ title: Pět roků
 contentType: poetry
 ---
 
+<section>
+
 Pět roků černých, ohavných,  
 žalostných hořkých pět let,  
 ó těch dnů těžkých, proklatých,  
@@ -32,3 +34,5 @@ volnost jak bouře přilétne
 a spásu přinese; pak vím,  
 že darmo netrpím, ba ne,  
 pak život marně netratím!
+
+</section>

@@ -3,6 +3,8 @@ title: Rozbřesk
 contentType: poetry
 ---
 
+<section>
+
 Eh, přece je to pravda  
 a není to zlý sen,  
 že v žaláři tě budí  
@@ -31,3 +33,5 @@ a z dalších dnů ten další
 ti níž zas skloní šíj  
 v skutečnosti a čase,  
 hic salta: tady žij!
+
+</section>

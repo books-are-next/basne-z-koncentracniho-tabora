@@ -3,6 +3,8 @@ title: Kdysi
 contentType: poetry
 ---
 
+<section>
+
 Kdysi  
 za časů šťastnějších  
 jsem se nemohl dočkati rána,  
@@ -16,3 +18,5 @@ s příchodem večera unikáš dnu
 těžkému, ach, a nekonečnému,  
 snad tě už ničím zlým nepřekvapí;  
 čím ale zítřek, zítřek zas tě ztrápí!
+
+</section>

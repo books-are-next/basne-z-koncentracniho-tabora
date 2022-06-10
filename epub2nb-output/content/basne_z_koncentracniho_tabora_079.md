@@ -3,6 +3,8 @@ title: Píseň
 contentType: poetry
 ---
 
+<section>
+
 Když vstoupil jsem do slunečného rána  
 pod jasnou, šiře rozklenutou oblohu,  
 po svobodě jsem roztoužil se divě:  
@@ -26,3 +28,5 @@ tou skvoucí oblohou se vydat v dálnou pout
 — tak rozletět se širou oblohou! —  
 však žel, mám jen svůj stesk a touhu svou,  
 běda, že nemám křídel jako pták!
+
+</section>

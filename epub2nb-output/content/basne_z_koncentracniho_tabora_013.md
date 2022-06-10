@@ -3,6 +3,8 @@ title: Bez názvu
 contentType: poetry
 ---
 
+<section>
+
 Mně prožít věci zlé a strašné bylo dáno,  
 teď zděšen stojím na okraji života;  
 můj úděl věru těžký je, ach ano,  
@@ -16,3 +18,5 @@ Zděšen teď stojím života na okraji…
 a horší ještě, vím a uznávám:  
 tím hůře však, tím děsivěji,  
 tím truchlivěji, že to nejsem sám!
+
+</section>

@@ -3,6 +3,8 @@ title: Těžká chvíle
 contentType: poetry
 ---
 
+<section>
+
 Černá peruť mne nestíní,  
 nedrtí příkrov hrobu, však těžká chvíle,  
 těžkého času část, dusivá, temná  
@@ -25,3 +27,5 @@ jak my, jimž dáno jen kratinké žití,
 jak přečkáme, co nás tak smrtelně drtí,  
 zda přetrváme, ach běda, sami jen stín,  
 těžký stín těžké chvíle?
+
+</section>

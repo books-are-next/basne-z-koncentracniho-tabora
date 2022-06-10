@@ -3,6 +3,8 @@ title: Píseň
 contentType: poetry
 ---
 
+<section>
+
 Ba, zažil jsem až příliš mnoho zlého  
 můj život strašlivou je jámou běd,  
 má píseň úděs je a hrůza z všeho,  
@@ -18,3 +20,5 @@ být září jitra, duhou, jasem slunečným:
 slyš jásot, zvony slavně hlaholí,  
 hle, pyšně rozvlály se prapory:  
        Ó gloria! Victoria!
+
+</section>

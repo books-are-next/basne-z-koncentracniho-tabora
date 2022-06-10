@@ -3,6 +3,8 @@ title: Oblaka
 contentType: poetry
 ---
 
+<section>
+
 Oblaka krásná viděl jsem,  
 tak skvoucí, stříbrná a zlatá,  
 nad koncentračním táborem  
@@ -62,3 +64,5 @@ v hře věčné, věčně neznavené,
 zas hasnout, zas se rozplývat —  
 Nad táborem se večer klene,  
 už počal vězňům hvězdy rozžíhat.
+
+</section>
