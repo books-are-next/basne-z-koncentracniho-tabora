@@ -20,7 +20,7 @@ a ptačí zpěv a cos měl venku rád,
 vidina krajů s modrou dálavou,  
 do které nyvý stesk se touží roztoulat  
 — to vše je volnost, však volnost je ještě  
-                                                                     mnohem víc,  
+             mnohem víc,  
 svoboda, toť sám tvůj dech a duch, ba ještě víc:  
 dech tvého dechu a duch ducha tvého;  
 máš-li mít toto vše, pak musíš býti svoboden  
