@@ -59,7 +59,7 @@ A u své práce stát! — Což jestli nikdy snad —
 Kopce a lesní stín měl jsem tak rád!  
 Pátý rok, pátý…
 
-                            a pak už nic, už nic —.
+             a pak už nic, už nic —.
 
 Pouště a temné rokle míjejíc,  
 se do vězení snesla šerá, němá,  

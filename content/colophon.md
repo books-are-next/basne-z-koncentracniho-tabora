@@ -2,7 +2,6 @@
 title: Tiráž
 ---
 
-<section>  
 **Josef Čapek**  
 **Básně z koncentračního tábora**  
 Edice Bratři Čapkové  
@@ -10,8 +9,11 @@ Obálka Alena Kubíková
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-</section>  
-1. vydání z 11. 6. 2022.
+1. vydání z 13. 6. 2022.
+
+***
+
+Znění tohoto textu vychází z díla [Básně z koncentračního tábora](https://aleph.nkp.cz/F/?func=direct&doc_number=000165666&local_base=NKC) tak, jak bylo vydáno v Praze nakladatelstvím František Borový v roce 1946. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ***
 

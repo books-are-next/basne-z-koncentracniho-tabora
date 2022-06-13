@@ -69,16 +69,16 @@ Nehnuta, nedotčena, ničím pozemským
 ty nechceš zkaliti svou čistou hlať,  
 tak tomu je. Tak strašně.
 
-                                          Nikoliv,  
+                         Nikoliv,  
 nezřím, že přes nepohnutou tvoji líc  
 by spásně sklouzal trestající div  
 andělů apokalyptických.
 
-                                          Ach, nebesa, nic?  
+             Ach, nebesa, nic?  
 jak prázdná jste, lhostejná, pustá,  
 jen mrazivá cizota halí se za vaší plenou;  
 nic na obzoru němém,  
-                                          jen neviditelné  
+             jen neviditelné  
 letadlo řehtá nad zemí opuštěnou.
 
 </section>
