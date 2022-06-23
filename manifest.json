@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-basne-z-koncentracniho-tabora-437b52e",
-  "revision": "437b52e",
+  "identifier": "capek-basne-z-koncentracniho-tabora-eeb4ab4",
+  "revision": "eeb4ab4",
   "readingOrder": [
     "promo.html",
     "basne_z_koncentracniho_tabora_005.html",
@@ -139,8 +139,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:46:04 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655271964790
+    "date": "Thu Jun 23 2022 09:53:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655978014099
   },
   "documents": [
     {
