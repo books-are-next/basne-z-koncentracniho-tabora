@@ -139,7 +139,7 @@ readingOrder:
   - basne_z_koncentracniho_tabora_126.html
   - basne_z_koncentracniho_tabora_127.html
   - basne_z_koncentracniho_tabora_128.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

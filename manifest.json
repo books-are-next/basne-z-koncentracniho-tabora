@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-basne-z-koncentracniho-tabora-eeb4ab4",
-  "revision": "eeb4ab4",
+  "identifier": "capek-basne-z-koncentracniho-tabora-b1ef42e",
+  "revision": "b1ef42e",
   "readingOrder": [
     "promo.html",
     "basne_z_koncentracniho_tabora_005.html",
@@ -136,11 +136,11 @@
     "basne_z_koncentracniho_tabora_126.html",
     "basne_z_koncentracniho_tabora_127.html",
     "basne_z_koncentracniho_tabora_128.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 09:53:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978014099
+    "date": "Thu Jul 07 2022 08:15:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181737740
   },
   "documents": [
     {
@@ -469,7 +469,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vzpomínka na Karla",
+          "name": "Vzpomínka na Karla",
           "id": null,
           "children": []
         }
@@ -669,7 +669,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Den i noc",
+          "name": "Den i noc",
           "id": null,
           "children": []
         }
@@ -849,7 +849,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Sem a tam",
+          "name": "Sem a tam",
           "id": null,
           "children": []
         }
@@ -909,7 +909,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Mrtvé s vozu…",
+          "name": "Mrtvé s vozu…",
           "id": null,
           "children": []
         }
@@ -989,7 +989,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Sem k nám",
+          "name": "Sem k nám",
           "id": null,
           "children": []
         }
@@ -1129,7 +1129,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Mrtví z Heinkel",
+          "name": "Mrtví z Heinkel",
           "id": null,
           "children": []
         }
@@ -1909,7 +1909,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Štědrý den v táboře",
+          "name": "Štědrý den v táboře",
           "id": null,
           "children": []
         }
@@ -2329,7 +2329,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Byť i po noci",
+          "name": "Byť i po noci",
           "id": null,
           "children": []
         }
@@ -2369,7 +2369,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Až na dně života",
+          "name": "Až na dně života",
           "id": null,
           "children": []
         }
@@ -2509,7 +2509,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Lidskost a přátelství",
+          "name": "Lidskost a přátelství",
           "id": null,
           "children": []
         }
@@ -2571,7 +2571,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Tak se rozlétnout",
+          "name": "Tak se rozlétnout",
           "id": null,
           "children": []
         }
@@ -2631,7 +2631,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život a doba spisovatele Josefa Čapka v datech",
+          "name": "Život a doba spisovatele Josefa Čapka v datech",
           "id": null,
           "children": []
         }
@@ -2646,7 +2646,7 @@
       "role": "chapter",
       "order": 124,
       "prev": "basne_z_koncentracniho_tabora_127.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -2659,11 +2659,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 130,
-      "chars": 878,
+      "chars": 877,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "basne_z_koncentracniho_tabora_128.html",
       "next": null,
@@ -2680,8 +2680,8 @@
   ],
   "totals": {
     "all": {
-      "words": 18003,
-      "chars": 97919,
+      "words": 18002,
+      "chars": 97923,
       "ideas": 2950
     },
     "chapters": {
