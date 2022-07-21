@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-basne-z-koncentracniho-tabora-472db42",
-  "revision": "472db42",
+  "identifier": "capek-basne-z-koncentracniho-tabora-121ac2b",
+  "revision": "121ac2b",
   "readingOrder": [
     "promo.html",
     "basne_z_koncentracniho_tabora_005.html",
@@ -139,8 +139,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:57:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657187820050
+    "date": "Thu Jul 21 2022 14:41:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414485588
   },
   "documents": [
     {
@@ -2661,7 +2661,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 130,
-      "chars": 877,
+      "chars": 878,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -2680,8 +2680,8 @@
   ],
   "totals": {
     "all": {
-      "words": 18002,
-      "chars": 97923,
+      "words": 18003,
+      "chars": 97919,
       "ideas": 2950
     },
     "chapters": {
